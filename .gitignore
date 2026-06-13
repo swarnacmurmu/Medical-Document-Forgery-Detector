@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables (API keys)
+.env
+.env.local
+
+# Uploaded files (user uploads)
+uploads/
+temp_*
+
+# Dataset archives (zip files)
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Model files (if any)
+*.pkl
+*.pth
+models/
