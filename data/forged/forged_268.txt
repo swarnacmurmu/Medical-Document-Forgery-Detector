@@ -1,9 +1,9 @@
-Patient Name: Anjali Joshi
-Patient ID: P63449
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-16
-Diagnosis: Asthma
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹561,090
-Insurance Claim ID: F44334F9
-Hospital: Fortis Healthcare
+Patient Name: Priya Nair
+Patient ID: P44322
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-21
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹43,964
+Insurance Claim ID: 28DB1B2E
+Hospital: AIIMS

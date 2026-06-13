@@ -1,9 +1,9 @@
 Patient Name: Neha Joshi
-Patient ID: P19367
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-15
-Diagnosis: COVID-19
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹178,196
-Insurance Claim ID: 8109B32D
-Hospital: Fortis Healthcare
+Patient ID: P74702
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-05
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹7,695
+Insurance Claim ID: 4E1E2E37
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P67726
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-02
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹18,097
+Insurance Claim ID: AC4C5C96
+Hospital: AIIMS

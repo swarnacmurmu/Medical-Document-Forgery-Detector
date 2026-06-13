@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P82210
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-30
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹4,353
+Insurance Claim ID: CAC5FF63
+Hospital: Fortis Healthcare

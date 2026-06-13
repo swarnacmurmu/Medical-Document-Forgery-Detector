@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P10048
-Admission Date: 2026-03-27
-Discharge Date: 2026-03-28
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹103,470
-Insurance Claim ID: 69930FE9
+Patient Name: Anjali Patel
+Patient ID: P90022
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹13,802
+Insurance Claim ID: ED12F9C3
 Hospital: AIIMS

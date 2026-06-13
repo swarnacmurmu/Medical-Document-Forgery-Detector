@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P78478
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-03
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹8,526
+Insurance Claim ID: 9B96E18B
+Hospital: AIIMS

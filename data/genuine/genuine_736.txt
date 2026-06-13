@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P43910
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-30
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹9,900
+Insurance Claim ID: 423CD239
+Hospital: Manipal Hospital

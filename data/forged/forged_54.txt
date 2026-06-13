@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P19176
-Admission Date: 2026-04-23
-Discharge Date: 2026-04-25
-Diagnosis: Dengue Fever
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹71,518
-Insurance Claim ID: F5994DF5
-Hospital: Fortis Healthcare
+Patient Name: Manish Gupta
+Patient ID: P95877
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-12
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹59,136
+Insurance Claim ID: 57AD27B6
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P12710
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-02
-Diagnosis: Acute Gastroenteritis
+Patient Name: Pooja Patel
+Patient ID: P64368
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-23
+Diagnosis: Typhoid
 Treatment: Antibiotics for 5 days
-Total Amount: ₹38,223
-Insurance Claim ID: E814CAAF
-Hospital: AIIMS
+Total Amount: ₹29,291
+Insurance Claim ID: D7E67F30
+Hospital: Apollo Hospital

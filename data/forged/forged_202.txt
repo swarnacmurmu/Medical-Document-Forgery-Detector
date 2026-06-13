@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P47958
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-05
-Diagnosis: Asthma
-Treatment: Antibiotics for 5 days
-Total Amount: ₹83,451
-Insurance Claim ID: C2AD68F5
-Hospital: Lilavati Hospital
+Patient Name: Anjali Nair
+Patient ID: P72786
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-21
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹308,624
+Insurance Claim ID: D872C8BC
+Hospital: Manipal Hospital

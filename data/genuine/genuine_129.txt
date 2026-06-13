@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P29175
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-09
+Patient Name: Rajesh Kumar
+Patient ID: P35190
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-19
 Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹55,881
-Insurance Claim ID: 567808B3
+Treatment: Ceftriaxone IV
+Total Amount: ₹18,619
+Insurance Claim ID: FABF711D
 Hospital: Lilavati Hospital

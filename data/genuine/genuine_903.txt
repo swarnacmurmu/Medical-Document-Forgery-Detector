@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P46315
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-11
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹7,233
+Insurance Claim ID: 90FD6E54
+Hospital: Manipal Hospital

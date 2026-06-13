@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P39827
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-05
-Diagnosis: Acute Gastroenteritis
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹129,004
-Insurance Claim ID: EFFC07CD
-Hospital: AIIMS
+Patient Name: Rahul Kumar
+Patient ID: P59004
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-06
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹2,890
+Insurance Claim ID: A2BD597B
+Hospital: Fortis Healthcare

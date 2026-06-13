@@ -1,0 +1,9 @@
+Patient Name: Rahul Verma
+Patient ID: P10431
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-17
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹4,316
+Insurance Claim ID: D8DC8CC6
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P86649
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-10
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,342
+Insurance Claim ID: FCF29DC4
+Hospital: Apollo Hospital

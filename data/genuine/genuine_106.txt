@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P15158
-Admission Date: 2026-04-03
-Discharge Date: 2026-04-13
-Diagnosis: COVID-19
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹109,864
-Insurance Claim ID: 0FAD4B0F
-Hospital: AIIMS
+Patient Name: Neha Singh
+Patient ID: P83735
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-06
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹4,460
+Insurance Claim ID: 0972D65D
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P21314
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-08
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹21,330
+Insurance Claim ID: A08C93AD
+Hospital: Apollo Hospital

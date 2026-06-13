@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P86156
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-18
-Diagnosis: COVID-19
-Treatment: Azithromycin course
-Total Amount: ₹59,188
-Insurance Claim ID: DF1F2B1F
-Hospital: Fortis Healthcare
+Patient Name: Pooja Gupta
+Patient ID: P22473
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-31
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹11,683
+Insurance Claim ID: 4273EF3F
+Hospital: Apollo Hospital

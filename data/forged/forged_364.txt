@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P98111
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-10
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹181,449
-Insurance Claim ID: 3375B799
-Hospital: Manipal Hospital
+Patient Name: Anjali Kumar
+Patient ID: P67023
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-13
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹39,144
+Insurance Claim ID: 7C061E76
+Hospital: Apollo Hospital

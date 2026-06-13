@@ -1,9 +1,9 @@
-Patient Name: Anjali Nair
-Patient ID: P96661
-Admission Date: 2026-06-06
-Discharge Date: 2026-06-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹184,790
-Insurance Claim ID: AF5FEF5C
-Hospital: AIIMS
+Patient Name: Rajesh Sharma
+Patient ID: P14194
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-23
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹4,644
+Insurance Claim ID: 70D9B899
+Hospital: Lilavati Hospital

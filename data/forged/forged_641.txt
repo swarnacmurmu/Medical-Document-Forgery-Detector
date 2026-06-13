@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P76073
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-10
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹11,242
+Insurance Claim ID: 198AEA62
+Hospital: Fortis Healthcare

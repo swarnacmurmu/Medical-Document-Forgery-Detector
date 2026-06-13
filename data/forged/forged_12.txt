@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P66999
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-12
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹128,457
-Insurance Claim ID: F7266DC8
-Hospital: Manipal Hospital
+Patient Name: Rajesh Kumar
+Patient ID: P62375
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-05
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹64,704
+Insurance Claim ID: 698A1D33
+Hospital: Fortis Healthcare

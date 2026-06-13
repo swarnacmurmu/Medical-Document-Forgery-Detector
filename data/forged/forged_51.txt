@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P94799
-Admission Date: 2026-02-24
-Discharge Date: 2026-02-27
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹644,336
-Insurance Claim ID: 98915568
-Hospital: Apollo Hospital
+Patient Name: Manish Menon
+Patient ID: P30581
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-21
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹14,637
+Insurance Claim ID: 893FCD5E
+Hospital: Manipal Hospital

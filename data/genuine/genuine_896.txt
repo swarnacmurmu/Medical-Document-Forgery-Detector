@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P35356
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-18
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹2,832
+Insurance Claim ID: B868C881
+Hospital: Apollo Hospital

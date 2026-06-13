@@ -1,9 +1,9 @@
-Patient Name: Priya Menon
-Patient ID: P64422
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-23
+Patient Name: Priya Patel
+Patient ID: P50242
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-28
 Diagnosis: Urinary Tract Infection
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹97,916
-Insurance Claim ID: 174AD27E
-Hospital: Apollo Hospital
+Treatment: Ciprofloxacin course
+Total Amount: ₹3,115
+Insurance Claim ID: 4B966074
+Hospital: Fortis Healthcare

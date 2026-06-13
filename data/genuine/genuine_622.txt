@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P82280
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-19
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹3,609
+Insurance Claim ID: 0CEA69F4
+Hospital: AIIMS

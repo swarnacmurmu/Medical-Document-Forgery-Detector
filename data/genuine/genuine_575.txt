@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P60691
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-02
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹6,194
+Insurance Claim ID: FAA49350
+Hospital: Lilavati Hospital

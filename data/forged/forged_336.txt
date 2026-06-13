@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P50628
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-15
-Diagnosis: Pneumonia
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹426,003
-Insurance Claim ID: 35117495
-Hospital: AIIMS
+Patient Name: Rahul Menon
+Patient ID: P64829
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-25
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹11,221
+Insurance Claim ID: 81851C45
+Hospital: Apollo Hospital

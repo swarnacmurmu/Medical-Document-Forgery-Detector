@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P57312
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-24
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹12,874
+Insurance Claim ID: 1762C496
+Hospital: Apollo Hospital

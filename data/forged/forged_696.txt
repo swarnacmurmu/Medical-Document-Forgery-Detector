@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P39632
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-28
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹87,111
+Insurance Claim ID: 866BD299
+Hospital: Apollo Hospital

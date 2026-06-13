@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P94627
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-07
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹84,215
-Insurance Claim ID: A1E50FEB
-Hospital: Apollo Hospital
+Patient Name: Anjali Joshi
+Patient ID: P87974
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-28
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹2,331
+Insurance Claim ID: CBD26E0B
+Hospital: AIIMS

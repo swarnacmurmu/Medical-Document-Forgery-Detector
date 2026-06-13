@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P98616
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹7,075
+Insurance Claim ID: 088189DE
+Hospital: Fortis Healthcare

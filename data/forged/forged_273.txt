@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P59026
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-19
-Diagnosis: Type 2 Diabetes
+Patient Name: Sunita Singh
+Patient ID: P49715
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-28
+Diagnosis: Acute Gastroenteritis
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹13,183
-Insurance Claim ID: C09FD765
-Hospital: Fortis Healthcare
+Total Amount: ₹39,231
+Insurance Claim ID: 8DCE5F14
+Hospital: Lilavati Hospital

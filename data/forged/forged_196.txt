@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P60238
-Admission Date: 2026-06-07
-Discharge Date: 2026-06-16
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹825,484
-Insurance Claim ID: 01441658
-Hospital: Apollo Hospital
+Patient Name: Priya Reddy
+Patient ID: P25579
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-22
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹5,276
+Insurance Claim ID: 035BCAFA
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P79151
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-15
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹33,993
+Insurance Claim ID: 8D3A32E5
+Hospital: Lilavati Hospital

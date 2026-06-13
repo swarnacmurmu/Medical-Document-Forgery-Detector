@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P70571
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-20
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹62,775
-Insurance Claim ID: F1CE2B09
-Hospital: AIIMS
+Patient Name: Sunita Verma
+Patient ID: P89741
+Admission Date: 2026-04-22
+Discharge Date: 2026-04-23
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹8,097
+Insurance Claim ID: 21B21DCF
+Hospital: Apollo Hospital

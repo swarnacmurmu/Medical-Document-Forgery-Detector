@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P31396
-Admission Date: 2026-05-30
-Discharge Date: 2026-05-31
-Diagnosis: Typhoid
-Treatment: Rest and paracetamol
-Total Amount: ₹115,167
-Insurance Claim ID: 151DE1C1
-Hospital: Apollo Hospital
+Patient Name: Anjali Sharma
+Patient ID: P29565
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-21
+Diagnosis: Pneumonia
+Treatment: Inhaler and monitoring
+Total Amount: ₹136,728
+Insurance Claim ID: 0D906A42
+Hospital: AIIMS

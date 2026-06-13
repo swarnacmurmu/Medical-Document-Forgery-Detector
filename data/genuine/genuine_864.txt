@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P53914
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-29
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹5,713
+Insurance Claim ID: 136FE0FB
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rahul Patel
-Patient ID: P93846
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-13
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹13,707
-Insurance Claim ID: 4B023D68
-Hospital: Manipal Hospital
+Patient Name: Priya Sharma
+Patient ID: P43329
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-08
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹82,999
+Insurance Claim ID: 169744C5
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P29504
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-24
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹2,635
+Insurance Claim ID: EEE3F1CB
+Hospital: Apollo Hospital

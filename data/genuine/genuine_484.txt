@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P86339
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-26
-Diagnosis: Type 2 Diabetes
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹185,093
-Insurance Claim ID: F7B3815E
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Nair
+Patient ID: P44130
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-06
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹5,223
+Insurance Claim ID: FA4F3CB7
+Hospital: Manipal Hospital

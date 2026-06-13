@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P28242
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-26
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹14,785
+Insurance Claim ID: B8B143D6
+Hospital: Fortis Healthcare

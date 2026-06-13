@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P50561
-Admission Date: 2026-05-15
-Discharge Date: 2026-05-20
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹7,593
-Insurance Claim ID: F0F974DD
-Hospital: Fortis Healthcare
+Patient Name: Neha Menon
+Patient ID: P64156
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-06
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹12,217
+Insurance Claim ID: 8B361F1B
+Hospital: Apollo Hospital

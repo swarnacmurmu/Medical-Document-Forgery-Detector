@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P55016
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-11
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹41,955
+Insurance Claim ID: 6F1B57EB
+Hospital: Manipal Hospital

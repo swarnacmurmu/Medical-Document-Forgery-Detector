@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P10200
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-29
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹4,622
+Insurance Claim ID: BDBE7F1E
+Hospital: AIIMS

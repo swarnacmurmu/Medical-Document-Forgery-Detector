@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P18927
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-22
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹380,560
-Insurance Claim ID: 312C3944
-Hospital: Manipal Hospital
+Patient Name: Priya Singh
+Patient ID: P97959
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-20
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹7,270
+Insurance Claim ID: 2F45CB86
+Hospital: Lilavati Hospital

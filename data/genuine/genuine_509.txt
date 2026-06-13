@@ -1,0 +1,9 @@
+Patient Name: Anjali Reddy
+Patient ID: P86371
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-20
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹3,753
+Insurance Claim ID: 79EEB407
+Hospital: Apollo Hospital

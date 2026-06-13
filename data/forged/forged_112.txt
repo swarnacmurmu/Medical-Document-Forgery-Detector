@@ -1,9 +1,9 @@
-Patient Name: Amit Gupta
-Patient ID: P93885
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-17
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹30,852
-Insurance Claim ID: 371F1D23
-Hospital: Manipal Hospital
+Patient Name: Manish Reddy
+Patient ID: P43892
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-07
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹267,966
+Insurance Claim ID: DA91A912
+Hospital: AIIMS

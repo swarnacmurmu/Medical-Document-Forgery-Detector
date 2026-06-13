@@ -1,9 +1,9 @@
-Patient Name: Anjali Kumar
-Patient ID: P33251
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-28
-Diagnosis: Asthma
-Treatment: Sumatriptan as needed
-Total Amount: ₹88,777
-Insurance Claim ID: B5C66FB9
-Hospital: AIIMS
+Patient Name: Sunita Kumar
+Patient ID: P30627
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-06
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹7,799
+Insurance Claim ID: EB945636
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Neha Patel
-Patient ID: P86410
-Admission Date: 2026-03-31
-Discharge Date: 2026-04-07
-Diagnosis: Urinary Tract Infection
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹98,110
-Insurance Claim ID: 88B2B510
-Hospital: Manipal Hospital
+Patient Name: Priya Sharma
+Patient ID: P86967
+Admission Date: 2026-04-22
+Discharge Date: 2026-04-27
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹12,880
+Insurance Claim ID: 991FC52B
+Hospital: Lilavati Hospital

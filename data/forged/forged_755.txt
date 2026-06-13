@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P77837
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-01
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹61,992
+Insurance Claim ID: F9839227
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P42080
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-11
+Patient Name: Priya Gupta
+Patient ID: P12113
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-25
 Diagnosis: Acute Gastroenteritis
-Treatment: Inhaler and monitoring
-Total Amount: ₹103,144
-Insurance Claim ID: 4982CB34
+Treatment: Antibiotics for 5 days
+Total Amount: ₹101,185
+Insurance Claim ID: 51675A67
 Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P98235
-Admission Date: 2026-03-01
-Discharge Date: 2026-02-27
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹151,832
-Insurance Claim ID: D2350E8D
-Hospital: Apollo Hospital
+Patient Name: Pooja Singh
+Patient ID: P50036
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-18
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹61,125
+Insurance Claim ID: E88BE065
+Hospital: AIIMS

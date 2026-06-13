@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P40975
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-26
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹8,514
+Insurance Claim ID: A85DC12C
+Hospital: Lilavati Hospital

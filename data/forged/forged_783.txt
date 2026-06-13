@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P43005
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-26
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹136,368
+Insurance Claim ID: 33536785
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P65464
-Admission Date: 2026-05-05
-Discharge Date: 2026-05-06
-Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹2,538,861
-Insurance Claim ID: 6AECD494
+Patient Name: Sunita Patel
+Patient ID: P44661
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-25
+Diagnosis: Hypertension
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹5,171
+Insurance Claim ID: 492AD6FB
 Hospital: Lilavati Hospital

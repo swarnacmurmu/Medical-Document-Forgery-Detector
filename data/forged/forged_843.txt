@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P19767
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-24
+Diagnosis: Typhoid
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹114,030
+Insurance Claim ID: 7265CF00
+Hospital: Fortis Healthcare

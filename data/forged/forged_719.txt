@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P56247
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-15
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹72,270
+Insurance Claim ID: 15768BF2
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P39249
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-25
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹67,240
-Insurance Claim ID: 66FBEB0C
+Patient Name: Amit Gupta
+Patient ID: P11160
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-25
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹6,166
+Insurance Claim ID: 1F291207
 Hospital: Fortis Healthcare

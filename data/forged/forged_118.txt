@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P70010
-Admission Date: 2026-03-10
-Discharge Date: 2026-03-08
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹28,706
-Insurance Claim ID: A12332CF
-Hospital: AIIMS
+Patient Name: Rajesh Kumar
+Patient ID: P53807
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-07
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹27,832
+Insurance Claim ID: 0F748FBB
+Hospital: Apollo Hospital

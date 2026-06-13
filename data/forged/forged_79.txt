@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P28943
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-20
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹54,913
-Insurance Claim ID: 16A6D0D3
-Hospital: Fortis Healthcare
+Patient Name: Vikram Joshi
+Patient ID: P13875
+Admission Date: 2026-03-29
+Discharge Date: 2026-03-30
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹27,153
+Insurance Claim ID: 16CDDC15
+Hospital: Apollo Hospital

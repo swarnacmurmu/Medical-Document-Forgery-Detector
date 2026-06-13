@@ -1,9 +1,9 @@
-Patient Name: Pooja Nair
-Patient ID: P39997
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-09
-Diagnosis: Typhoid
-Treatment: Antibiotics for 5 days
-Total Amount: ₹150,174
-Insurance Claim ID: 5F9FE02F
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Gupta
+Patient ID: P14931
+Admission Date: 2026-04-22
+Discharge Date: 2026-04-20
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹13,113
+Insurance Claim ID: 9A977646
+Hospital: Manipal Hospital

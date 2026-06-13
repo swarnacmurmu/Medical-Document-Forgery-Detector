@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P85386
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-21
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹20,293
+Insurance Claim ID: FA44FB6D
+Hospital: Fortis Healthcare

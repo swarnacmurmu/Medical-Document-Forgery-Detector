@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P78878
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-26
+Diagnosis: Asthma
+Treatment: Sumatriptan as needed
+Total Amount: ₹14,287
+Insurance Claim ID: 5F9FA13B
+Hospital: Manipal Hospital

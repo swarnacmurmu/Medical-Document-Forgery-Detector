@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P25482
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-14
+Diagnosis: Typhoid
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹90,970
+Insurance Claim ID: 905C5780
+Hospital: Lilavati Hospital

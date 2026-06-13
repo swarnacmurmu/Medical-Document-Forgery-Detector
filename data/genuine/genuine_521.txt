@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P62714
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-28
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹6,541
+Insurance Claim ID: EBCCF719
+Hospital: AIIMS

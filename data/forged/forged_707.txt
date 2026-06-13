@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P79094
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-13
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,106
+Insurance Claim ID: 235F9ED0
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P86248
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹5,558
+Insurance Claim ID: 189B49E6
+Hospital: Fortis Healthcare

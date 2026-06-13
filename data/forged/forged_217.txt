@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P53327
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-08
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹2,412,000
-Insurance Claim ID: 54AF37EE
-Hospital: Manipal Hospital
+Patient Name: Pooja Joshi
+Patient ID: P65997
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-08
+Diagnosis: COVID-19
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹891,450
+Insurance Claim ID: 670083C6
+Hospital: AIIMS

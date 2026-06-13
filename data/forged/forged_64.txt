@@ -1,9 +1,9 @@
-Patient Name: Anjali Kumar
-Patient ID: P89635
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-08
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹125,941
-Insurance Claim ID: CF8A6063
+Patient Name: Anjali Singh
+Patient ID: P14668
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-18
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹48,843
+Insurance Claim ID: DF80BC43
 Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P81803
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-11
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹39,661
+Insurance Claim ID: 5ABEC6DF
+Hospital: Fortis Healthcare

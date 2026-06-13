@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P68536
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-28
-Diagnosis: Pneumonia
+Patient Name: Sunita Singh
+Patient ID: P68699
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-31
+Diagnosis: Migraine
 Treatment: Sumatriptan as needed
-Total Amount: ₹91,067
-Insurance Claim ID: 19714928
+Total Amount: ₹6,584
+Insurance Claim ID: A0254565
 Hospital: Fortis Healthcare

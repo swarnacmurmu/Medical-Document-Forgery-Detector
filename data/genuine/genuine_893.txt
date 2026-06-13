@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P52397
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-15
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹4,599
+Insurance Claim ID: DD561393
+Hospital: Fortis Healthcare

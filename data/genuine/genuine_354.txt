@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P13776
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-15
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹71,102
-Insurance Claim ID: 00EBC1E2
+Patient Name: Rahul Singh
+Patient ID: P43724
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-27
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹69,008
+Insurance Claim ID: B2B12281
 Hospital: Lilavati Hospital

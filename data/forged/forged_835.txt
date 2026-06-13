@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P95315
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹14,364
+Insurance Claim ID: 21259C9E
+Hospital: Manipal Hospital

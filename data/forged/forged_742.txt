@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P79953
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-08
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹45,045
+Insurance Claim ID: B7981DBC
+Hospital: Apollo Hospital

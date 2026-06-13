@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P76580
-Admission Date: 2026-04-25
-Discharge Date: 2026-04-27
-Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹60,606
-Insurance Claim ID: 2A2959A5
-Hospital: Fortis Healthcare
+Patient Name: Vikram Nair
+Patient ID: P50706
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,717
+Insurance Claim ID: 1A4E79A1
+Hospital: Manipal Hospital

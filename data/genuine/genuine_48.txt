@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P51513
-Admission Date: 2026-04-26
-Discharge Date: 2026-05-01
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹38,965
-Insurance Claim ID: D2271CB6
-Hospital: Lilavati Hospital
+Patient Name: Priya Nair
+Patient ID: P70748
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-29
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹10,770
+Insurance Claim ID: 1AD60538
+Hospital: Fortis Healthcare

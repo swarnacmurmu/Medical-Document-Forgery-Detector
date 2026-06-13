@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P38230
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-15
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹8,713
+Insurance Claim ID: 0C2D2BFF
+Hospital: Apollo Hospital

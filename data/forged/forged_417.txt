@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P35611
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-06
-Diagnosis: Pneumonia
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹67,222
-Insurance Claim ID: 906E83F1
-Hospital: Manipal Hospital
+Patient Name: Manish Sharma
+Patient ID: P44945
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-20
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹19,695
+Insurance Claim ID: B72752EB
+Hospital: Fortis Healthcare

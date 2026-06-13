@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P83100
-Admission Date: 2026-05-31
-Discharge Date: 2026-06-10
-Diagnosis: Migraine
-Treatment: Azithromycin course
-Total Amount: ₹108,107
-Insurance Claim ID: 224D1BAB
+Patient Name: Amit Nair
+Patient ID: P95458
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-23
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹3,883
+Insurance Claim ID: A71BA0CE
 Hospital: Fortis Healthcare

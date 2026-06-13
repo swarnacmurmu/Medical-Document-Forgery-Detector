@@ -1,9 +1,9 @@
-Patient Name: Neha Singh
-Patient ID: P73509
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-26
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹50,964
-Insurance Claim ID: C7E3970C
-Hospital: Manipal Hospital
+Patient Name: Priya Menon
+Patient ID: P74872
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-31
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,635
+Insurance Claim ID: 32F22F29
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P59454
-Admission Date: 2026-03-29
-Discharge Date: 2026-04-07
+Patient Name: Neha Sharma
+Patient ID: P87207
+Admission Date: 2026-05-01
+Discharge Date: 2026-04-29
 Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹181,692
-Insurance Claim ID: AF108D11
-Hospital: AIIMS
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹63,783
+Insurance Claim ID: 31D9C7FC
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P61658
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-12
+Patient Name: Manish Singh
+Patient ID: P74791
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-03
 Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹85,440
-Insurance Claim ID: BC470C0B
-Hospital: Lilavati Hospital
+Treatment: Paracetamol and rest
+Total Amount: ₹8,018
+Insurance Claim ID: 5994597F
+Hospital: Fortis Healthcare

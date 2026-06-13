@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P84850
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-15
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹179,064
+Insurance Claim ID: 2363C261
+Hospital: Lilavati Hospital

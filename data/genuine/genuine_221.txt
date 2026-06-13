@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P54325
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-28
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹32,509
-Insurance Claim ID: B261826F
+Patient Name: Manish Nair
+Patient ID: P25236
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-12
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹6,507
+Insurance Claim ID: E82FA744
 Hospital: Lilavati Hospital

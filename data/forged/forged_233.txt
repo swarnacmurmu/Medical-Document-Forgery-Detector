@@ -1,9 +1,9 @@
-Patient Name: Sunita Joshi
-Patient ID: P69139
-Admission Date: 2026-04-18
-Discharge Date: 2026-04-16
-Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹42,775
-Insurance Claim ID: 0E9DB8BD
-Hospital: Fortis Healthcare
+Patient Name: Priya Sharma
+Patient ID: P75015
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-23
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹216,720
+Insurance Claim ID: 658E78CB
+Hospital: Lilavati Hospital

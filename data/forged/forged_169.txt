@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P33797
-Admission Date: 2026-03-07
-Discharge Date: 2026-03-08
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹139,503
-Insurance Claim ID: C0876B49
-Hospital: Manipal Hospital
+Patient Name: Manish Gupta
+Patient ID: P10392
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-15
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹93,359
+Insurance Claim ID: BEAE8C10
+Hospital: AIIMS

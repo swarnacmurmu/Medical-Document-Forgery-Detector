@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P43957
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-22
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹12,338
+Insurance Claim ID: FDB3F6C4
+Hospital: Apollo Hospital

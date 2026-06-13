@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P12234
-Admission Date: 2026-04-18
-Discharge Date: 2026-04-26
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹72,996
-Insurance Claim ID: 800A1FB3
-Hospital: Fortis Healthcare
+Patient Name: Vikram Verma
+Patient ID: P81618
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-17
+Diagnosis: Pneumonia
+Treatment: Inhaler and monitoring
+Total Amount: ₹21,623
+Insurance Claim ID: 34761A56
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P80082
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-13
-Diagnosis: Dengue Fever
-Treatment: Azithromycin course
-Total Amount: ₹166,121
-Insurance Claim ID: 20DA34E4
-Hospital: Apollo Hospital
+Patient Name: Sunita Reddy
+Patient ID: P59071
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-20
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹74,683
+Insurance Claim ID: 1A0B1775
+Hospital: Manipal Hospital

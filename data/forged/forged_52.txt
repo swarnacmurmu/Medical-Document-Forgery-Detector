@@ -1,9 +1,9 @@
-Patient Name: Pooja Joshi
-Patient ID: P15236
-Admission Date: 2026-04-24
-Discharge Date: 2026-04-22
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹574,392
-Insurance Claim ID: BDF79936
+Patient Name: Rajesh Menon
+Patient ID: P66834
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹56,832
+Insurance Claim ID: B3A9EC81
 Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P56792
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-20
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹25,805
-Insurance Claim ID: CBCA162D
-Hospital: Lilavati Hospital
+Patient Name: Vikram Menon
+Patient ID: P53954
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-16
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹144,025
+Insurance Claim ID: E9961D6A
+Hospital: Manipal Hospital

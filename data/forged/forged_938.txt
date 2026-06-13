@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P78414
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-27
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,458
+Insurance Claim ID: 7DA0DBDD
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Neha Sharma
+Patient ID: P60953
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-16
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹17,506
+Insurance Claim ID: 5C979824
+Hospital: Apollo Hospital

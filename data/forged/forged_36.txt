@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P61745
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-21
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹10,574
-Insurance Claim ID: 24FD4E36
-Hospital: Fortis Healthcare
+Patient Name: Pooja Verma
+Patient ID: P50186
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-14
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹364,185
+Insurance Claim ID: D291E084
+Hospital: Manipal Hospital

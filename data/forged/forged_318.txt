@@ -1,9 +1,9 @@
-Patient Name: Sunita Menon
-Patient ID: P55525
-Admission Date: 2026-04-25
-Discharge Date: 2026-04-23
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹969,696
-Insurance Claim ID: 2A2959A5
-Hospital: Fortis Healthcare
+Patient Name: Neha Singh
+Patient ID: P73590
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-10
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹57,600
+Insurance Claim ID: D08CB7B8
+Hospital: Lilavati Hospital

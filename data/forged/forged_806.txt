@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P81451
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-27
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹7,900
+Insurance Claim ID: A777C8BB
+Hospital: AIIMS

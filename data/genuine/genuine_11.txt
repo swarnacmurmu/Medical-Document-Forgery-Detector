@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P68058
-Admission Date: 2026-03-08
-Discharge Date: 2026-03-14
-Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹156,014
-Insurance Claim ID: D8C0F13C
-Hospital: Manipal Hospital
+Patient Name: Rahul Joshi
+Patient ID: P84858
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-13
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹2,376
+Insurance Claim ID: 2C924D9B
+Hospital: AIIMS

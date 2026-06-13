@@ -1,9 +1,9 @@
-Patient Name: Sunita Patel
-Patient ID: P84878
-Admission Date: 2026-04-19
-Discharge Date: 2026-04-22
-Diagnosis: Pneumonia
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹136,592
-Insurance Claim ID: 164D47FB
-Hospital: Manipal Hospital
+Patient Name: Vikram Sharma
+Patient ID: P35038
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-24
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹11,474
+Insurance Claim ID: 3D8F0A78
+Hospital: AIIMS

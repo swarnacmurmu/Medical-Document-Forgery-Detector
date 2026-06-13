@@ -1,9 +1,9 @@
-Patient Name: Rahul Menon
-Patient ID: P38481
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-16
-Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹140,417
-Insurance Claim ID: DC02FAF8
+Patient Name: Rahul Kumar
+Patient ID: P73071
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-24
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹4,181
+Insurance Claim ID: C4D64A51
 Hospital: Manipal Hospital

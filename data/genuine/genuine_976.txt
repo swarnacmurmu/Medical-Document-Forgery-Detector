@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P73536
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹9,936
+Insurance Claim ID: 48442E3A
+Hospital: Apollo Hospital

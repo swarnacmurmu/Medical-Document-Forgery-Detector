@@ -1,9 +1,9 @@
-Patient Name: Amit Reddy
-Patient ID: P91967
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-18
+Patient Name: Neha Gupta
+Patient ID: P56082
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-12
 Diagnosis: Asthma
-Treatment: Antibiotics for 5 days
-Total Amount: ₹9,049
-Insurance Claim ID: 2D06DD30
-Hospital: Manipal Hospital
+Treatment: Inhaler and monitoring
+Total Amount: ₹13,232
+Insurance Claim ID: 34D30473
+Hospital: Apollo Hospital

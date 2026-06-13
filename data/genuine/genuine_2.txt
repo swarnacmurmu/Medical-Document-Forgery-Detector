@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P98358
-Admission Date: 2026-04-27
-Discharge Date: 2026-04-29
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹67,191
-Insurance Claim ID: E4AD1017
-Hospital: AIIMS
+Patient Name: Sunita Gupta
+Patient ID: P67865
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-17
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹6,015
+Insurance Claim ID: 956AEA9A
+Hospital: Lilavati Hospital

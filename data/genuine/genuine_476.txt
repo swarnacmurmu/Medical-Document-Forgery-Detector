@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P93987
-Admission Date: 2026-05-13
-Discharge Date: 2026-05-21
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹190,049
-Insurance Claim ID: 9338A646
-Hospital: Apollo Hospital
+Patient Name: Neha Joshi
+Patient ID: P93699
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-24
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹17,404
+Insurance Claim ID: 1CA7FC3E
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P98595
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-16
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹43,155
+Insurance Claim ID: FB79CA1F
+Hospital: Fortis Healthcare

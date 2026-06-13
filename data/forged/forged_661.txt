@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P19349
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Sumatriptan as needed
+Total Amount: ₹10,250
+Insurance Claim ID: C082F153
+Hospital: Fortis Healthcare

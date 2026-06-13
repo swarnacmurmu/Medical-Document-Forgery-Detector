@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P52596
-Admission Date: 2026-03-01
-Discharge Date: 2026-03-06
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹132,551
-Insurance Claim ID: 8CA46271
+Patient Name: Amit Singh
+Patient ID: P21941
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-25
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹39,011
+Insurance Claim ID: 7A2351B3
 Hospital: Manipal Hospital

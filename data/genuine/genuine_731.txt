@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P97813
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-28
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹35,631
+Insurance Claim ID: 6F6B6BC9
+Hospital: Apollo Hospital

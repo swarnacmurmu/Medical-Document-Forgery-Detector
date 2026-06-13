@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P70754
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-16
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹139,019
-Insurance Claim ID: C1D35190
-Hospital: Apollo Hospital
+Patient Name: Rahul Sharma
+Patient ID: P13828
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-26
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹6,524
+Insurance Claim ID: 32921B50
+Hospital: AIIMS

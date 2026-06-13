@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P80011
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-26
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹252,976
+Insurance Claim ID: E26259ED
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P43624
+Admission Date: 2026-03-13
+Discharge Date: 2026-03-10
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹10,419
+Insurance Claim ID: 03FA7A44
+Hospital: Lilavati Hospital

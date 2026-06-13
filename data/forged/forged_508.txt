@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P93839
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-22
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹112,032
+Insurance Claim ID: 8F0CFAA9
+Hospital: Lilavati Hospital

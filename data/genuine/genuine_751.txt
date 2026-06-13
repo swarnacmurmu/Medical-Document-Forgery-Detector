@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P52797
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-12
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹11,542
+Insurance Claim ID: E3BD05A4
+Hospital: AIIMS

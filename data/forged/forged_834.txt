@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P68632
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹41,958
+Insurance Claim ID: 76EC0677
+Hospital: Apollo Hospital

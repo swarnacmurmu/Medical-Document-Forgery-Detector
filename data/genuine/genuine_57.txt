@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P35385
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-21
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹79,642
-Insurance Claim ID: 605B2FEC
-Hospital: Manipal Hospital
+Patient Name: Anjali Sharma
+Patient ID: P69864
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-25
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹10,829
+Insurance Claim ID: DC29250E
+Hospital: Apollo Hospital

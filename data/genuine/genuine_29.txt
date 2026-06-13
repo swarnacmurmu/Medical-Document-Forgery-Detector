@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P10547
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-26
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹131,305
-Insurance Claim ID: BFA06BFA
-Hospital: Manipal Hospital
+Patient Name: Vikram Gupta
+Patient ID: P12553
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-28
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹9,570
+Insurance Claim ID: 0A7319FA
+Hospital: Fortis Healthcare

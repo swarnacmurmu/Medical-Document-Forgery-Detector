@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P97829
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-19
+Patient Name: Vikram Joshi
+Patient ID: P38233
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-26
 Diagnosis: Migraine
-Treatment: Azithromycin course
-Total Amount: ₹864,928
-Insurance Claim ID: 1AFA17F0
+Treatment: Sumatriptan as needed
+Total Amount: ₹42,800
+Insurance Claim ID: 6D8FB743
 Hospital: Lilavati Hospital

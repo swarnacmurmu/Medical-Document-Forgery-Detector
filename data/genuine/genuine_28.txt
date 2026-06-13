@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P65443
-Admission Date: 2026-05-30
-Discharge Date: 2026-05-31
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹25,607
-Insurance Claim ID: 21E96DDE
-Hospital: Fortis Healthcare
+Patient Name: Priya Nair
+Patient ID: P21732
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-02
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹5,430
+Insurance Claim ID: 75569BB4
+Hospital: AIIMS

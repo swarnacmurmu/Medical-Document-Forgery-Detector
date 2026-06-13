@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P87984
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-24
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹440,244
+Insurance Claim ID: B2355289
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Priya Menon
-Patient ID: P94197
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-21
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹111,961
-Insurance Claim ID: EC07258D
-Hospital: Apollo Hospital
+Patient Name: Pooja Verma
+Patient ID: P77073
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-08
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,232
+Insurance Claim ID: 3EBF971C
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P42929
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-10
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹63,564
+Insurance Claim ID: 5B26E42C
+Hospital: Manipal Hospital

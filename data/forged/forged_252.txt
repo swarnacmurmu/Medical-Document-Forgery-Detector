@@ -1,9 +1,9 @@
-Patient Name: Amit Joshi
-Patient ID: P98192
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-10
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,183,910
-Insurance Claim ID: 3CB561EF
-Hospital: Fortis Healthcare
+Patient Name: Pooja Nair
+Patient ID: P71945
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-25
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹9,080
+Insurance Claim ID: BD9F6373
+Hospital: AIIMS

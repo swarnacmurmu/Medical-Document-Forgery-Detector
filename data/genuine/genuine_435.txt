@@ -1,9 +1,9 @@
-Patient Name: Manish Patel
-Patient ID: P42306
-Admission Date: 2026-03-12
-Discharge Date: 2026-03-20
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹198,666
-Insurance Claim ID: 82996191
-Hospital: Fortis Healthcare
+Patient Name: Sunita Verma
+Patient ID: P94151
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-01
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,964
+Insurance Claim ID: 8A856F54
+Hospital: Lilavati Hospital

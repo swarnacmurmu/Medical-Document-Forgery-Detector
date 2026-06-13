@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P82460
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-25
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹2,983
+Insurance Claim ID: 53EEF05B
+Hospital: Lilavati Hospital

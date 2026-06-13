@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P49792
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-23
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,950
+Insurance Claim ID: F7A3986C
+Hospital: Lilavati Hospital

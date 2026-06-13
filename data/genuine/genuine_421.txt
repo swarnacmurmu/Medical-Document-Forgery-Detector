@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P89005
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-17
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹106,463
-Insurance Claim ID: F938C461
-Hospital: Lilavati Hospital
+Patient Name: Rahul Reddy
+Patient ID: P51338
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,014
+Insurance Claim ID: 09D91F2F
+Hospital: Apollo Hospital

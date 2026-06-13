@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P12848
-Admission Date: 2026-02-28
-Discharge Date: 2026-02-26
-Diagnosis: Acute Gastroenteritis
-Treatment: Inhaler and monitoring
-Total Amount: ₹26,579
-Insurance Claim ID: 04A55347
-Hospital: Fortis Healthcare
+Patient Name: Sunita Menon
+Patient ID: P59624
+Admission Date: 2026-02-22
+Discharge Date: 2026-03-01
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹17,480
+Insurance Claim ID: 2B81404A
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P69687
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-23
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,739
+Insurance Claim ID: 810DAF26
+Hospital: Fortis Healthcare

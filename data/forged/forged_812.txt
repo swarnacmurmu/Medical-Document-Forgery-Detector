@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P22814
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-20
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹42,129
+Insurance Claim ID: EFCD1138
+Hospital: Lilavati Hospital

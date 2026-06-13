@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P93121
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-19
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹78,196
+Insurance Claim ID: C532F103
+Hospital: AIIMS

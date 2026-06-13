@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P33172
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-05
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹135,189
+Insurance Claim ID: 5581FF7D
+Hospital: Fortis Healthcare

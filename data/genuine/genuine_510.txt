@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P97640
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-14
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹12,261
+Insurance Claim ID: C3381ABB
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P82553
-Admission Date: 2026-04-25
-Discharge Date: 2026-05-02
+Patient Name: Amit Reddy
+Patient ID: P10837
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-28
 Diagnosis: Acute Gastroenteritis
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹16,980
-Insurance Claim ID: 88EFBAFA
-Hospital: Lilavati Hospital
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹3,545
+Insurance Claim ID: 50C927E5
+Hospital: Apollo Hospital

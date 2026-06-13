@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P69719
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-01
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹17,794
+Insurance Claim ID: 2B4C06DA
+Hospital: AIIMS

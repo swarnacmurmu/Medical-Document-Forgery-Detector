@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P82898
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-05
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹48,552
-Insurance Claim ID: A51ED198
-Hospital: AIIMS
+Patient Name: Pooja Joshi
+Patient ID: P27326
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-16
+Diagnosis: COVID-19
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹573,198
+Insurance Claim ID: 8083C784
+Hospital: Lilavati Hospital

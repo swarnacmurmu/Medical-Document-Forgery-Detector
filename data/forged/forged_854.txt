@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P83661
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-25
+Diagnosis: Migraine
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹7,014
+Insurance Claim ID: F46C047A
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Manish Patel
-Patient ID: P80537
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-24
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹1,276,710
-Insurance Claim ID: 77464E60
-Hospital: Apollo Hospital
+Patient Name: Sunita Singh
+Patient ID: P10244
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹36,884
+Insurance Claim ID: 2D733EDD
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P82553
-Admission Date: 2026-04-25
-Discharge Date: 2026-05-02
-Diagnosis: Acute Gastroenteritis
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹16,980
-Insurance Claim ID: 88EFBAFA
-Hospital: Lilavati Hospital
+Patient Name: Rahul Nair
+Patient ID: P73351
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-09
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹8,885
+Insurance Claim ID: 543D1759
+Hospital: Manipal Hospital

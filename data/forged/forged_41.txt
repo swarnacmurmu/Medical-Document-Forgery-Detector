@@ -1,9 +1,9 @@
-Patient Name: Vikram Gupta
-Patient ID: P47683
-Admission Date: 2026-04-24
-Discharge Date: 2026-05-01
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹61,360
-Insurance Claim ID: 0D82BBAA
+Patient Name: Rahul Reddy
+Patient ID: P88082
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-02
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹20,682
+Insurance Claim ID: 3524A3AC
 Hospital: Manipal Hospital

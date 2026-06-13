@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P53797
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-19
-Diagnosis: Pneumonia
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹185,624
-Insurance Claim ID: 764EB2E7
-Hospital: Apollo Hospital
+Patient Name: Rajesh Nair
+Patient ID: P10887
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-19
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹22,220
+Insurance Claim ID: C4E19349
+Hospital: Manipal Hospital

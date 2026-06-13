@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P97493
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-04
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹3,193
+Insurance Claim ID: A110C6DC
+Hospital: Apollo Hospital

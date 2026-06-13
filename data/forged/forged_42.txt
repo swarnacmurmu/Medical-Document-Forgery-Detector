@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P18945
-Admission Date: 2026-02-17
-Discharge Date: 2026-02-14
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹160,872
-Insurance Claim ID: C0A9D643
-Hospital: AIIMS
+Patient Name: Manish Gupta
+Patient ID: P11528
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-07
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹90,270
+Insurance Claim ID: 593BF6BF
+Hospital: Lilavati Hospital

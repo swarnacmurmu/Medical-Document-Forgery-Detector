@@ -1,9 +1,9 @@
-Patient Name: Neha Patel
-Patient ID: P50689
-Admission Date: 2026-04-29
-Discharge Date: 2026-04-27
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹79,415
-Insurance Claim ID: 04FCE435
-Hospital: AIIMS
+Patient Name: Sunita Kumar
+Patient ID: P90721
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-08
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹30,951
+Insurance Claim ID: 47D3589D
+Hospital: Lilavati Hospital

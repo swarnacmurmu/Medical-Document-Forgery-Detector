@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P55975
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-24
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹84,080
+Insurance Claim ID: E1BC84AB
+Hospital: Fortis Healthcare

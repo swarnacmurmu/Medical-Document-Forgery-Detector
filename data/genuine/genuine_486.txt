@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P60407
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-27
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹91,196
-Insurance Claim ID: 95995C83
-Hospital: Lilavati Hospital
+Patient Name: Manish Nair
+Patient ID: P88014
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-18
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,835
+Insurance Claim ID: 3594D5D9
+Hospital: Apollo Hospital

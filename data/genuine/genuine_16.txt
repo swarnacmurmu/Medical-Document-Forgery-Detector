@@ -1,9 +1,9 @@
-Patient Name: Pooja Joshi
-Patient ID: P90537
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-31
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹71,782
-Insurance Claim ID: 6779170C
-Hospital: AIIMS
+Patient Name: Amit Menon
+Patient ID: P88576
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-02
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹21,501
+Insurance Claim ID: 8B0D7E87
+Hospital: Fortis Healthcare

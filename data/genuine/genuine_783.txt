@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P97172
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-22
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹13,105
+Insurance Claim ID: 0541858D
+Hospital: AIIMS

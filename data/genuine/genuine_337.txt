@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P11183
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-20
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹25,805
-Insurance Claim ID: CBCA162D
-Hospital: Lilavati Hospital
+Patient Name: Manish Gupta
+Patient ID: P77810
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-18
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹3,494
+Insurance Claim ID: 99CB139A
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P28336
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-28
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,496
+Insurance Claim ID: 6B9DBAFA
+Hospital: Manipal Hospital

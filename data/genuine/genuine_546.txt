@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P15160
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-07
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹12,976
+Insurance Claim ID: C8C7EA03
+Hospital: Manipal Hospital

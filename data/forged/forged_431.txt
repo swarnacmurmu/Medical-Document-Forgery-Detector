@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P87782
-Admission Date: 2026-05-16
-Discharge Date: 2026-05-15
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹1,586,933
-Insurance Claim ID: 893E6B62
+Patient Name: Vikram Kumar
+Patient ID: P25414
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-02
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹6,268
+Insurance Claim ID: 7FE4EFA7
 Hospital: Apollo Hospital

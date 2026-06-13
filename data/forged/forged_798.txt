@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P86781
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-12
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹30,510
+Insurance Claim ID: 016B185B
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P67745
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-19
+Diagnosis: Typhoid
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹196,464
+Insurance Claim ID: 37C3F88F
+Hospital: Apollo Hospital

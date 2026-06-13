@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P17597
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-07
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹84,215
-Insurance Claim ID: A1E50FEB
-Hospital: Apollo Hospital
+Patient Name: Manish Patel
+Patient ID: P20537
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-21
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹6,084
+Insurance Claim ID: C8B02933
+Hospital: Fortis Healthcare

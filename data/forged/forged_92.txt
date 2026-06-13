@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P22484
-Admission Date: 2026-04-01
-Discharge Date: 2026-04-04
-Diagnosis: Hypertension
-Treatment: Rest and paracetamol
-Total Amount: ₹77,182
-Insurance Claim ID: 19DDDBBA
-Hospital: Fortis Healthcare
+Patient Name: Pooja Verma
+Patient ID: P77477
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-24
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹8,157
+Insurance Claim ID: 54542F0C
+Hospital: Lilavati Hospital

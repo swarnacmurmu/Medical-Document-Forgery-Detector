@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P67477
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-18
+Patient Name: Amit Menon
+Patient ID: P67141
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-03
 Diagnosis: Hypertension
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹147,013
-Insurance Claim ID: 12DAB31C
-Hospital: Lilavati Hospital
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,339
+Insurance Claim ID: B29F9C8C
+Hospital: Apollo Hospital

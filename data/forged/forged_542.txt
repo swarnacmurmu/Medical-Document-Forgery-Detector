@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P71245
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-27
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹4,323
+Insurance Claim ID: 5B395B44
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P22784
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-22
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹6,138
+Insurance Claim ID: 977CCC19
+Hospital: Manipal Hospital

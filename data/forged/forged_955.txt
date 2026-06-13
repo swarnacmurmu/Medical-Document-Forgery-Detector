@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P70676
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-08
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹104,944
+Insurance Claim ID: E06954EA
+Hospital: Apollo Hospital

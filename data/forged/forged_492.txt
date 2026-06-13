@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P31263
-Admission Date: 2026-04-01
-Discharge Date: 2026-03-30
-Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹110,492
-Insurance Claim ID: F6896ADA
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Nair
+Patient ID: P37540
+Admission Date: 2026-03-28
+Discharge Date: 2026-04-01
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹22,390
+Insurance Claim ID: 25DA1D78
+Hospital: AIIMS

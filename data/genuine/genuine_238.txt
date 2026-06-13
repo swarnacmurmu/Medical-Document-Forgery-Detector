@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P75293
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-24
+Patient Name: Vikram Sharma
+Patient ID: P39387
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-19
 Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹132,542
-Insurance Claim ID: 55C054CE
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹25,754
+Insurance Claim ID: 7D7F77DD
 Hospital: Lilavati Hospital

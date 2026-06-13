@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P89674
-Admission Date: 2026-05-26
-Discharge Date: 2026-06-05
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹129,987
-Insurance Claim ID: 2C89D10A
-Hospital: Lilavati Hospital
+Patient Name: Pooja Patel
+Patient ID: P67597
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-16
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹59,898
+Insurance Claim ID: 5A660D65
+Hospital: Apollo Hospital

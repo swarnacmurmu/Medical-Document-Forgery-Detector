@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P78008
-Admission Date: 2026-03-27
-Discharge Date: 2026-04-01
-Diagnosis: Asthma
+Patient Name: Anjali Kumar
+Patient ID: P89099
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-08
+Diagnosis: Typhoid
 Treatment: Azithromycin course
-Total Amount: ₹197,702
-Insurance Claim ID: 1C056E22
-Hospital: AIIMS
+Total Amount: ₹18,345
+Insurance Claim ID: 3ACE063E
+Hospital: Fortis Healthcare

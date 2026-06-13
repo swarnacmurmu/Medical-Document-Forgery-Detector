@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P28823
+Patient Name: Manish Menon
+Patient ID: P83351
 Admission Date: 2026-05-14
-Discharge Date: 2026-05-13
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹171,527
-Insurance Claim ID: B50AA1BD
-Hospital: Lilavati Hospital
+Discharge Date: 2026-05-16
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹17,136
+Insurance Claim ID: 98D0E1AA
+Hospital: Fortis Healthcare

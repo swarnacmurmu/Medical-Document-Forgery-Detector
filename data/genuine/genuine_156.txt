@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P24046
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-11
-Diagnosis: Acute Gastroenteritis
-Treatment: Inhaler and monitoring
-Total Amount: ₹103,144
-Insurance Claim ID: 4982CB34
+Patient Name: Pooja Patel
+Patient ID: P95165
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-24
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹7,201
+Insurance Claim ID: 66EEF401
 Hospital: AIIMS

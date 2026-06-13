@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P78202
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-21
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹71,348
+Insurance Claim ID: A5503F51
+Hospital: Lilavati Hospital

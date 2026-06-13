@@ -1,9 +1,9 @@
-Patient Name: Neha Singh
-Patient ID: P62793
-Admission Date: 2026-05-02
-Discharge Date: 2026-05-10
-Diagnosis: Acute Gastroenteritis
-Treatment: Sumatriptan as needed
-Total Amount: ₹59,127
-Insurance Claim ID: BA3C52FE
-Hospital: Manipal Hospital
+Patient Name: Vikram Kumar
+Patient ID: P95240
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-27
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹21,178
+Insurance Claim ID: 7E986B35
+Hospital: AIIMS

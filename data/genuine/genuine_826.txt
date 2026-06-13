@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P58719
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-21
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹3,974
+Insurance Claim ID: 4BB048D8
+Hospital: AIIMS

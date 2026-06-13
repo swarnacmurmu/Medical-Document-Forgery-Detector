@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P26737
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-17
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹114,262
-Insurance Claim ID: ABE15A45
-Hospital: AIIMS
+Patient Name: Sunita Menon
+Patient ID: P64964
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-15
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,488
+Insurance Claim ID: 681A3E9D
+Hospital: Lilavati Hospital

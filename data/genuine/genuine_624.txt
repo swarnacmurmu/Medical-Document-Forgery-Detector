@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P46878
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-12
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹27,308
+Insurance Claim ID: 11B0B9D9
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
 Patient Name: Sunita Gupta
-Patient ID: P23713
-Admission Date: 2026-05-28
-Discharge Date: 2026-06-02
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹2,273,844
-Insurance Claim ID: 8F11A261
-Hospital: Lilavati Hospital
+Patient ID: P32924
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-19
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹14,920
+Insurance Claim ID: 1D79AD24
+Hospital: Apollo Hospital

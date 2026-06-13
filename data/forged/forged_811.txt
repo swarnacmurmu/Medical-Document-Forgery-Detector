@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P19177
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-26
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹4,357
+Insurance Claim ID: 020AC4CF
+Hospital: Fortis Healthcare

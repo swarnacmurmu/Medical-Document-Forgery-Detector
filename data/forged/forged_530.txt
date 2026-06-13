@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P81431
+Admission Date: 2026-05-23
+Discharge Date: 2026-06-02
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹866,910
+Insurance Claim ID: 6A639288
+Hospital: Fortis Healthcare

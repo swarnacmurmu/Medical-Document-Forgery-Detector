@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P37673
-Admission Date: 2026-04-28
-Discharge Date: 2026-04-29
-Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹33,904
-Insurance Claim ID: AF3EC3F0
+Patient Name: Priya Menon
+Patient ID: P27273
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-11
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹19,067
+Insurance Claim ID: 8C8EDC4D
 Hospital: Lilavati Hospital

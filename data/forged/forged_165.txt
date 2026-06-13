@@ -1,9 +1,9 @@
-Patient Name: Vikram Joshi
-Patient ID: P56066
-Admission Date: 2026-02-26
-Discharge Date: 2026-02-23
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹189,332
-Insurance Claim ID: 0855AFCB
+Patient Name: Rajesh Menon
+Patient ID: P47730
+Admission Date: 2026-03-28
+Discharge Date: 2026-04-01
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹94,869
+Insurance Claim ID: 9D0A15C5
 Hospital: AIIMS

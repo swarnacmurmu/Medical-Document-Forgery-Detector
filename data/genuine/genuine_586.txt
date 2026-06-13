@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P78943
+Admission Date: 2026-03-26
+Discharge Date: 2026-04-01
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹22,204
+Insurance Claim ID: EA84EA33
+Hospital: AIIMS

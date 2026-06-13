@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P62700
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-25
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹197,164
-Insurance Claim ID: 6658E788
-Hospital: Fortis Healthcare
+Patient Name: Anjali Verma
+Patient ID: P57381
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-19
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,527
+Insurance Claim ID: 3E0D6450
+Hospital: AIIMS

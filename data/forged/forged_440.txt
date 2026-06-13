@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P70334
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-17
-Diagnosis: Dengue Fever
-Treatment: Antibiotics for 5 days
-Total Amount: ₹149,936
-Insurance Claim ID: E19FBB4A
-Hospital: Manipal Hospital
+Patient Name: Manish Joshi
+Patient ID: P24010
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-27
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹190,456
+Insurance Claim ID: 30BEEADF
+Hospital: Fortis Healthcare

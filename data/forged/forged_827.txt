@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P48531
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-14
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹160,832
+Insurance Claim ID: 6A9C874D
+Hospital: Apollo Hospital

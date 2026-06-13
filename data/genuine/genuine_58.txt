@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P53734
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-13
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹138,071
-Insurance Claim ID: C61D66CB
+Patient Name: Amit Joshi
+Patient ID: P29257
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-28
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹34,058
+Insurance Claim ID: EC7B805F
 Hospital: Fortis Healthcare

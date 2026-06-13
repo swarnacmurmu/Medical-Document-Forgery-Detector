@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P43528
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-18
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹6,086
+Insurance Claim ID: 9CD8F31F
+Hospital: AIIMS

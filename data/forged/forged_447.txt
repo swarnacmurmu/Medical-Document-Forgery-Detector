@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P21400
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-14
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹31,282
-Insurance Claim ID: 29D572A8
-Hospital: AIIMS
+Patient Name: Pooja Kumar
+Patient ID: P41839
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-03
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹15,010
+Insurance Claim ID: 46EA58D9
+Hospital: Lilavati Hospital

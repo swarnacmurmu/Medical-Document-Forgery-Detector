@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P33386
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-07
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹38,626
+Insurance Claim ID: A3542B3A
+Hospital: Fortis Healthcare

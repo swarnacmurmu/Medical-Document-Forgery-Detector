@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P26113
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-24
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹18,308
+Insurance Claim ID: AC57F5EF
+Hospital: Lilavati Hospital

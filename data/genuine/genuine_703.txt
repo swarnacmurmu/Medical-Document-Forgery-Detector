@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P57199
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-09
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹85,918
+Insurance Claim ID: D72D4F55
+Hospital: Fortis Healthcare

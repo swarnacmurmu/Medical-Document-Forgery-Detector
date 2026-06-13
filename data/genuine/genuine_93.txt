@@ -1,9 +1,9 @@
-Patient Name: Vikram Menon
-Patient ID: P39369
-Admission Date: 2026-05-29
-Discharge Date: 2026-06-03
-Diagnosis: Asthma
-Treatment: Inhaler and monitoring
-Total Amount: ₹11,428
-Insurance Claim ID: 8001AA8F
-Hospital: Apollo Hospital
+Patient Name: Pooja Patel
+Patient ID: P52890
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-28
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹4,372
+Insurance Claim ID: E1B9E763
+Hospital: Lilavati Hospital

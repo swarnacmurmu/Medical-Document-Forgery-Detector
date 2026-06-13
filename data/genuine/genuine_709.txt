@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P56337
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹3,413
+Insurance Claim ID: 100A84B8
+Hospital: Manipal Hospital

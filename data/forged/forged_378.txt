@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P12060
-Admission Date: 2026-04-26
-Discharge Date: 2026-04-25
-Diagnosis: Hypertension
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹1,032,912
-Insurance Claim ID: 03A520C8
-Hospital: Manipal Hospital
+Patient Name: Neha Nair
+Patient ID: P91490
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-07
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹46,116
+Insurance Claim ID: 9AD7CFB2
+Hospital: Apollo Hospital

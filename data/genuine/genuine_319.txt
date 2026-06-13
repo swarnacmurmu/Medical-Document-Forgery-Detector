@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P23740
-Admission Date: 2026-04-30
-Discharge Date: 2026-05-03
-Diagnosis: Migraine
-Treatment: Azithromycin course
-Total Amount: ₹66,114
-Insurance Claim ID: 7BD31D13
-Hospital: Manipal Hospital
+Patient Name: Rahul Sharma
+Patient ID: P25751
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-06
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹10,202
+Insurance Claim ID: 0ACD2112
+Hospital: Fortis Healthcare

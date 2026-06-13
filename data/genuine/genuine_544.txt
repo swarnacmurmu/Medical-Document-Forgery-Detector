@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P29696
+Admission Date: 2026-05-26
+Discharge Date: 2026-06-03
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹75,679
+Insurance Claim ID: 2049AE2D
+Hospital: Apollo Hospital

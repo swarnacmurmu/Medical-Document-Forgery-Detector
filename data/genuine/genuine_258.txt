@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P17074
-Admission Date: 2026-04-22
-Discharge Date: 2026-04-25
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹193,835
-Insurance Claim ID: 262201E9
-Hospital: AIIMS
+Patient Name: Priya Joshi
+Patient ID: P41310
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-22
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹21,187
+Insurance Claim ID: 7E7566F2
+Hospital: Manipal Hospital

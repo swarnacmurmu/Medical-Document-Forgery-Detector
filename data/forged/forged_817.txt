@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P50519
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-24
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹31,627
+Insurance Claim ID: D1C3D8C8
+Hospital: Lilavati Hospital

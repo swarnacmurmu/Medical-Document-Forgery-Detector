@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P47958
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-05
-Diagnosis: Asthma
-Treatment: Antibiotics for 5 days
-Total Amount: ₹83,451
-Insurance Claim ID: C2AD68F5
-Hospital: Lilavati Hospital
+Patient Name: Priya Joshi
+Patient ID: P57945
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-14
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹18,941
+Insurance Claim ID: C3653DCD
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P98246
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-10
+Patient Name: Neha Sharma
+Patient ID: P61396
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-09
 Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹176,888
-Insurance Claim ID: 7B177EE3
-Hospital: AIIMS
+Treatment: Azithromycin course
+Total Amount: ₹30,317
+Insurance Claim ID: 888F8D2C
+Hospital: Fortis Healthcare

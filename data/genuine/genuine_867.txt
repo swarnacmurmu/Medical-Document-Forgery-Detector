@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P36513
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-17
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹29,322
+Insurance Claim ID: 6A577FA8
+Hospital: AIIMS

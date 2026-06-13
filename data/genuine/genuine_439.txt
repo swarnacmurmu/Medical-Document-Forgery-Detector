@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P96563
-Admission Date: 2026-03-16
-Discharge Date: 2026-03-26
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹157,522
-Insurance Claim ID: DCB15BEE
-Hospital: AIIMS
+Patient Name: Rahul Singh
+Patient ID: P32257
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-22
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,888
+Insurance Claim ID: 860CEFD6
+Hospital: Lilavati Hospital

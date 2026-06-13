@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P15174
+Admission Date: 2026-03-01
+Discharge Date: 2026-02-27
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹129,304
+Insurance Claim ID: 4E187A15
+Hospital: Apollo Hospital

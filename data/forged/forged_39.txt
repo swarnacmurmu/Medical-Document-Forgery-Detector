@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P36289
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-27
-Diagnosis: Hypertension
-Treatment: Inhaler and monitoring
-Total Amount: ₹1,560,340
-Insurance Claim ID: CAECC420
-Hospital: Apollo Hospital
+Patient Name: Anjali Sharma
+Patient ID: P86256
+Admission Date: 2026-04-01
+Discharge Date: 2026-03-29
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹109,326
+Insurance Claim ID: C2D06C91
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P83128
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-11
-Diagnosis: Asthma
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹71,159
-Insurance Claim ID: 07C630E9
-Hospital: Manipal Hospital
+Patient Name: Rajesh Nair
+Patient ID: P98478
+Admission Date: 2026-04-02
+Discharge Date: 2026-03-30
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹396,634
+Insurance Claim ID: 93D46D09
+Hospital: Fortis Healthcare

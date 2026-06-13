@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P54515
-Admission Date: 2026-02-25
-Discharge Date: 2026-03-03
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹183,273
-Insurance Claim ID: F145C38A
-Hospital: Manipal Hospital
+Patient Name: Rahul Menon
+Patient ID: P76909
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-28
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹7,027
+Insurance Claim ID: 545BC1ED
+Hospital: Apollo Hospital

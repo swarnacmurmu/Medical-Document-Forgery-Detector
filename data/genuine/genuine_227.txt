@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P32486
-Admission Date: 2026-05-24
-Discharge Date: 2026-06-01
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹16,218
-Insurance Claim ID: C36D8EB9
+Patient Name: Vikram Patel
+Patient ID: P36448
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-15
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹21,983
+Insurance Claim ID: 8103AA77
 Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Pooja Joshi
-Patient ID: P42554
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-21
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹71,782
-Insurance Claim ID: 6779170C
-Hospital: AIIMS
+Patient Name: Rahul Kumar
+Patient ID: P56010
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-04
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹6,410
+Insurance Claim ID: 0B85FEFC
+Hospital: Manipal Hospital

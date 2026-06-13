@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P20827
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-18
-Diagnosis: Pneumonia
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹489,000
-Insurance Claim ID: 9465C79E
-Hospital: AIIMS
+Patient Name: Pooja Patel
+Patient ID: P37704
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-14
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹12,679
+Insurance Claim ID: 05883C4B
+Hospital: Fortis Healthcare

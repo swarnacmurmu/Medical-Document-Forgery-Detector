@@ -1,9 +1,9 @@
-Patient Name: Neha Gupta
-Patient ID: P97475
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-18
+Patient Name: Rajesh Nair
+Patient ID: P85630
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-22
 Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹114,248
-Insurance Claim ID: 4C20B4F5
-Hospital: AIIMS
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹64,183
+Insurance Claim ID: D865B770
+Hospital: Fortis Healthcare

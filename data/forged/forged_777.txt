@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P63398
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-19
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹151,857
+Insurance Claim ID: E5E25CD3
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P14039
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-17
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,370
+Insurance Claim ID: CD384B03
+Hospital: AIIMS

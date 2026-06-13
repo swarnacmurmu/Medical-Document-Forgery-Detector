@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P53495
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-22
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹818,775
+Insurance Claim ID: 6E4281CF
+Hospital: AIIMS

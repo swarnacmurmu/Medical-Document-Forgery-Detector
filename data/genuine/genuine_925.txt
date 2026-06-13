@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P90980
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-18
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹28,894
+Insurance Claim ID: CE7E9CC8
+Hospital: Fortis Healthcare

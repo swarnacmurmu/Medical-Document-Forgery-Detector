@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P34251
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-18
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹63,234
+Insurance Claim ID: A2767270
+Hospital: Fortis Healthcare

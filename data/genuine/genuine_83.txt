@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P13552
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-24
-Diagnosis: Pneumonia
-Treatment: Azithromycin course
-Total Amount: ₹157,601
-Insurance Claim ID: F23CD5D1
+Patient Name: Amit Nair
+Patient ID: P70889
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-29
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹8,222
+Insurance Claim ID: 04324B08
 Hospital: AIIMS

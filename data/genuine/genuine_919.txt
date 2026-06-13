@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P86577
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-02
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹2,710
+Insurance Claim ID: 05E55B6D
+Hospital: AIIMS

@@ -1,9 +1,7 @@
-Patient Name: Amit Reddy
-Patient ID: P90458
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-02
-Diagnosis: Pneumonia
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹455,511
-Insurance Claim ID: 42D4B0D3
-Hospital: Manipal Hospital
+Patient Name: Jane Smith
+Patient ID: P99999
+Admission Date: 2026-02-01
+Discharge Date: 2026-02-03
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg
+Total Amount: ₹5,000

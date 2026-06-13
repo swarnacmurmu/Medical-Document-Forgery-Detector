@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P69857
-Admission Date: 2026-05-28
-Discharge Date: 2026-06-07
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹36,380
-Insurance Claim ID: F33AC00A
-Hospital: Fortis Healthcare
+Patient Name: Priya Sharma
+Patient ID: P24394
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-19
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹25,007
+Insurance Claim ID: 618F4ECF
+Hospital: Apollo Hospital

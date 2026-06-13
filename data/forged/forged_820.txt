@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P23709
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-12
+Diagnosis: Urinary Tract Infection
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹3,640
+Insurance Claim ID: D0B20B27
+Hospital: Apollo Hospital

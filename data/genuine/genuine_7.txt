@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P47980
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-30
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹42,439
-Insurance Claim ID: E39CB1D9
-Hospital: Lilavati Hospital
+Patient Name: Pooja Kumar
+Patient ID: P98821
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-30
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,627
+Insurance Claim ID: B8226813
+Hospital: AIIMS

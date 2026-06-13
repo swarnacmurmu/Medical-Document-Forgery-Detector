@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P74980
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹85,033
+Insurance Claim ID: FE03AC00
+Hospital: Apollo Hospital

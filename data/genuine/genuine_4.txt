@@ -1,9 +1,9 @@
-Patient Name: Priya Singh
-Patient ID: P96070
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-03
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹150,864
-Insurance Claim ID: C77A64B1
-Hospital: Manipal Hospital
+Patient Name: Anjali Joshi
+Patient ID: P57273
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-12
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹5,246
+Insurance Claim ID: 7796FF82
+Hospital: AIIMS

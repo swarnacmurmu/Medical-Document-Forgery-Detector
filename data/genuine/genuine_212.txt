@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P95858
-Admission Date: 2026-03-03
-Discharge Date: 2026-03-10
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹42,997
-Insurance Claim ID: 1D669EE0
-Hospital: Apollo Hospital
+Patient Name: Manish Nair
+Patient ID: P60720
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-21
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹20,074
+Insurance Claim ID: 6150FCF9
+Hospital: AIIMS

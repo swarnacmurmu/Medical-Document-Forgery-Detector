@@ -1,9 +1,9 @@
-Patient Name: Rahul Menon
-Patient ID: P46816
-Admission Date: 2026-04-23
-Discharge Date: 2026-04-24
-Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹7,774
-Insurance Claim ID: CD217540
-Hospital: Apollo Hospital
+Patient Name: Manish Menon
+Patient ID: P10000
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-15
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,013
+Insurance Claim ID: D7F5D564
+Hospital: Fortis Healthcare

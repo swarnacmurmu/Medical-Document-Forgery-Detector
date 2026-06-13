@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P84098
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-14
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹1,246,960
-Insurance Claim ID: 563AB047
-Hospital: Fortis Healthcare
+Patient Name: Amit Nair
+Patient ID: P27943
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-16
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹60,972
+Insurance Claim ID: 99E32F6B
+Hospital: Apollo Hospital

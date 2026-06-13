@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P64636
-Admission Date: 2026-05-30
-Discharge Date: 2026-05-31
-Diagnosis: Typhoid
-Treatment: Rest and paracetamol
-Total Amount: ₹115,167
-Insurance Claim ID: 151DE1C1
-Hospital: Apollo Hospital
+Patient Name: Anjali Verma
+Patient ID: P53622
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-08
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹11,282
+Insurance Claim ID: 9A4E86D6
+Hospital: Manipal Hospital

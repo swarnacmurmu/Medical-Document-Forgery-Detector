@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P16575
+Admission Date: 2026-05-02
+Discharge Date: 2026-05-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,505
+Insurance Claim ID: 3DF84FCF
+Hospital: Lilavati Hospital

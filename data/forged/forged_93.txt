@@ -1,9 +1,9 @@
-Patient Name: Vikram Menon
-Patient ID: P62748
-Admission Date: 2026-05-29
-Discharge Date: 2026-06-03
-Diagnosis: Asthma
-Treatment: Inhaler and monitoring
-Total Amount: ₹11,428
-Insurance Claim ID: 8001AA8F
+Patient Name: Anjali Sharma
+Patient ID: P57629
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-17
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹289,324
+Insurance Claim ID: 5DADAFD6
 Hospital: Apollo Hospital

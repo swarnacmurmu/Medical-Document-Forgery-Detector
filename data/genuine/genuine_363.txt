@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P96540
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-29
+Patient Name: Pooja Menon
+Patient ID: P72194
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-15
 Diagnosis: Acute Gastroenteritis
-Treatment: Azithromycin course
-Total Amount: ₹81,628
-Insurance Claim ID: 0C5CBC24
-Hospital: Fortis Healthcare
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,163
+Insurance Claim ID: 2C36DE4A
+Hospital: Apollo Hospital

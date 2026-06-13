@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P45058
-Admission Date: 2026-06-06
-Discharge Date: 2026-06-16
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹188,213
-Insurance Claim ID: 5D55C4DC
-Hospital: Apollo Hospital
+Patient Name: Pooja Gupta
+Patient ID: P44768
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-15
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹9,196
+Insurance Claim ID: 50997E51
+Hospital: AIIMS

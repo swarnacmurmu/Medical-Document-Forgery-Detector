@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P29514
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹4,656
+Insurance Claim ID: DF62AA03
+Hospital: Fortis Healthcare

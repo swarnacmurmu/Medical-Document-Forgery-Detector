@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P69332
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-28
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹68,757
+Insurance Claim ID: 0ADCAC48
+Hospital: Apollo Hospital

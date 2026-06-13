@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P20907
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-03
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹4,571
+Insurance Claim ID: 4BA25912
+Hospital: Apollo Hospital

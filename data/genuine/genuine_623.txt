@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P82526
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-09
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹6,550
+Insurance Claim ID: 5DEED274
+Hospital: Fortis Healthcare

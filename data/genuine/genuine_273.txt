@@ -1,9 +1,9 @@
-Patient Name: Rahul Patel
-Patient ID: P73578
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-31
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹13,183
-Insurance Claim ID: C09FD765
-Hospital: Fortis Healthcare
+Patient Name: Manish Singh
+Patient ID: P79388
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-10
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹19,645
+Insurance Claim ID: 3156C3C5
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P39320
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-24
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹85,729
+Insurance Claim ID: 458E1C49
+Hospital: AIIMS

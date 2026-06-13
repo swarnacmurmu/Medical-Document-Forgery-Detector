@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P62528
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-07
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹150,249
-Insurance Claim ID: 33229611
-Hospital: Lilavati Hospital
+Patient Name: Amit Nair
+Patient ID: P95371
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-13
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹46,238
+Insurance Claim ID: D40837BE
+Hospital: Manipal Hospital

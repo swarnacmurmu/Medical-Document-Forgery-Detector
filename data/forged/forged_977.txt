@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P43673
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-18
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹30,483
+Insurance Claim ID: 632ED24B
+Hospital: Apollo Hospital

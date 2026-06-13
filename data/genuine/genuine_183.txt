@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P34129
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-08
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹183,267
-Insurance Claim ID: 30167D6D
-Hospital: Fortis Healthcare
+Patient Name: Anjali Patel
+Patient ID: P11225
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-25
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹2,671
+Insurance Claim ID: 2E95DF2C
+Hospital: Apollo Hospital

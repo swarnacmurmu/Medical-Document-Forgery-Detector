@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P48156
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-26
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹197,895
-Insurance Claim ID: 18836A7B
-Hospital: Apollo Hospital
+Patient Name: Manish Menon
+Patient ID: P67309
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-11
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹5,390
+Insurance Claim ID: 41C39527
+Hospital: Lilavati Hospital

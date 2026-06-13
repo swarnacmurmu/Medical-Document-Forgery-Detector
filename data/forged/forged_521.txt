@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P79059
+Admission Date: 2026-03-01
+Discharge Date: 2026-02-27
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹707,274
+Insurance Claim ID: 822BBEED
+Hospital: AIIMS

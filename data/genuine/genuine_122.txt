@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P38614
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-03
-Diagnosis: Urinary Tract Infection
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹65,627
-Insurance Claim ID: FF29902B
-Hospital: AIIMS
+Patient Name: Rahul Reddy
+Patient ID: P73440
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-03
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹40,430
+Insurance Claim ID: 35EB3DFD
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P12060
-Admission Date: 2026-04-26
-Discharge Date: 2026-04-29
-Diagnosis: Hypertension
+Patient Name: Priya Verma
+Patient ID: P50520
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-13
+Diagnosis: Acute Gastroenteritis
 Treatment: Antibiotics for 5 days
-Total Amount: ₹114,768
-Insurance Claim ID: 03A520C8
+Total Amount: ₹6,532
+Insurance Claim ID: 179CF251
 Hospital: Manipal Hospital

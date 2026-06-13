@@ -1,9 +1,9 @@
-Patient Name: Manish Reddy
-Patient ID: P66938
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-24
-Diagnosis: Pneumonia
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹6,654
-Insurance Claim ID: F1E2FC2D
-Hospital: AIIMS
+Patient Name: Priya Nair
+Patient ID: P74984
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-28
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹16,331
+Insurance Claim ID: E2FF0EAF
+Hospital: Lilavati Hospital

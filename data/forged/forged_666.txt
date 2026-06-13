@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P98747
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-16
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹26,720
+Insurance Claim ID: 22B79CA3
+Hospital: AIIMS

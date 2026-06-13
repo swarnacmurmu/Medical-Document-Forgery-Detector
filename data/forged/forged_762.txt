@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P56968
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-17
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹11,418
+Insurance Claim ID: 413495BE
+Hospital: Fortis Healthcare

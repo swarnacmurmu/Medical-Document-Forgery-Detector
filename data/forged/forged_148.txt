@@ -1,9 +1,9 @@
-Patient Name: Priya Verma
-Patient ID: P59410
-Admission Date: 2026-04-18
-Discharge Date: 2026-04-27
-Diagnosis: Asthma
-Treatment: Sumatriptan as needed
-Total Amount: ₹135,503
-Insurance Claim ID: C4C3B3BB
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Nair
+Patient ID: P12013
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-18
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹37,344
+Insurance Claim ID: B5A0AB53
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P33612
-Admission Date: 2026-03-12
-Discharge Date: 2026-03-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Sumatriptan as needed
-Total Amount: ₹78,460
-Insurance Claim ID: 02ECB2EA
-Hospital: Apollo Hospital
+Patient Name: Anjali Reddy
+Patient ID: P23130
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-03
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹9,727
+Insurance Claim ID: B1358C7D
+Hospital: AIIMS

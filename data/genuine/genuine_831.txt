@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P34739
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-19
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹17,439
+Insurance Claim ID: 8C82F210
+Hospital: Manipal Hospital

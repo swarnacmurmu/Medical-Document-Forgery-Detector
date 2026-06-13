@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P14494
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-24
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,091
+Insurance Claim ID: 44B478B5
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Vikram Reddy
-Patient ID: P14685
-Admission Date: 2026-04-24
-Discharge Date: 2026-05-02
-Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹113,932
-Insurance Claim ID: 6B47CE3E
+Patient Name: Neha Nair
+Patient ID: P35101
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-31
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹8,781
+Insurance Claim ID: E89D57CA
 Hospital: Fortis Healthcare

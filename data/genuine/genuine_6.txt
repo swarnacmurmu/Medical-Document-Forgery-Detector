@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P11829
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-08
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹113,823
-Insurance Claim ID: F63A522B
-Hospital: AIIMS
+Patient Name: Pooja Kumar
+Patient ID: P89714
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-28
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹25,877
+Insurance Claim ID: 6D22623C
+Hospital: Fortis Healthcare

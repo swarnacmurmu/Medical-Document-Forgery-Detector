@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P86472
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-24
-Diagnosis: COVID-19
-Treatment: Azithromycin course
-Total Amount: ₹172,819
-Insurance Claim ID: D2B8B225
-Hospital: AIIMS
+Patient Name: Vikram Singh
+Patient ID: P65636
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-29
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹9,571
+Insurance Claim ID: 7E033836
+Hospital: Fortis Healthcare

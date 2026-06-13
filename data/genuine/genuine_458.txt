@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P58701
-Admission Date: 2026-03-11
-Discharge Date: 2026-03-18
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹46,858
-Insurance Claim ID: 70E0F370
+Patient Name: Pooja Gupta
+Patient ID: P47380
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-28
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹18,353
+Insurance Claim ID: 25C54600
 Hospital: AIIMS

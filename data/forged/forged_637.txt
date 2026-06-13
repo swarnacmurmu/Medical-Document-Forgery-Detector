@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P15503
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-09
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹112,227
+Insurance Claim ID: AB856F95
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P37677
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-01
-Diagnosis: Pneumonia
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹21,021
-Insurance Claim ID: 46D12502
-Hospital: AIIMS
+Patient Name: Neha Patel
+Patient ID: P80764
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-12
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹45,264
+Insurance Claim ID: 1143182C
+Hospital: Apollo Hospital

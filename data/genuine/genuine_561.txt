@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P58848
+Admission Date: 2026-05-25
+Discharge Date: 2026-06-03
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹60,274
+Insurance Claim ID: 2D07ABCC
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P23117
-Admission Date: 2026-06-05
-Discharge Date: 2026-06-06
-Diagnosis: Pneumonia
-Treatment: Inhaler and monitoring
-Total Amount: ₹2,005,444
-Insurance Claim ID: 2CC3CE7F
-Hospital: Lilavati Hospital
+Patient Name: Amit Gupta
+Patient ID: P34038
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-29
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹351,768
+Insurance Claim ID: E619D190
+Hospital: Fortis Healthcare

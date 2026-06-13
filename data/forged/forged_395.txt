@@ -1,9 +1,9 @@
-Patient Name: Amit Gupta
-Patient ID: P12099
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-05
-Diagnosis: Type 2 Diabetes
+Patient Name: Rajesh Nair
+Patient ID: P18502
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-11
+Diagnosis: Urinary Tract Infection
 Treatment: Inhaler and monitoring
-Total Amount: ₹1,322,100
-Insurance Claim ID: 2E43F55C
-Hospital: AIIMS
+Total Amount: ₹5,019
+Insurance Claim ID: 36EA655D
+Hospital: Lilavati Hospital

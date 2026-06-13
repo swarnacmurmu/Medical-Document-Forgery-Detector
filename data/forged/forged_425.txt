@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P72698
-Admission Date: 2026-04-28
-Discharge Date: 2026-05-07
+Patient Name: Pooja Kumar
+Patient ID: P63110
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-29
 Diagnosis: Urinary Tract Infection
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹1,019,732
-Insurance Claim ID: F1A31617
-Hospital: Apollo Hospital
+Total Amount: ₹32,136
+Insurance Claim ID: 75E0159A
+Hospital: AIIMS

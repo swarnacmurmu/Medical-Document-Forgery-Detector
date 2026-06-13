@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P83312
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,665
+Insurance Claim ID: 1FA5C93B
+Hospital: Lilavati Hospital

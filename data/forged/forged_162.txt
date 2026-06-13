@@ -1,9 +1,9 @@
-Patient Name: Pooja Verma
-Patient ID: P58521
-Admission Date: 2026-05-27
-Discharge Date: 2026-05-26
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹111,069
-Insurance Claim ID: F9F980C8
-Hospital: Fortis Healthcare
+Patient Name: Manish Reddy
+Patient ID: P35766
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-12
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹7,849
+Insurance Claim ID: DDE6617B
+Hospital: Lilavati Hospital

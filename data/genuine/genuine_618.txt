@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P97492
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-11
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,779
+Insurance Claim ID: E7699C43
+Hospital: AIIMS

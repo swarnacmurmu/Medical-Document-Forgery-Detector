@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P70388
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-05
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹2,773
+Insurance Claim ID: FED2ED60
+Hospital: AIIMS

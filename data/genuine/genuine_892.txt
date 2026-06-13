@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P76281
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹6,074
+Insurance Claim ID: CCF7192B
+Hospital: Fortis Healthcare

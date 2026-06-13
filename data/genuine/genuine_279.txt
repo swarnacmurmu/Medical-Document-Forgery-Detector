@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P36417
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-30
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹86,673
-Insurance Claim ID: DDBA49A3
+Patient Name: Neha Patel
+Patient ID: P41945
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-31
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹87,665
+Insurance Claim ID: 582D44FF
 Hospital: Lilavati Hospital

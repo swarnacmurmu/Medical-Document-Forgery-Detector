@@ -1,9 +1,9 @@
-Patient Name: Vikram Reddy
-Patient ID: P48505
-Admission Date: 2026-06-01
-Discharge Date: 2026-06-05
+Patient Name: Vikram Joshi
+Patient ID: P20072
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-09
 Diagnosis: Migraine
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹62,880
-Insurance Claim ID: 26B4411A
-Hospital: Lilavati Hospital
+Treatment: NSAIDs and dark room
+Total Amount: ₹6,174
+Insurance Claim ID: 9BD6ED5B
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P68447
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-15
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹24,012
+Insurance Claim ID: A2A5D9CF
+Hospital: AIIMS

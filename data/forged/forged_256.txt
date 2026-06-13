@@ -1,9 +1,9 @@
-Patient Name: Rahul Patel
-Patient ID: P81631
-Admission Date: 2026-05-08
-Discharge Date: 2026-05-15
-Diagnosis: COVID-19
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹2,269,136
-Insurance Claim ID: 08D60D39
-Hospital: Apollo Hospital
+Patient Name: Rahul Reddy
+Patient ID: P54318
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-20
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹35,658
+Insurance Claim ID: 3885EE0C
+Hospital: Manipal Hospital

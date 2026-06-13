@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P40001
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-22
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹136,880
+Insurance Claim ID: 817D2C7C
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Reddy
+Patient ID: P16496
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-15
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹19,100
+Insurance Claim ID: C1894296
+Hospital: Fortis Healthcare

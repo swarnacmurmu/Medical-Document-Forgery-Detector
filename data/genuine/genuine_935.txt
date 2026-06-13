@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P34920
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-21
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹62,300
+Insurance Claim ID: C8FD04A5
+Hospital: Apollo Hospital

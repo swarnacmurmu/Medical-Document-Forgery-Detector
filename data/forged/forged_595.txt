@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P37052
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-04
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹19,035
+Insurance Claim ID: D3ACEB61
+Hospital: AIIMS

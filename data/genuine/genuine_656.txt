@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P53584
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-14
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹20,848
+Insurance Claim ID: 692FFB3D
+Hospital: Lilavati Hospital

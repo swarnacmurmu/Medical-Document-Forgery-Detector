@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P71985
-Admission Date: 2026-05-08
-Discharge Date: 2026-05-17
-Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹145,924
-Insurance Claim ID: EE9E71EB
-Hospital: AIIMS
+Patient Name: Rajesh Verma
+Patient ID: P73388
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-28
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹24,745
+Insurance Claim ID: 273CA5D5
+Hospital: Fortis Healthcare

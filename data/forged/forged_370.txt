@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P19117
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-03
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹92,713
-Insurance Claim ID: 87B6DCBE
+Patient Name: Sunita Menon
+Patient ID: P73201
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-28
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹57,616
+Insurance Claim ID: 70E2901C
 Hospital: Lilavati Hospital

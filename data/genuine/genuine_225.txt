@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P68729
-Admission Date: 2026-02-13
-Discharge Date: 2026-02-23
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹87,827
-Insurance Claim ID: 004793CB
-Hospital: AIIMS
+Patient Name: Rajesh Verma
+Patient ID: P82355
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-20
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹20,059
+Insurance Claim ID: 159F934E
+Hospital: Manipal Hospital

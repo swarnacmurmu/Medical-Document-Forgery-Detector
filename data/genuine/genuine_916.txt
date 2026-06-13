@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P95239
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-02
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹11,908
+Insurance Claim ID: 5FB37BDF
+Hospital: AIIMS

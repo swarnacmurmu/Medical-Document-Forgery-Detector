@@ -1,9 +1,9 @@
-Patient Name: Rajesh Kumar
-Patient ID: P91743
-Admission Date: 2026-05-26
-Discharge Date: 2026-06-02
-Diagnosis: Urinary Tract Infection
+Patient Name: Sunita Verma
+Patient ID: P80374
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-07
+Diagnosis: Dengue Fever
 Treatment: Rest and paracetamol
-Total Amount: ₹164,036
-Insurance Claim ID: B4210C69
-Hospital: Manipal Hospital
+Total Amount: ₹36,784
+Insurance Claim ID: 12B2F6AE
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P20063
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-08
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹16,520
+Insurance Claim ID: EC73E9F7
+Hospital: Manipal Hospital

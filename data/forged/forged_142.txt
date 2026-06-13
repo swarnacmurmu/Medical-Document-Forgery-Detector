@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P24911
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-21
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹1,198,070
-Insurance Claim ID: D5457DA4
-Hospital: Fortis Healthcare
+Patient Name: Sunita Joshi
+Patient ID: P81992
+Admission Date: 2026-03-28
+Discharge Date: 2026-03-25
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹161,109
+Insurance Claim ID: C1F5948B
+Hospital: Manipal Hospital

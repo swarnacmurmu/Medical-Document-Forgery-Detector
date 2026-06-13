@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P45165
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-06
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹38,679
+Insurance Claim ID: 3AE75614
+Hospital: AIIMS

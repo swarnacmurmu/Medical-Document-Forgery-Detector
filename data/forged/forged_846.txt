@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P76628
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-18
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹34,282
+Insurance Claim ID: DEABA1ED
+Hospital: Apollo Hospital

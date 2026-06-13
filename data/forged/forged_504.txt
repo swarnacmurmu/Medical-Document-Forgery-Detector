@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P14539
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-16
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹210,120
+Insurance Claim ID: 4047D5B8
+Hospital: Manipal Hospital

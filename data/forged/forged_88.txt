@@ -1,9 +1,9 @@
-Patient Name: Pooja Sharma
-Patient ID: P36891
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-11
-Diagnosis: Hypertension
+Patient Name: Amit Reddy
+Patient ID: P61216
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-13
+Diagnosis: Acute Gastroenteritis
 Treatment: Lisinopril 10mg daily
-Total Amount: ₹111,211
-Insurance Claim ID: EAC2EE3E
-Hospital: Fortis Healthcare
+Total Amount: ₹16,965
+Insurance Claim ID: 75B341AA
+Hospital: Manipal Hospital

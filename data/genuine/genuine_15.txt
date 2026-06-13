@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P35783
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-26
-Diagnosis: Asthma
-Treatment: Inhaler and monitoring
-Total Amount: ₹126,674
-Insurance Claim ID: 5B3DB0C9
+Patient Name: Rahul Menon
+Patient ID: P17907
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-09
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹8,713
+Insurance Claim ID: 35C4EB22
 Hospital: Manipal Hospital

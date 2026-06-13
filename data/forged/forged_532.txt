@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P50728
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-07
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹4,379
+Insurance Claim ID: BD29EF30
+Hospital: Apollo Hospital

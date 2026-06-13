@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P72753
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹120,749
-Insurance Claim ID: A22867AB
+Patient Name: Neha Verma
+Patient ID: P92203
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-01
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹2,266
+Insurance Claim ID: D70286D5
 Hospital: Manipal Hospital

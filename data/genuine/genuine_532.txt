@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P52031
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-16
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹46,530
+Insurance Claim ID: 60941C22
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P37032
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-27
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹16,103
+Insurance Claim ID: F992E136
+Hospital: Fortis Healthcare

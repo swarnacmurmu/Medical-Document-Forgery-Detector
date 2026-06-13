@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P40991
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-12
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹3,028
+Insurance Claim ID: 44DE7903
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P27651
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-18
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹66,336
-Insurance Claim ID: CC6D4A98
-Hospital: Lilavati Hospital
+Patient Name: Priya Kumar
+Patient ID: P59459
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-12
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹137,540
+Insurance Claim ID: 68196688
+Hospital: Apollo Hospital

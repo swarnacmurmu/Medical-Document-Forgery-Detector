@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P24167
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-12
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹18,214
+Insurance Claim ID: 3EFE55D4
+Hospital: Manipal Hospital

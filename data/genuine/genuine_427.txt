@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P58510
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-20
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹71,159
-Insurance Claim ID: 07C630E9
-Hospital: Manipal Hospital
+Patient Name: Pooja Verma
+Patient ID: P78220
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-23
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹86,700
+Insurance Claim ID: AEC2507D
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Priya Verma
-Patient ID: P69214
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-06
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹145,089
-Insurance Claim ID: 593E732F
-Hospital: AIIMS
+Patient Name: Neha Kumar
+Patient ID: P49425
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-25
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹3,727
+Insurance Claim ID: 9706E24B
+Hospital: Fortis Healthcare

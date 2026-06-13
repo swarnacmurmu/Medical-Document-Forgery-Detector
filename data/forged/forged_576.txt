@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P46754
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-05
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹198,360
+Insurance Claim ID: 52736E82
+Hospital: Fortis Healthcare

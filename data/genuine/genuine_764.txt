@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P63272
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-24
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,059
+Insurance Claim ID: 240F7B78
+Hospital: AIIMS

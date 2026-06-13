@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P81827
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-04
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹29,174
+Insurance Claim ID: 517BA9C7
+Hospital: Lilavati Hospital

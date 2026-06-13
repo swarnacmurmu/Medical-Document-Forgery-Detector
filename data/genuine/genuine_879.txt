@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P86920
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-21
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,610
+Insurance Claim ID: 665857C7
+Hospital: Apollo Hospital

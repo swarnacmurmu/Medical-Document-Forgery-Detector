@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P78661
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-08
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹37,756
+Insurance Claim ID: AEDA1A73
+Hospital: Manipal Hospital

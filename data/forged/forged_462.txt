@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P53065
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-10
+Patient Name: Sunita Joshi
+Patient ID: P41301
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-06
 Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹81,003
-Insurance Claim ID: 05806ACE
-Hospital: Fortis Healthcare
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,596
+Insurance Claim ID: D2D52589
+Hospital: Apollo Hospital

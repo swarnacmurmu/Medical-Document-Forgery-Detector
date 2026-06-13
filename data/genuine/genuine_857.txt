@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P42709
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-08
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,358
+Insurance Claim ID: C1953852
+Hospital: Fortis Healthcare

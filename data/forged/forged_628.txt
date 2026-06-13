@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P80862
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-18
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹59,838
+Insurance Claim ID: 27BDE32E
+Hospital: Manipal Hospital

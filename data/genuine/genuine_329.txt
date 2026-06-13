@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P24410
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹170,603
-Insurance Claim ID: C7BDA458
-Hospital: Lilavati Hospital
+Patient Name: Vikram Kumar
+Patient ID: P11891
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-09
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹34,492
+Insurance Claim ID: 8B5C4F1C
+Hospital: AIIMS

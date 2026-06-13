@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P51792
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-15
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹138,617
-Insurance Claim ID: 7B96558D
+Patient Name: Pooja Menon
+Patient ID: P82511
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-09
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹8,319
+Insurance Claim ID: EE1444B2
 Hospital: Lilavati Hospital

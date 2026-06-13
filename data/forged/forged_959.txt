@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P43124
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-26
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹46,107
+Insurance Claim ID: 5AC8457A
+Hospital: AIIMS

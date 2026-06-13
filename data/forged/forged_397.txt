@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P74740
-Admission Date: 2026-04-20
-Discharge Date: 2026-04-29
-Diagnosis: COVID-19
+Patient Name: Pooja Nair
+Patient ID: P83565
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-05
+Diagnosis: Acute Gastroenteritis
 Treatment: Metformin 500mg twice daily
-Total Amount: ₹107,820
-Insurance Claim ID: B13FFA92
-Hospital: AIIMS
+Total Amount: ₹6,903
+Insurance Claim ID: D371D4FD
+Hospital: Lilavati Hospital

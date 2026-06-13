@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P95299
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-11
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹2,524
+Insurance Claim ID: D9CA30C3
+Hospital: Apollo Hospital

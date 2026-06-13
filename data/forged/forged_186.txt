@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P32572
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-09
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹96,268
-Insurance Claim ID: F443A9EC
-Hospital: Apollo Hospital
+Patient Name: Vikram Verma
+Patient ID: P84490
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-28
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹72,670
+Insurance Claim ID: E492E151
+Hospital: AIIMS

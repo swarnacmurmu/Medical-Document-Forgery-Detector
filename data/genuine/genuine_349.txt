@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P45551
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-13
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹55,983
-Insurance Claim ID: 8F7901BA
+Patient Name: Neha Patel
+Patient ID: P42429
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-14
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹10,117
+Insurance Claim ID: 8E5CD6BA
 Hospital: Lilavati Hospital

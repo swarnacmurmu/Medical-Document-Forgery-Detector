@@ -1,9 +1,9 @@
-Patient Name: Priya Joshi
-Patient ID: P65511
-Admission Date: 2026-06-01
-Discharge Date: 2026-06-08
-Diagnosis: Urinary Tract Infection
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹137,461
-Insurance Claim ID: 8CF68837
-Hospital: Fortis Healthcare
+Patient Name: Manish Nair
+Patient ID: P87937
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-18
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹52,872
+Insurance Claim ID: D53206D7
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P89057
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-09
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹5,638
+Insurance Claim ID: A6D84824
+Hospital: Apollo Hospital

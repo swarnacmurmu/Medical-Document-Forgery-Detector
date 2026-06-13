@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P35930
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-08
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹6,444
+Insurance Claim ID: 811529B0
+Hospital: AIIMS

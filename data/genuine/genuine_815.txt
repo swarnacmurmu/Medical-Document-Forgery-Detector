@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P86815
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-06
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹2,683
+Insurance Claim ID: 2C3B9399
+Hospital: AIIMS

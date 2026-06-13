@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P21538
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-26
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹101,773
-Insurance Claim ID: A4AA0B32
-Hospital: Lilavati Hospital
+Patient Name: Pooja Joshi
+Patient ID: P23398
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-18
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹8,611
+Insurance Claim ID: A073E048
+Hospital: AIIMS

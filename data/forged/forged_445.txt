@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P40656
-Admission Date: 2026-05-27
+Patient Name: Rahul Menon
+Patient ID: P22272
+Admission Date: 2026-05-25
 Discharge Date: 2026-05-24
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹1,690,107
-Insurance Claim ID: 4CDA8D6C
-Hospital: Manipal Hospital
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹26,107
+Insurance Claim ID: 4770A717
+Hospital: Fortis Healthcare

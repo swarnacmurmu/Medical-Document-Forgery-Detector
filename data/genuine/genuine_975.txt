@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P40620
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-15
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹37,071
+Insurance Claim ID: 78C14FA8
+Hospital: Manipal Hospital

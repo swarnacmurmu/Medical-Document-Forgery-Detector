@@ -1,9 +1,9 @@
-Patient Name: Amit Singh
-Patient ID: P46417
-Admission Date: 2026-04-28
-Discharge Date: 2026-05-07
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹145,676
-Insurance Claim ID: F1A31617
+Patient Name: Rahul Menon
+Patient ID: P62944
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹9,656
+Insurance Claim ID: 800CC10D
 Hospital: Apollo Hospital

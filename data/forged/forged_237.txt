@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P92698
-Admission Date: 2026-04-19
-Discharge Date: 2026-04-22
-Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹134,677
-Insurance Claim ID: DFF09899
-Hospital: Manipal Hospital
+Patient Name: Manish Sharma
+Patient ID: P40534
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-24
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹37,850
+Insurance Claim ID: 0C86A5F2
+Hospital: AIIMS

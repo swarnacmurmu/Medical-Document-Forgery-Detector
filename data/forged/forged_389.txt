@@ -1,9 +1,9 @@
-Patient Name: Amit Joshi
-Patient ID: P54238
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-07
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹177,297
-Insurance Claim ID: E23B1D31
-Hospital: AIIMS
+Patient Name: Sunita Nair
+Patient ID: P41356
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-14
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹164,628
+Insurance Claim ID: 3D424503
+Hospital: Apollo Hospital

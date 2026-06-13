@@ -1,9 +1,9 @@
-Patient Name: Rahul Joshi
-Patient ID: P13181
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-30
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹65,551
-Insurance Claim ID: CF4B3F89
-Hospital: Manipal Hospital
+Patient Name: Vikram Reddy
+Patient ID: P13921
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-24
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,638
+Insurance Claim ID: 2FCF6E23
+Hospital: Lilavati Hospital

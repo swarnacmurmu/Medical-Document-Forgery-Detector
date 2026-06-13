@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P58898
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-09
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹14,689
+Insurance Claim ID: 8BD86E67
+Hospital: Fortis Healthcare

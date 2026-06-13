@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P33292
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-25
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹12,023
+Insurance Claim ID: 5E7790AA
+Hospital: AIIMS

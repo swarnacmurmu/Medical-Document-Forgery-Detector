@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P54454
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-07
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹3,027
+Insurance Claim ID: DD543763
+Hospital: AIIMS

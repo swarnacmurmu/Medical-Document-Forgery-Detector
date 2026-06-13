@@ -1,9 +1,9 @@
-Patient Name: Amit Reddy
-Patient ID: P77593
-Admission Date: 2026-04-22
-Discharge Date: 2026-04-26
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹91,859
-Insurance Claim ID: EE929157
-Hospital: Fortis Healthcare
+Patient Name: Manish Patel
+Patient ID: P97681
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-08
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹7,035
+Insurance Claim ID: 69476DA8
+Hospital: AIIMS

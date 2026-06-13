@@ -1,9 +1,9 @@
-Patient Name: Vikram Joshi
-Patient ID: P44307
-Admission Date: 2026-05-27
-Discharge Date: 2026-05-25
-Diagnosis: Hypertension
-Treatment: Inhaler and monitoring
-Total Amount: ₹22,526
-Insurance Claim ID: AAF98B1E
-Hospital: Fortis Healthcare
+Patient Name: Vikram Reddy
+Patient ID: P32093
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-02
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹166,200
+Insurance Claim ID: 0ADFBC52
+Hospital: Manipal Hospital

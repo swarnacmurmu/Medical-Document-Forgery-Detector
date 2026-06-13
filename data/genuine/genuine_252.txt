@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P98192
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-22
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹118,391
-Insurance Claim ID: 3CB561EF
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Kumar
+Patient ID: P25723
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-08
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹6,858
+Insurance Claim ID: 73FECAD5
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P78562
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-13
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹14,687
+Insurance Claim ID: A0E1C423
+Hospital: Manipal Hospital

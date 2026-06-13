@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P50686
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-07
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,361
+Insurance Claim ID: E7811980
+Hospital: AIIMS

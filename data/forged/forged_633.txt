@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P67990
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-18
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹68,300
+Insurance Claim ID: EB11203E
+Hospital: Lilavati Hospital

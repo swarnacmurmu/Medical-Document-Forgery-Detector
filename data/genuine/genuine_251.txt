@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P13638
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-25
-Diagnosis: Acute Gastroenteritis
-Treatment: Azithromycin course
-Total Amount: ₹189,944
-Insurance Claim ID: FBC8290E
-Hospital: Apollo Hospital
+Patient Name: Vikram Kumar
+Patient ID: P52204
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-30
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹17,619
+Insurance Claim ID: B1003C8C
+Hospital: Manipal Hospital

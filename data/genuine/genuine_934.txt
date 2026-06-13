@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P38536
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-20
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹7,076
+Insurance Claim ID: 72EDB622
+Hospital: Lilavati Hospital

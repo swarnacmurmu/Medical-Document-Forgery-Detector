@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P33221
-Admission Date: 2026-03-07
-Discharge Date: 2026-03-14
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹184,304
-Insurance Claim ID: 3DCD2DCA
-Hospital: Fortis Healthcare
+Patient Name: Sunita Joshi
+Patient ID: P78802
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-25
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,717
+Insurance Claim ID: 5D09E69D
+Hospital: Apollo Hospital

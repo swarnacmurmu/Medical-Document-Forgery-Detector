@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P87121
-Admission Date: 2026-05-28
-Discharge Date: 2026-06-01
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹173,741
-Insurance Claim ID: 55F32D43
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Joshi
+Patient ID: P88886
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-16
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹3,705
+Insurance Claim ID: C867129C
+Hospital: Manipal Hospital

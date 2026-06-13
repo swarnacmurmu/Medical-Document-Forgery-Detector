@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P44726
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-18
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹198,036
+Insurance Claim ID: E1BD4C9B
+Hospital: Apollo Hospital

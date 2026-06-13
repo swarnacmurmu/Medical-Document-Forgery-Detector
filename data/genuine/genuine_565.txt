@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P62650
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-14
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹6,946
+Insurance Claim ID: 393FED0B
+Hospital: AIIMS

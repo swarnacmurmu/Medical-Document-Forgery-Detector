@@ -1,9 +1,9 @@
-Patient Name: Sunita Patel
-Patient ID: P93291
-Admission Date: 2026-04-04
+Patient Name: Vikram Gupta
+Patient ID: P35875
+Admission Date: 2026-04-06
 Discharge Date: 2026-04-07
-Diagnosis: Urinary Tract Infection
-Treatment: Antibiotics for 5 days
-Total Amount: ₹141,245
-Insurance Claim ID: F539F7DE
-Hospital: Fortis Healthcare
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹6,464
+Insurance Claim ID: AE14B9EF
+Hospital: Apollo Hospital

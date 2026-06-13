@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P42306
-Admission Date: 2026-03-12
-Discharge Date: 2026-03-09
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹198,666
-Insurance Claim ID: 82996191
-Hospital: Fortis Healthcare
+Patient Name: Amit Joshi
+Patient ID: P97640
+Admission Date: 2026-04-02
+Discharge Date: 2026-03-31
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹37,900
+Insurance Claim ID: 06CD6EFF
+Hospital: Manipal Hospital

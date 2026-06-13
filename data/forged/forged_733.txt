@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P47115
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-10
+Diagnosis: Hypertension
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹25,720
+Insurance Claim ID: 00F4357C
+Hospital: AIIMS

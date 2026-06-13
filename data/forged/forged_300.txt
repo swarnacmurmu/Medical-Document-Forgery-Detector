@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P68414
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹1,328,239
-Insurance Claim ID: A22867AB
-Hospital: Manipal Hospital
+Patient Name: Manish Reddy
+Patient ID: P37786
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹423,513
+Insurance Claim ID: 9F1C486F
+Hospital: Fortis Healthcare

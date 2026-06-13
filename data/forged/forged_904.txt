@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P41213
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-05
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹59,245
+Insurance Claim ID: 43499C63
+Hospital: Apollo Hospital

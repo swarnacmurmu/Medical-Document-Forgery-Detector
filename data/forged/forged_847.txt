@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P50929
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-08
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹94,829
+Insurance Claim ID: FAB1CA58
+Hospital: Manipal Hospital

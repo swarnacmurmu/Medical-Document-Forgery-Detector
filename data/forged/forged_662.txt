@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P72870
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-16
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹115,775
+Insurance Claim ID: 5D2FC2F3
+Hospital: Lilavati Hospital

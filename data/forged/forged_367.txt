@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P53952
-Admission Date: 2026-04-19
-Discharge Date: 2026-04-23
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹374,304
-Insurance Claim ID: 16DA860F
-Hospital: AIIMS
+Patient Name: Neha Kumar
+Patient ID: P38755
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-02
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹23,900
+Insurance Claim ID: 0159C306
+Hospital: Lilavati Hospital

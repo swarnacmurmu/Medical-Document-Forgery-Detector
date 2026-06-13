@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P18927
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-30
-Diagnosis: Type 2 Diabetes
-Treatment: Antibiotics for 5 days
-Total Amount: ₹190,280
-Insurance Claim ID: 312C3944
-Hospital: Manipal Hospital
+Patient Name: Rajesh Menon
+Patient ID: P64545
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-17
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹2,503
+Insurance Claim ID: 72D8EC07
+Hospital: AIIMS

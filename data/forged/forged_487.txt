@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P26777
-Admission Date: 2026-06-06
-Discharge Date: 2026-06-04
+Patient Name: Manish Sharma
+Patient ID: P16708
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-01
 Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹105,710
-Insurance Claim ID: 85666359
-Hospital: AIIMS
+Treatment: Azithromycin course
+Total Amount: ₹79,570
+Insurance Claim ID: F7A790A3
+Hospital: Apollo Hospital

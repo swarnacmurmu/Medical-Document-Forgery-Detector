@@ -1,9 +1,9 @@
-Patient Name: Rahul Patel
-Patient ID: P51249
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-13
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹109,656
-Insurance Claim ID: 4B023D68
-Hospital: Manipal Hospital
+Patient Name: Priya Singh
+Patient ID: P90498
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-16
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹46,951
+Insurance Claim ID: 251D7080
+Hospital: AIIMS

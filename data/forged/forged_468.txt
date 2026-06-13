@@ -1,9 +1,9 @@
-Patient Name: Pooja Sharma
-Patient ID: P83328
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-14
-Diagnosis: Dengue Fever
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹93,392
-Insurance Claim ID: 2EFA8080
-Hospital: Fortis Healthcare
+Patient Name: Priya Reddy
+Patient ID: P72180
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-22
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹28,008
+Insurance Claim ID: CA1E49E0
+Hospital: AIIMS

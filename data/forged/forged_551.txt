@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P33896
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-09
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹19,115
+Insurance Claim ID: 7F8639E7
+Hospital: Lilavati Hospital

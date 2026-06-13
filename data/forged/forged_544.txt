@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P71742
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-04
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹4,855
+Insurance Claim ID: 52D65ECD
+Hospital: Manipal Hospital

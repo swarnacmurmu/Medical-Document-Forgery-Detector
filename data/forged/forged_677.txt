@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P20638
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-11
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹422,370
+Insurance Claim ID: 0E5B72FA
+Hospital: AIIMS

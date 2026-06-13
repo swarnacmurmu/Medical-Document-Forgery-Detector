@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P53954
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-20
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,329
+Insurance Claim ID: 871538CC
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P52458
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-29
-Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹796,236
-Insurance Claim ID: EC836D71
-Hospital: Manipal Hospital
+Patient Name: Rahul Joshi
+Patient ID: P66337
+Admission Date: 2026-06-01
+Discharge Date: 2026-05-31
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹74,295
+Insurance Claim ID: 4D259DC3
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P78496
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-04
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹82,884
+Insurance Claim ID: 9DC74BA8
+Hospital: Manipal Hospital

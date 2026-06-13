@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P69982
-Admission Date: 2026-03-20
-Discharge Date: 2026-03-18
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹71,490
-Insurance Claim ID: 9B16DADB
-Hospital: Manipal Hospital
+Patient Name: Priya Patel
+Patient ID: P89764
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-02
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹10,779
+Insurance Claim ID: C28932E1
+Hospital: Lilavati Hospital

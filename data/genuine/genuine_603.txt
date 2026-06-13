@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P60238
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-17
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹5,283
+Insurance Claim ID: EAF2C6D3
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P89617
+Admission Date: 2026-03-26
+Discharge Date: 2026-04-02
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹57,945
+Insurance Claim ID: 409934D9
+Hospital: Fortis Healthcare

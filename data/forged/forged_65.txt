@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P71477
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-01
-Diagnosis: Type 2 Diabetes
+Patient Name: Vikram Nair
+Patient ID: P46289
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-01
+Diagnosis: Dengue Fever
 Treatment: Oseltamivir and supportive care
-Total Amount: ₹23,336
-Insurance Claim ID: 9648B150
+Total Amount: ₹100,845
+Insurance Claim ID: 734AAED5
 Hospital: Fortis Healthcare

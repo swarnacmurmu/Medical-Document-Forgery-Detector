@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P71555
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-21
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹6,427
+Insurance Claim ID: D52C8987
+Hospital: Manipal Hospital

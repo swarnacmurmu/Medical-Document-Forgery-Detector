@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P54238
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-17
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹177,297
-Insurance Claim ID: E23B1D31
+Patient Name: Manish Verma
+Patient ID: P45683
+Admission Date: 2026-04-29
+Discharge Date: 2026-04-30
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹16,265
+Insurance Claim ID: 59A74435
 Hospital: AIIMS

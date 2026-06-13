@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P42255
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-10
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹28,730
+Insurance Claim ID: 09039172
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P74038
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-09
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹19,445
+Insurance Claim ID: 553707F7
+Hospital: Manipal Hospital

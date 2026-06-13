@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P47859
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-15
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹96,950
+Insurance Claim ID: AEF84191
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P42378
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-01
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹87,810
+Insurance Claim ID: B67CF704
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P27569
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-18
-Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹24,677
-Insurance Claim ID: 3BC7C3B2
-Hospital: AIIMS
+Patient Name: Pooja Kumar
+Patient ID: P50458
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-25
+Diagnosis: Migraine
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹2,290
+Insurance Claim ID: 541B0177
+Hospital: Fortis Healthcare

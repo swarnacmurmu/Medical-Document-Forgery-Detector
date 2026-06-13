@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P24041
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-20
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹14,343
+Insurance Claim ID: 0A7A2FF9
+Hospital: Lilavati Hospital

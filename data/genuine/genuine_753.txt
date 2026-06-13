@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P64087
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-11
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹2,977
+Insurance Claim ID: 2350F44D
+Hospital: Apollo Hospital

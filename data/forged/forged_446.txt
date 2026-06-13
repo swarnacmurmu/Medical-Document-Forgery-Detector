@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P31680
-Admission Date: 2026-04-27
-Discharge Date: 2026-04-28
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹157,482
-Insurance Claim ID: 8D72DD95
-Hospital: Lilavati Hospital
+Patient Name: Manish Verma
+Patient ID: P63588
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-02
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹37,344
+Insurance Claim ID: 1A258E03
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Neha Kumar
+Patient ID: P87479
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-07
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹2,400
+Insurance Claim ID: 26C30FDA
+Hospital: Manipal Hospital

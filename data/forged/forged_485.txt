@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P45659
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-02
-Diagnosis: Hypertension
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹144,012
-Insurance Claim ID: 245045AE
-Hospital: Fortis Healthcare
+Patient Name: Neha Gupta
+Patient ID: P34963
+Admission Date: 2026-04-22
+Discharge Date: 2026-04-27
+Diagnosis: Pneumonia
+Treatment: Rest and paracetamol
+Total Amount: ₹36,123
+Insurance Claim ID: 28FA27F9
+Hospital: AIIMS

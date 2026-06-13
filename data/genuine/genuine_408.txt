@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P39346
-Admission Date: 2026-05-01
-Discharge Date: 2026-05-05
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹40,818
-Insurance Claim ID: 6F9798C9
-Hospital: Fortis Healthcare
+Patient Name: Vikram Joshi
+Patient ID: P27233
+Admission Date: 2026-03-30
+Discharge Date: 2026-04-02
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹24,484
+Insurance Claim ID: 2A42EFF8
+Hospital: Apollo Hospital

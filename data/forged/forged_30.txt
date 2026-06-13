@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P87121
-Admission Date: 2026-05-28
-Discharge Date: 2026-05-25
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹2,779,856
-Insurance Claim ID: 55F32D43
+Patient Name: Amit Verma
+Patient ID: P35737
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-17
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,812
+Insurance Claim ID: E7F1B0F3
 Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P52900
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-21
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹43,909
+Insurance Claim ID: EEE49800
+Hospital: AIIMS

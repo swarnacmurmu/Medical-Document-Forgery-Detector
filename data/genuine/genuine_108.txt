@@ -1,9 +1,9 @@
-Patient Name: Manish Patel
-Patient ID: P51475
-Admission Date: 2026-04-28
-Discharge Date: 2026-05-01
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹188,949
-Insurance Claim ID: A0260B96
-Hospital: Lilavati Hospital
+Patient Name: Anjali Joshi
+Patient ID: P46614
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-19
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,891
+Insurance Claim ID: FDFB7408
+Hospital: Apollo Hospital

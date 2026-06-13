@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P58340
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-03
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹36,655
+Insurance Claim ID: 2C6E2C96
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P81945
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-06
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹90,853
-Insurance Claim ID: 23B90AD8
+Patient Name: Pooja Verma
+Patient ID: P38584
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹16,019
+Insurance Claim ID: CC68A961
 Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P77120
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-14
-Diagnosis: Asthma
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹17,987
-Insurance Claim ID: 3E743D01
-Hospital: Apollo Hospital
+Patient Name: Priya Gupta
+Patient ID: P78157
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-07
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹19,646
+Insurance Claim ID: 124B907B
+Hospital: Lilavati Hospital

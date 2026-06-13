@@ -1,9 +1,9 @@
-Patient Name: Amit Gupta
-Patient ID: P55796
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-11
-Diagnosis: Type 2 Diabetes
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹66,105
-Insurance Claim ID: 2E43F55C
-Hospital: AIIMS
+Patient Name: Rahul Nair
+Patient ID: P72460
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-20
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹48,929
+Insurance Claim ID: 1B164E22
+Hospital: Fortis Healthcare

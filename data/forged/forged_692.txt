@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P37460
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-04
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹61,045
+Insurance Claim ID: 72B8B6B0
+Hospital: AIIMS

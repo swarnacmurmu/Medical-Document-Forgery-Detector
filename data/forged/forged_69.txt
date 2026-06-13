@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P22739
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-04
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹48,052
-Insurance Claim ID: 8DFE2D18
+Patient Name: Rahul Joshi
+Patient ID: P26048
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-20
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹12,737
+Insurance Claim ID: 73B22DF5
 Hospital: AIIMS

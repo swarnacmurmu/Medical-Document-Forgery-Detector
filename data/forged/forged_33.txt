@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P44695
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-05
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹135,818
-Insurance Claim ID: BF96D7BF
-Hospital: Manipal Hospital
+Patient Name: Neha Menon
+Patient ID: P69301
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-18
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹77,262
+Insurance Claim ID: 19E78278
+Hospital: AIIMS

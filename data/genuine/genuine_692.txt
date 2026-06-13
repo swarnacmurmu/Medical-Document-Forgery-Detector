@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P35421
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-04
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹20,028
+Insurance Claim ID: 2036CBB4
+Hospital: Fortis Healthcare

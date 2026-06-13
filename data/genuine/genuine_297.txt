@@ -1,9 +1,9 @@
-Patient Name: Pooja Nair
-Patient ID: P29999
-Admission Date: 2026-03-24
-Discharge Date: 2026-03-25
+Patient Name: Vikram Nair
+Patient ID: P62301
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-19
 Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹86,161
-Insurance Claim ID: 877E7462
-Hospital: AIIMS
+Treatment: NSAIDs and dark room
+Total Amount: ₹4,909
+Insurance Claim ID: 392315CC
+Hospital: Fortis Healthcare

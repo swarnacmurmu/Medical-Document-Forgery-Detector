@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P76010
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-20
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹59,329
-Insurance Claim ID: 698A6E07
-Hospital: Fortis Healthcare
+Patient Name: Amit Singh
+Patient ID: P87618
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-23
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹24,880
+Insurance Claim ID: 0772BE53
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P95271
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-01
+Diagnosis: Type 2 Diabetes
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹29,140
+Insurance Claim ID: 8D0C5F95
+Hospital: Lilavati Hospital

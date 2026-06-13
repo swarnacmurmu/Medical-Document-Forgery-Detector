@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P84810
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-23
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹17,590
+Insurance Claim ID: 16B7EEA5
+Hospital: AIIMS

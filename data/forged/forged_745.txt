@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P88079
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-29
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹62,772
+Insurance Claim ID: B3007AE1
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P90532
+Admission Date: 2026-03-02
+Discharge Date: 2026-02-27
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹68,643
+Insurance Claim ID: 2F8A28D3
+Hospital: Fortis Healthcare

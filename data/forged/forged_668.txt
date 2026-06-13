@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P97828
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-20
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹17,086
+Insurance Claim ID: D5B92319
+Hospital: Manipal Hospital

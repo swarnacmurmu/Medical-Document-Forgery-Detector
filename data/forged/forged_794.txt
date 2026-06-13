@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P73412
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-24
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹6,992
+Insurance Claim ID: B7C88124
+Hospital: Manipal Hospital

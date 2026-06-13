@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P22012
+Admission Date: 2026-04-30
+Discharge Date: 2026-04-28
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹28,925
+Insurance Claim ID: FBC20644
+Hospital: Lilavati Hospital

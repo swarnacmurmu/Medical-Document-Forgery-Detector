@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P75322
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-09
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹147,577
-Insurance Claim ID: 2B1D8926
-Hospital: Fortis Healthcare
+Patient Name: Sunita Verma
+Patient ID: P52568
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-28
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹28,611
+Insurance Claim ID: 7F952382
+Hospital: Apollo Hospital

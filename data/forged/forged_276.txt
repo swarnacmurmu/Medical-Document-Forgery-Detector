@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P25302
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-11
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹60,817
-Insurance Claim ID: 7757C628
-Hospital: Fortis Healthcare
+Patient Name: Neha Joshi
+Patient ID: P30748
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-20
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹14,876
+Insurance Claim ID: 28969B32
+Hospital: Manipal Hospital

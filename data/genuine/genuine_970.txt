@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P30734
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-16
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹13,158
+Insurance Claim ID: A50EDA8C
+Hospital: Manipal Hospital

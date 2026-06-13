@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P40075
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-17
+Diagnosis: Migraine
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹27,708
+Insurance Claim ID: 8C201C24
+Hospital: AIIMS

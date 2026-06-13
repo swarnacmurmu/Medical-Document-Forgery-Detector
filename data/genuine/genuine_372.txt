@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P41084
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-28
-Diagnosis: Hypertension
-Treatment: Inhaler and monitoring
-Total Amount: ₹6,150
-Insurance Claim ID: 1C0B0E0B
-Hospital: Lilavati Hospital
+Patient Name: Pooja Gupta
+Patient ID: P57342
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,097
+Insurance Claim ID: 5E957A24
+Hospital: Manipal Hospital

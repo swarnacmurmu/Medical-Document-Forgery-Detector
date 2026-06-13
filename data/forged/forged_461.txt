@@ -1,9 +1,9 @@
-Patient Name: Rajesh Kumar
-Patient ID: P44884
-Admission Date: 2026-04-29
-Discharge Date: 2026-05-08
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹266,584
-Insurance Claim ID: 1A4B2EEB
-Hospital: Fortis Healthcare
+Patient Name: Vikram Sharma
+Patient ID: P86406
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-19
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹83,550
+Insurance Claim ID: 776F4885
+Hospital: Apollo Hospital

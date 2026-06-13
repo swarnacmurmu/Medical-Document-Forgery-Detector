@@ -1,9 +1,9 @@
-Patient Name: Sunita Menon
-Patient ID: P56757
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-09
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹69,204
-Insurance Claim ID: E19B0787
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Sharma
+Patient ID: P18334
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-15
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹2,370
+Insurance Claim ID: 583F0230
+Hospital: Fortis Healthcare

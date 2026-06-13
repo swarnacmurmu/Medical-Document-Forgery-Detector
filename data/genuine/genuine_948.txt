@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P71581
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-24
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹11,874
+Insurance Claim ID: 8BD85789
+Hospital: AIIMS

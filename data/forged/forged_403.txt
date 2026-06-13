@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P56341
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-17
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹189,417
-Insurance Claim ID: 8131B362
-Hospital: Fortis Healthcare
+Patient Name: Sunita Reddy
+Patient ID: P15615
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-21
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹152,586
+Insurance Claim ID: 559A6277
+Hospital: Apollo Hospital

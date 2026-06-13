@@ -1,9 +1,9 @@
-Patient Name: Amit Singh
-Patient ID: P60378
-Admission Date: 2026-04-14
-Discharge Date: 2026-04-22
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹332,416
-Insurance Claim ID: 693421BA
-Hospital: AIIMS
+Patient Name: Anjali Sharma
+Patient ID: P95548
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-04
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹20,990
+Insurance Claim ID: D733A63B
+Hospital: Fortis Healthcare

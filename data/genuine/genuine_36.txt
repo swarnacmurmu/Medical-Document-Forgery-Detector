@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P91808
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-21
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹10,574
-Insurance Claim ID: 24FD4E36
-Hospital: Fortis Healthcare
+Patient Name: Vikram Patel
+Patient ID: P60350
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-26
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹3,838
+Insurance Claim ID: 22AB1872
+Hospital: AIIMS

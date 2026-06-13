@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P39420
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-03
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹541,750
+Insurance Claim ID: 832452B9
+Hospital: Apollo Hospital

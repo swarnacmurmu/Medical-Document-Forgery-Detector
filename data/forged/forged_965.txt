@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P91343
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-11
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹72,831
+Insurance Claim ID: 4685A103
+Hospital: Fortis Healthcare

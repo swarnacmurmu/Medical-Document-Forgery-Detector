@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P58471
-Admission Date: 2026-02-27
-Discharge Date: 2026-02-25
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,092,743
-Insurance Claim ID: A47D47E0
-Hospital: AIIMS
+Patient Name: Pooja Nair
+Patient ID: P45104
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-06
+Diagnosis: Migraine
+Treatment: Inhaler and monitoring
+Total Amount: ₹64,260
+Insurance Claim ID: 92B21E75
+Hospital: Apollo Hospital

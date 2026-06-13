@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P80217
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-19
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹18,224
+Insurance Claim ID: A9EF88B6
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P93388
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-25
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹152,324
-Insurance Claim ID: 9D509514
-Hospital: Lilavati Hospital
+Patient Name: Sunita Gupta
+Patient ID: P11011
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-05
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹7,533
+Insurance Claim ID: 0E4EC4F4
+Hospital: Apollo Hospital

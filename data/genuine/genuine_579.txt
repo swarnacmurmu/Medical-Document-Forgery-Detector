@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P35428
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-31
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹25,915
+Insurance Claim ID: 3A864164
+Hospital: AIIMS

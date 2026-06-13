@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P87828
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-11
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹80,168
+Insurance Claim ID: 7DFA9DC5
+Hospital: Fortis Healthcare

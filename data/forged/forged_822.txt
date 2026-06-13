@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P37738
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-22
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹198,919
+Insurance Claim ID: C9CE345B
+Hospital: Fortis Healthcare

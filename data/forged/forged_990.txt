@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P84852
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-04
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹18,715
+Insurance Claim ID: 411D2AE4
+Hospital: Lilavati Hospital

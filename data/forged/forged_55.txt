@@ -1,9 +1,9 @@
-Patient Name: Priya Gupta
-Patient ID: P66500
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-17
-Diagnosis: COVID-19
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹1,070,188
-Insurance Claim ID: E37CDAB7
+Patient Name: Vikram Nair
+Patient ID: P11603
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-05
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹26,739
+Insurance Claim ID: 752A009C
 Hospital: Fortis Healthcare

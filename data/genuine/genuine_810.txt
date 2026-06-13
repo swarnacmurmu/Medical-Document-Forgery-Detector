@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P96346
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-24
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹4,013
+Insurance Claim ID: DD0A5144
+Hospital: Fortis Healthcare

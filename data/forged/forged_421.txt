@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P89005
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-17
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹1,490,482
-Insurance Claim ID: F938C461
+Patient Name: Rajesh Kumar
+Patient ID: P78519
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-06
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹3,445
+Insurance Claim ID: 285B00C2
 Hospital: Lilavati Hospital

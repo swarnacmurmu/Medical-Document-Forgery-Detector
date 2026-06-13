@@ -1,9 +1,9 @@
-Patient Name: Priya Reddy
-Patient ID: P38725
-Admission Date: 2026-02-25
-Discharge Date: 2026-02-26
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹189,917
-Insurance Claim ID: A53B902C
-Hospital: Manipal Hospital
+Patient Name: Anjali Joshi
+Patient ID: P14254
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-15
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹34,599
+Insurance Claim ID: 36790D0E
+Hospital: AIIMS

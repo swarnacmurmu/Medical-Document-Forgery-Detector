@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P95498
-Admission Date: 2026-02-25
-Discharge Date: 2026-02-26
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹189,917
-Insurance Claim ID: A53B902C
-Hospital: Manipal Hospital
+Patient Name: Rahul Verma
+Patient ID: P52198
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-08
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹9,544
+Insurance Claim ID: 07C06967
+Hospital: Lilavati Hospital

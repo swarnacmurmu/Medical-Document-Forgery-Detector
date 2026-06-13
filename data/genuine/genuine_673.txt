@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P90018
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-03
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹29,121
+Insurance Claim ID: 84DBF080
+Hospital: Apollo Hospital

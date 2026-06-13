@@ -1,9 +1,9 @@
 Patient Name: Rajesh Menon
-Patient ID: P39249
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-13
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹806,880
-Insurance Claim ID: 66FBEB0C
-Hospital: Fortis Healthcare
+Patient ID: P24333
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-30
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹16,762
+Insurance Claim ID: 992C7DF0
+Hospital: Apollo Hospital

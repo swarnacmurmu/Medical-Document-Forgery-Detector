@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P11163
-Admission Date: 2026-05-31
-Discharge Date: 2026-06-10
-Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹105,637
-Insurance Claim ID: 6AAB952A
-Hospital: Fortis Healthcare
+Patient Name: Amit Joshi
+Patient ID: P55596
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-05
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹44,184
+Insurance Claim ID: 6FCE0ED3
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P33058
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-03
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,124
+Insurance Claim ID: 5D1EE3D2
+Hospital: Lilavati Hospital

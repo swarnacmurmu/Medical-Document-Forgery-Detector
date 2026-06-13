@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P66839
+Patient Name: Manish Patel
+Patient ID: P18746
 Admission Date: 2026-02-20
-Discharge Date: 2026-02-21
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹147,584
-Insurance Claim ID: 8C124527
-Hospital: Manipal Hospital
+Discharge Date: 2026-02-27
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹28,193
+Insurance Claim ID: 0E07634A
+Hospital: Fortis Healthcare

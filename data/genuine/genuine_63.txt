@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P84341
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-24
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹11,056
-Insurance Claim ID: CC6D4A98
-Hospital: Lilavati Hospital
+Patient Name: Anjali Gupta
+Patient ID: P15157
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-14
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹6,967
+Insurance Claim ID: 8377F229
+Hospital: AIIMS

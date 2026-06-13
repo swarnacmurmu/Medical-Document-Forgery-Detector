@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P23862
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-15
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹8,987
+Insurance Claim ID: A35959C3
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P13440
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-10
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹45,346
+Insurance Claim ID: E339E856
+Hospital: AIIMS

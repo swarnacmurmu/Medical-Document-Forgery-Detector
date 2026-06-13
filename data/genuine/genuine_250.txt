@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P39978
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-24
+Patient Name: Rajesh Singh
+Patient ID: P73968
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-14
 Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹158,161
-Insurance Claim ID: C38A1C9C
-Hospital: Lilavati Hospital
+Treatment: Rest and paracetamol
+Total Amount: ₹29,885
+Insurance Claim ID: B1842644
+Hospital: Manipal Hospital

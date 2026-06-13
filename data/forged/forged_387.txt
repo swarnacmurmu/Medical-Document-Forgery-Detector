@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P84195
-Admission Date: 2026-04-06
+Patient Name: Sunita Reddy
+Patient ID: P28137
+Admission Date: 2026-03-31
 Discharge Date: 2026-04-03
-Diagnosis: Asthma
-Treatment: Sumatriptan as needed
-Total Amount: ₹197,857
-Insurance Claim ID: 3E743D01
-Hospital: Apollo Hospital
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,725
+Insurance Claim ID: D4AF250D
+Hospital: Fortis Healthcare

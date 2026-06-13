@@ -1,9 +1,9 @@
-Patient Name: Vikram Menon
-Patient ID: P64367
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-07
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹148,020
-Insurance Claim ID: BAF36758
-Hospital: Manipal Hospital
+Patient Name: Neha Singh
+Patient ID: P95520
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-16
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹5,545
+Insurance Claim ID: 0A352034
+Hospital: Apollo Hospital

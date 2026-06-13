@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P95551
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-07
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹137,358
+Insurance Claim ID: CCE95939
+Hospital: Lilavati Hospital

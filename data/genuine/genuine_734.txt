@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P77597
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-14
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹17,293
+Insurance Claim ID: 799D1116
+Hospital: Lilavati Hospital

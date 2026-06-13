@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P23482
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-27
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹15,468
+Insurance Claim ID: 61F4A22D
+Hospital: Fortis Healthcare

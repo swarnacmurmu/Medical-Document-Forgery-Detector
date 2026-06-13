@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P33928
-Admission Date: 2026-05-16
-Discharge Date: 2026-05-19
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹30,385
-Insurance Claim ID: 5D1662E7
-Hospital: Fortis Healthcare
+Patient Name: Pooja Verma
+Patient ID: P26095
+Admission Date: 2026-05-29
+Discharge Date: 2026-06-04
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹43,378
+Insurance Claim ID: 1A5633BF
+Hospital: Manipal Hospital

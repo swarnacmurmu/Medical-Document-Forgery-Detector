@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P62034
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,811
+Insurance Claim ID: 62E60324
+Hospital: Manipal Hospital

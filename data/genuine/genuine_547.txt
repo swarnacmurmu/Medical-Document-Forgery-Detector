@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P24406
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-07
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹15,562
+Insurance Claim ID: B54666C7
+Hospital: Fortis Healthcare

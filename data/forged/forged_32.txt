@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P10731
-Admission Date: 2026-05-25
-Discharge Date: 2026-05-23
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹1,435,888
-Insurance Claim ID: DB20E4D2
-Hospital: Apollo Hospital
+Patient Name: Rahul Sharma
+Patient ID: P64925
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-02
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹54,424
+Insurance Claim ID: F1A35E87
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P48256
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-25
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹10,423
+Insurance Claim ID: E52B9FF8
+Hospital: Lilavati Hospital

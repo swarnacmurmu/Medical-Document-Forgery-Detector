@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P88436
+Admission Date: 2026-04-29
+Discharge Date: 2026-04-30
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹12,567
+Insurance Claim ID: 1061358D
+Hospital: Fortis Healthcare

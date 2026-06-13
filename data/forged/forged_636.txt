@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P53225
+Admission Date: 2026-04-27
+Discharge Date: 2026-05-04
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹126,640
+Insurance Claim ID: 324D4C37
+Hospital: Manipal Hospital

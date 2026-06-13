@@ -1,9 +1,9 @@
-Patient Name: Priya Menon
-Patient ID: P98723
-Admission Date: 2026-03-31
-Discharge Date: 2026-04-06
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹177,574
-Insurance Claim ID: E4D50795
-Hospital: Lilavati Hospital
+Patient Name: Amit Gupta
+Patient ID: P50349
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-14
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹5,014
+Insurance Claim ID: 8D490EC7
+Hospital: Apollo Hospital

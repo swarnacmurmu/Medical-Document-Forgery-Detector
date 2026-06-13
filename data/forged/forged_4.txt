@@ -1,9 +1,9 @@
-Patient Name: Priya Singh
-Patient ID: P25786
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-03
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹1,659,504
-Insurance Claim ID: C77A64B1
+Patient Name: Vikram Kumar
+Patient ID: P83900
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-25
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹4,073
+Insurance Claim ID: 9F50B01A
 Hospital: Manipal Hospital

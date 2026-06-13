@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P91801
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-11
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹39,707
+Insurance Claim ID: F1E05CBA
+Hospital: Fortis Healthcare

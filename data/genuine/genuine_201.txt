@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P88123
-Admission Date: 2026-03-17
-Discharge Date: 2026-03-27
-Diagnosis: Dengue Fever
+Patient Name: Pooja Kumar
+Patient ID: P94843
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-19
+Diagnosis: Type 2 Diabetes
 Treatment: Metformin 500mg twice daily
-Total Amount: ₹92,689
-Insurance Claim ID: B5206330
-Hospital: Apollo Hospital
+Total Amount: ₹11,739
+Insurance Claim ID: 39E96CDC
+Hospital: Manipal Hospital

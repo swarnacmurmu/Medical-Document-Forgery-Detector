@@ -1,9 +1,9 @@
-Patient Name: Priya Joshi
-Patient ID: P65511
-Admission Date: 2026-06-01
-Discharge Date: 2026-06-08
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹137,461
-Insurance Claim ID: 8CF68837
-Hospital: Fortis Healthcare
+Patient Name: Vikram Joshi
+Patient ID: P56465
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-24
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹21,981
+Insurance Claim ID: C03D4BF2
+Hospital: Manipal Hospital

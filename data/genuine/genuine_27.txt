@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P50952
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-13
-Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹60,117
-Insurance Claim ID: 65C53B98
-Hospital: Manipal Hospital
+Patient Name: Sunita Gupta
+Patient ID: P31349
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-03
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹4,373
+Insurance Claim ID: 6577C349
+Hospital: Apollo Hospital

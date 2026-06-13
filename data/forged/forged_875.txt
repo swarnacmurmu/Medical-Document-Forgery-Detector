@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P31629
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-01
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹86,058
+Insurance Claim ID: AC86F9EF
+Hospital: Fortis Healthcare

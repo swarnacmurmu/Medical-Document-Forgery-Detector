@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P37368
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-25
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹91,008
+Insurance Claim ID: 9C8E1DF1
+Hospital: Manipal Hospital

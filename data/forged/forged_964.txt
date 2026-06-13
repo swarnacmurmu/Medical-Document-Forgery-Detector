@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P65681
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-16
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹49,226
+Insurance Claim ID: 11BD984A
+Hospital: Fortis Healthcare

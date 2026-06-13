@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P89796
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-14
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹13,258
+Insurance Claim ID: 2DBECEB3
+Hospital: Lilavati Hospital

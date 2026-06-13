@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P42755
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-06
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹12,429
+Insurance Claim ID: 5F9BFCE4
+Hospital: Manipal Hospital

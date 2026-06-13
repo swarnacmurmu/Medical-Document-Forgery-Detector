@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P54947
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-28
+Diagnosis: Urinary Tract Infection
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹10,945
+Insurance Claim ID: BF07DB2C
+Hospital: Lilavati Hospital

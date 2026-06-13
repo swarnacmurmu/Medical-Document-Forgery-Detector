@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P84872
-Admission Date: 2026-03-02
-Discharge Date: 2026-03-09
+Patient Name: Rahul Patel
+Patient ID: P62968
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-16
 Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹171,197
-Insurance Claim ID: EEF99478
-Hospital: Lilavati Hospital
+Treatment: Monoclonal antibodies
+Total Amount: ₹37,106
+Insurance Claim ID: C074B06C
+Hospital: AIIMS

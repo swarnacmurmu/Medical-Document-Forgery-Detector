@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P19384
+Admission Date: 2026-06-01
+Discharge Date: 2026-05-29
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹507,378
+Insurance Claim ID: 26E8FB03
+Hospital: Manipal Hospital

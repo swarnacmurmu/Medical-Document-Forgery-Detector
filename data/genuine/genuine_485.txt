@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P45659
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-08
-Diagnosis: Hypertension
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹24,002
-Insurance Claim ID: 245045AE
+Patient Name: Pooja Singh
+Patient ID: P23969
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-08
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹14,213
+Insurance Claim ID: 7D65D6A4
 Hospital: Fortis Healthcare

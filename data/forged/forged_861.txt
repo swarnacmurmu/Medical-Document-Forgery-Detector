@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P80833
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-17
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹13,608
+Insurance Claim ID: 3432994B
+Hospital: Lilavati Hospital

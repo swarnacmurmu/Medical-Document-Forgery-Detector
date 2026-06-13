@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P84359
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-30
-Diagnosis: Asthma
-Treatment: Inhaler and monitoring
-Total Amount: ₹128,447
-Insurance Claim ID: 4BD97ABE
-Hospital: Apollo Hospital
+Patient Name: Neha Verma
+Patient ID: P13320
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-26
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹91,873
+Insurance Claim ID: A71D894E
+Hospital: Manipal Hospital

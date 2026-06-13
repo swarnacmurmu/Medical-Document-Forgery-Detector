@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P50559
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-07
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹2,033,911
-Insurance Claim ID: A0383FDF
-Hospital: Apollo Hospital
+Patient Name: Sunita Kumar
+Patient ID: P49701
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-27
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹27,588
+Insurance Claim ID: 489AC87C
+Hospital: AIIMS

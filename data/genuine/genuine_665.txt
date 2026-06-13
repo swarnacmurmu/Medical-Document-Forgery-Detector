@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P86214
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-10
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹57,319
+Insurance Claim ID: 50530F16
+Hospital: Fortis Healthcare

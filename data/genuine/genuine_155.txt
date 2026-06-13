@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P33345
-Admission Date: 2026-04-02
-Discharge Date: 2026-04-12
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹90,463
-Insurance Claim ID: E1FDD519
+Patient Name: Vikram Singh
+Patient ID: P86014
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-22
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹47,041
+Insurance Claim ID: A2E575F3
 Hospital: Manipal Hospital

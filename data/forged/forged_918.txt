@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P24153
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-01
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹39,702
+Insurance Claim ID: 6D5C0B84
+Hospital: Fortis Healthcare

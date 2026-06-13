@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P86156
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-18
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹59,188
-Insurance Claim ID: DF1F2B1F
-Hospital: Fortis Healthcare
+Patient Name: Vikram Joshi
+Patient ID: P14281
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-02
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹15,551
+Insurance Claim ID: E33A0B0F
+Hospital: Manipal Hospital

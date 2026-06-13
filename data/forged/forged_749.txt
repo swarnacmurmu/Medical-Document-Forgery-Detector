@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P71637
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-26
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹105,306
+Insurance Claim ID: 37CB9107
+Hospital: AIIMS

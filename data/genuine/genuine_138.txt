@@ -1,9 +1,9 @@
-Patient Name: Amit Menon
-Patient ID: P37712
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-28
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹153,721
-Insurance Claim ID: 9F47698F
-Hospital: AIIMS
+Patient Name: Neha Kumar
+Patient ID: P97638
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,626
+Insurance Claim ID: D45D5557
+Hospital: Apollo Hospital

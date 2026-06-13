@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P46013
-Admission Date: 2026-05-28
-Discharge Date: 2026-06-04
+Patient Name: Rahul Joshi
+Patient ID: P15236
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-14
 Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹103,938
-Insurance Claim ID: F92E65CB
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹14,490
+Insurance Claim ID: 752B82EF
 Hospital: Lilavati Hospital

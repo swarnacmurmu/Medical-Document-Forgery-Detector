@@ -1,9 +1,9 @@
-Patient Name: Pooja Sharma
-Patient ID: P22570
-Admission Date: 2026-05-01
-Discharge Date: 2026-05-05
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹145,015
-Insurance Claim ID: C2922019
-Hospital: Apollo Hospital
+Patient Name: Neha Kumar
+Patient ID: P38426
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-16
+Diagnosis: Pneumonia
+Treatment: Rest and paracetamol
+Total Amount: ₹98,180
+Insurance Claim ID: E9739B2C
+Hospital: Manipal Hospital

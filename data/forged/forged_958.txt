@@ -1,0 +1,9 @@
+Patient Name: Sunita Patel
+Patient ID: P53649
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-16
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹31,508
+Insurance Claim ID: EDD973AC
+Hospital: AIIMS

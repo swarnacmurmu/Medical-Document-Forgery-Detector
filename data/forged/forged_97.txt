@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P74263
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-12
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹80,991
-Insurance Claim ID: 38971D80
+Patient Name: Anjali Patel
+Patient ID: P47273
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-30
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹120,485
+Insurance Claim ID: AC967FAA
 Hospital: AIIMS

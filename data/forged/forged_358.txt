@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P75866
-Admission Date: 2026-05-11
-Discharge Date: 2026-05-17
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹10,557
-Insurance Claim ID: 96B195E9
+Patient Name: Sunita Kumar
+Patient ID: P59132
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-12
+Diagnosis: Asthma
+Treatment: Sumatriptan as needed
+Total Amount: ₹32,536
+Insurance Claim ID: A7CCE486
 Hospital: Apollo Hospital

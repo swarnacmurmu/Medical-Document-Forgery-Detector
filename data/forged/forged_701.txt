@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P77622
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-18
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹57,800
+Insurance Claim ID: F8475116
+Hospital: AIIMS

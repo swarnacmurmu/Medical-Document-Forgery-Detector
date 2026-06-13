@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P15628
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-09
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹10,240
+Insurance Claim ID: 0FBBAF4B
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P83972
+Patient Name: Vikram Verma
+Patient ID: P67303
 Admission Date: 2026-03-29
-Discharge Date: 2026-04-07
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,998,452
-Insurance Claim ID: 7436177C
-Hospital: Apollo Hospital
+Discharge Date: 2026-03-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹322,443
+Insurance Claim ID: FF2B275C
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P42643
-Admission Date: 2026-05-28
-Discharge Date: 2026-06-02
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹189,487
-Insurance Claim ID: 8F11A261
-Hospital: Lilavati Hospital
+Patient Name: Pooja Kumar
+Patient ID: P47154
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-01
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹9,552
+Insurance Claim ID: 35CCAEE9
+Hospital: Fortis Healthcare

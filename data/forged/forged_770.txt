@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P17691
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-08
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹22,686
+Insurance Claim ID: 53C77734
+Hospital: Lilavati Hospital

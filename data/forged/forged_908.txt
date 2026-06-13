@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P43282
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-10
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹21,381
+Insurance Claim ID: FA419539
+Hospital: Manipal Hospital

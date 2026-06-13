@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P16096
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹5,823
+Insurance Claim ID: 0D595F77
+Hospital: Lilavati Hospital

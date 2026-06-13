@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P42151
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-24
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹156,370
+Insurance Claim ID: 6020EFD9
+Hospital: Lilavati Hospital

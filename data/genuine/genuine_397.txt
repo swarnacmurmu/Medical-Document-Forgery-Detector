@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P74740
-Admission Date: 2026-04-20
-Discharge Date: 2026-04-29
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹107,820
-Insurance Claim ID: B13FFA92
+Patient Name: Rahul Nair
+Patient ID: P49032
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-27
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹11,099
+Insurance Claim ID: 92B54284
 Hospital: AIIMS

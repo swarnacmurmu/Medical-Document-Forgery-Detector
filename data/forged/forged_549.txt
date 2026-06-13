@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P45030
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-12
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹14,084
+Insurance Claim ID: CED14C1F
+Hospital: AIIMS

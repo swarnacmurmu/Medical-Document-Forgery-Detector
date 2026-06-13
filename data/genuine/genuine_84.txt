@@ -1,9 +1,9 @@
-Patient Name: Anjali Kumar
-Patient ID: P21376
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-16
-Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹140,417
-Insurance Claim ID: DC02FAF8
-Hospital: Manipal Hospital
+Patient Name: Priya Singh
+Patient ID: P94319
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-19
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹40,592
+Insurance Claim ID: 7E81FB0F
+Hospital: Apollo Hospital

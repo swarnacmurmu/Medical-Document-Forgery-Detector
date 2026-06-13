@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P23174
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-22
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹20,120
+Insurance Claim ID: EE8B2B13
+Hospital: AIIMS

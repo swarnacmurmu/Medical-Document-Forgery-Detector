@@ -1,0 +1,9 @@
+Patient Name: Neha Kumar
+Patient ID: P76074
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-07
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹11,221
+Insurance Claim ID: 74E5D8D9
+Hospital: Fortis Healthcare

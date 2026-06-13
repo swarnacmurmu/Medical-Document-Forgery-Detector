@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P63103
+Admission Date: 2026-05-02
+Discharge Date: 2026-05-07
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹54,794
+Insurance Claim ID: 4E3ABE6C
+Hospital: Fortis Healthcare

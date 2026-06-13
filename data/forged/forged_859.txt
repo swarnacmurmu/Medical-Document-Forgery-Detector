@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P80687
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-23
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹22,082
+Insurance Claim ID: 333BF51D
+Hospital: Lilavati Hospital

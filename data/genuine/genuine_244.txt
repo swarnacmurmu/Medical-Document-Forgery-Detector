@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P26263
-Admission Date: 2026-05-09
-Discharge Date: 2026-05-12
+Patient Name: Neha Gupta
+Patient ID: P33348
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-24
 Diagnosis: Asthma
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹55,730
-Insurance Claim ID: 26C648FB
-Hospital: Lilavati Hospital
+Treatment: Bronchodilators and steroids
+Total Amount: ₹13,594
+Insurance Claim ID: 38EBA4B1
+Hospital: Fortis Healthcare

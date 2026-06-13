@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P69434
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-06
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹3,984
+Insurance Claim ID: 05F8965D
+Hospital: Fortis Healthcare

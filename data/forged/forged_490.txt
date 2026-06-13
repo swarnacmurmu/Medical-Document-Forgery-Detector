@@ -1,9 +1,9 @@
-Patient Name: Rahul Joshi
-Patient ID: P13620
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-26
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹101,773
-Insurance Claim ID: A4AA0B32
-Hospital: Lilavati Hospital
+Patient Name: Neha Menon
+Patient ID: P50510
+Admission Date: 2026-03-24
+Discharge Date: 2026-03-25
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹39,339
+Insurance Claim ID: DCCE3B19
+Hospital: Apollo Hospital

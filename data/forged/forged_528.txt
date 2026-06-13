@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P26801
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-24
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹35,380
+Insurance Claim ID: 3ECDB478
+Hospital: Apollo Hospital

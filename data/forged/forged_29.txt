@@ -1,9 +1,9 @@
 Patient Name: Rajesh Nair
-Patient ID: P10547
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-26
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹131,305
-Insurance Claim ID: BFA06BFA
+Patient ID: P93166
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-20
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹70,026
+Insurance Claim ID: 57767DBC
 Hospital: Manipal Hospital

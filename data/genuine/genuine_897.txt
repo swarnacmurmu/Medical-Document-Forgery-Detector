@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P94810
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-03
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹5,470
+Insurance Claim ID: 06AA3E15
+Hospital: Apollo Hospital

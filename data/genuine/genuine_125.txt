@@ -1,9 +1,9 @@
-Patient Name: Priya Verma
-Patient ID: P92443
-Admission Date: 2026-06-09
-Discharge Date: 2026-06-19
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹158,101
-Insurance Claim ID: 8C18AB75
-Hospital: AIIMS
+Patient Name: Sunita Joshi
+Patient ID: P21649
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-27
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹74,309
+Insurance Claim ID: 3DFF0F0E
+Hospital: Lilavati Hospital

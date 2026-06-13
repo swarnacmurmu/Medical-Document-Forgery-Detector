@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P41812
-Admission Date: 2026-03-20
-Discharge Date: 2026-03-28
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹71,490
-Insurance Claim ID: 9B16DADB
-Hospital: Manipal Hospital
+Patient Name: Amit Kumar
+Patient ID: P33400
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-05
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹9,796
+Insurance Claim ID: DEEDB39A
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P10904
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-05
-Diagnosis: Acute Gastroenteritis
-Treatment: Azithromycin course
-Total Amount: ₹170,603
-Insurance Claim ID: C7BDA458
-Hospital: Lilavati Hospital
+Patient Name: Pooja Reddy
+Patient ID: P30483
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-21
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹222,564
+Insurance Claim ID: 9572C248
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P47177
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-28
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹2,484
+Insurance Claim ID: 39D1DA18
+Hospital: AIIMS

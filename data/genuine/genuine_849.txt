@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P64546
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹14,651
+Insurance Claim ID: EA52E68E
+Hospital: Fortis Healthcare

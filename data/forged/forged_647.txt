@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P13722
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹45,735
+Insurance Claim ID: 41F63437
+Hospital: Manipal Hospital

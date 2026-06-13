@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P65194
+Admission Date: 2026-04-24
+Discharge Date: 2026-05-04
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹84,086
+Insurance Claim ID: 7EFBAA8E
+Hospital: Fortis Healthcare

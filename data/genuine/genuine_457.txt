@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P89827
-Admission Date: 2026-02-27
-Discharge Date: 2026-02-28
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹130,628
-Insurance Claim ID: 1C018DD8
+Patient Name: Vikram Gupta
+Patient ID: P27484
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-24
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,181
+Insurance Claim ID: 88F0E182
 Hospital: Apollo Hospital

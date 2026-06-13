@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P99963
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-17
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹4,307
+Insurance Claim ID: 254A6D35
+Hospital: Manipal Hospital

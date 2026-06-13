@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P17310
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-11
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹12,403
+Insurance Claim ID: 968ABE9B
+Hospital: Lilavati Hospital

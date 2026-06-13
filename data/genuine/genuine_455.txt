@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P49514
-Admission Date: 2026-03-02
-Discharge Date: 2026-03-04
+Patient Name: Manish Patel
+Patient ID: P81336
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-16
 Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹29,728
-Insurance Claim ID: 4EAD2EE5
-Hospital: Fortis Healthcare
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,993
+Insurance Claim ID: 140D52A1
+Hospital: Manipal Hospital

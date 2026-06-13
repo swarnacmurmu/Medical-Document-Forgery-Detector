@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P69684
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-11
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹64,617
+Insurance Claim ID: B825E5C4
+Hospital: Apollo Hospital

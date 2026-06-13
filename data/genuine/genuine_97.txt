@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P71101
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-21
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹8,999
-Insurance Claim ID: 38971D80
+Patient Name: Amit Joshi
+Patient ID: P93569
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,037
+Insurance Claim ID: D183A4C7
 Hospital: AIIMS

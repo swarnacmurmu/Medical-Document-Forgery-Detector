@@ -1,9 +1,9 @@
-Patient Name: Priya Singh
-Patient ID: P59212
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-21
-Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹158,499
-Insurance Claim ID: 1A8E3D85
+Patient Name: Manish Menon
+Patient ID: P57390
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-16
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹2,516
+Insurance Claim ID: F7839E1B
 Hospital: Lilavati Hospital

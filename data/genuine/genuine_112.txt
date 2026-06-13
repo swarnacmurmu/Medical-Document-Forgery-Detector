@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P93885
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-22
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹30,852
-Insurance Claim ID: 371F1D23
-Hospital: Manipal Hospital
+Patient Name: Anjali Verma
+Patient ID: P61664
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-29
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹8,395
+Insurance Claim ID: E920EDBB
+Hospital: Fortis Healthcare

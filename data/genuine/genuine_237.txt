@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P92698
-Admission Date: 2026-04-19
-Discharge Date: 2026-04-22
-Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹134,677
-Insurance Claim ID: DFF09899
-Hospital: Manipal Hospital
+Patient Name: Rahul Joshi
+Patient ID: P19478
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-10
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹16,743
+Insurance Claim ID: 22CC37A6
+Hospital: Apollo Hospital

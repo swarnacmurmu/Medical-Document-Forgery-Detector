@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P13493
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-27
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹11,709
+Insurance Claim ID: B3F57484
+Hospital: Manipal Hospital

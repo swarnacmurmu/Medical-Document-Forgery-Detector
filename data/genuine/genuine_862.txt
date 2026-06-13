@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P89341
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-23
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,368
+Insurance Claim ID: 19C7DEE7
+Hospital: Fortis Healthcare

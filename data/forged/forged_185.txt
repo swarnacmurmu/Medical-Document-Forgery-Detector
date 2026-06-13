@@ -1,9 +1,9 @@
-Patient Name: Anjali Verma
-Patient ID: P64260
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-20
-Diagnosis: Pneumonia
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹755,711
-Insurance Claim ID: D0A5EFE1
+Patient Name: Rahul Gupta
+Patient ID: P94047
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-04
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹35,139
+Insurance Claim ID: A313868E
 Hospital: Fortis Healthcare

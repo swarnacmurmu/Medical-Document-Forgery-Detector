@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P94478
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-16
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹277,376
+Insurance Claim ID: 35E750F9
+Hospital: Apollo Hospital

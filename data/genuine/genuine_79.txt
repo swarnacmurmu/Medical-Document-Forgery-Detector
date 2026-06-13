@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P68372
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-27
-Diagnosis: Hypertension
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹54,913
-Insurance Claim ID: 16A6D0D3
-Hospital: Fortis Healthcare
+Patient Name: Manish Menon
+Patient ID: P83567
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-28
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹17,157
+Insurance Claim ID: 979AEBE7
+Hospital: Lilavati Hospital

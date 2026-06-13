@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P92898
-Admission Date: 2026-02-25
-Discharge Date: 2026-03-03
-Diagnosis: Migraine
-Treatment: Azithromycin course
-Total Amount: ₹107,948
-Insurance Claim ID: 310D12D3
-Hospital: Fortis Healthcare
+Patient Name: Neha Kumar
+Patient ID: P71710
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-15
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹3,114
+Insurance Claim ID: BEC51242
+Hospital: Lilavati Hospital

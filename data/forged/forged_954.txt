@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P99983
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-09
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹18,324
+Insurance Claim ID: CBF03248
+Hospital: Manipal Hospital

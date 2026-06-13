@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P73270
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-26
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹41,610
+Insurance Claim ID: CC6C5C6C
+Hospital: Lilavati Hospital

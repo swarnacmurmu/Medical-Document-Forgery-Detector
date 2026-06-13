@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P43995
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-13
+Patient Name: Rajesh Sharma
+Patient ID: P53957
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-03
 Diagnosis: Pneumonia
-Treatment: Sumatriptan as needed
-Total Amount: ₹20,130
-Insurance Claim ID: E641544B
-Hospital: Lilavati Hospital
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹137,208
+Insurance Claim ID: 27C84FEE
+Hospital: Apollo Hospital

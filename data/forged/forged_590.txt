@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P87496
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-20
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹70,308
+Insurance Claim ID: 5B127F1C
+Hospital: Manipal Hospital

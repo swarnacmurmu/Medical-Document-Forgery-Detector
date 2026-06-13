@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P57159
-Admission Date: 2026-05-27
-Discharge Date: 2026-06-04
-Diagnosis: Typhoid
-Treatment: Inhaler and monitoring
-Total Amount: ₹360,038
-Insurance Claim ID: 8ACC51F1
-Hospital: AIIMS
+Patient Name: Manish Nair
+Patient ID: P93166
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-15
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹2,461
+Insurance Claim ID: AC969A14
+Hospital: Apollo Hospital

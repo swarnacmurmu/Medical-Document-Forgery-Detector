@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P79104
-Admission Date: 2026-04-01
-Discharge Date: 2026-04-06
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹190,477
-Insurance Claim ID: A5D7C956
-Hospital: AIIMS
+Patient Name: Sunita Singh
+Patient ID: P80212
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-18
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹40,008
+Insurance Claim ID: 1C8783ED
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P87681
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-24
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹122,532
-Insurance Claim ID: 99423DA9
-Hospital: AIIMS
+Patient Name: Vikram Patel
+Patient ID: P54734
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-17
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹32,043
+Insurance Claim ID: 154938D2
+Hospital: Manipal Hospital

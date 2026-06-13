@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P70335
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-16
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹12,575
+Insurance Claim ID: 9938160B
+Hospital: Fortis Healthcare

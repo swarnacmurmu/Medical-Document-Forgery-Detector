@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P35349
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-16
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹86,628
+Insurance Claim ID: 39BD8C96
+Hospital: Lilavati Hospital

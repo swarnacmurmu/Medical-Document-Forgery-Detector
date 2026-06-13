@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P14601
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-29
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹29,583
+Insurance Claim ID: 12EAC8A0
+Hospital: AIIMS

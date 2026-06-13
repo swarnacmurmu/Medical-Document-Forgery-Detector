@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P15253
-Admission Date: 2026-05-18
-Discharge Date: 2026-05-17
-Diagnosis: Dengue Fever
+Patient Name: Rajesh Menon
+Patient ID: P60478
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-18
+Diagnosis: Migraine
 Treatment: Rest and paracetamol
-Total Amount: ₹605,328
-Insurance Claim ID: EF92824A
-Hospital: Fortis Healthcare
+Total Amount: ₹9,179
+Insurance Claim ID: 7245B62C
+Hospital: AIIMS

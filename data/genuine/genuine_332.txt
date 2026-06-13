@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P89606
-Admission Date: 2026-03-27
-Discharge Date: 2026-04-04
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹67,559
-Insurance Claim ID: 8C47BFA3
-Hospital: Lilavati Hospital
+Patient Name: Rahul Patel
+Patient ID: P13255
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-27
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹10,983
+Insurance Claim ID: 26323A9E
+Hospital: Fortis Healthcare

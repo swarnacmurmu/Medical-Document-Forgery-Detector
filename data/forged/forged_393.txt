@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P69914
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-15
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,956,922
-Insurance Claim ID: 25803B70
+Patient Name: Priya Menon
+Patient ID: P45014
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-22
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹52,452
+Insurance Claim ID: 2103C171
 Hospital: Fortis Healthcare

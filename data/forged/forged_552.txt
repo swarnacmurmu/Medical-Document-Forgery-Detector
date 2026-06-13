@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P22258
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-29
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹389,545
+Insurance Claim ID: CDF103ED
+Hospital: Manipal Hospital

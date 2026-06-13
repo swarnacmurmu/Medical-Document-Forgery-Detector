@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P39104
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-06
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹8,098
+Insurance Claim ID: D83027E8
+Hospital: Apollo Hospital

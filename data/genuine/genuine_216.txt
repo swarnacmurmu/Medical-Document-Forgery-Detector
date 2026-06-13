@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P40103
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-10
-Diagnosis: Acute Gastroenteritis
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹73,023
-Insurance Claim ID: 900EF306
+Patient Name: Rajesh Verma
+Patient ID: P39097
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-10
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹15,788
+Insurance Claim ID: EDEF145E
 Hospital: AIIMS

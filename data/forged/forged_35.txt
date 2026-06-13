@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P39964
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-21
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹59,885
-Insurance Claim ID: 859B7F69
+Patient Name: Pooja Nair
+Patient ID: P15114
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-18
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹63,323
+Insurance Claim ID: 4243E6FB
 Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P93718
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-28
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹10,735
+Insurance Claim ID: C89264C4
+Hospital: Apollo Hospital

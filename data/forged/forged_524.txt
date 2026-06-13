@@ -1,0 +1,9 @@
+Patient Name: Neha Singh
+Patient ID: P79692
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-21
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹249,921
+Insurance Claim ID: E30B2CD5
+Hospital: Lilavati Hospital

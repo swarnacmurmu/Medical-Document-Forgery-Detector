@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P87738
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-14
-Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹33,988
-Insurance Claim ID: DCE0E0FC
-Hospital: Fortis Healthcare
+Patient Name: Neha Sharma
+Patient ID: P38008
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-10
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹3,958
+Insurance Claim ID: CFB2ABEE
+Hospital: Lilavati Hospital

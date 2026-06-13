@@ -1,0 +1,9 @@
+Patient Name: Amit Gupta
+Patient ID: P58095
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-05
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,303
+Insurance Claim ID: B1BF8859
+Hospital: Apollo Hospital

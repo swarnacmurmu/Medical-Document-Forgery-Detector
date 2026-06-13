@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P84912
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-15
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹166,660
+Insurance Claim ID: A095AEF2
+Hospital: AIIMS

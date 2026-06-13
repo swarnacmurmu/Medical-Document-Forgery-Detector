@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P13081
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-07
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹33,981
+Insurance Claim ID: 7B8DC509
+Hospital: AIIMS

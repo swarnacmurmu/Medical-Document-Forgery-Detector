@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P76152
+Admission Date: 2026-02-23
+Discharge Date: 2026-03-02
+Diagnosis: Typhoid
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹11,385
+Insurance Claim ID: 03958525
+Hospital: Manipal Hospital

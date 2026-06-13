@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P43342
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-21
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹17,982
+Insurance Claim ID: 7331A431
+Hospital: Lilavati Hospital

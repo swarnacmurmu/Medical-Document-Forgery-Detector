@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P95880
-Admission Date: 2026-05-16
-Discharge Date: 2026-05-21
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹74,420
-Insurance Claim ID: 59ACD05B
-Hospital: Manipal Hospital
+Patient Name: Anjali Sharma
+Patient ID: P52132
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-09
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,694
+Insurance Claim ID: 960A6BA0
+Hospital: AIIMS

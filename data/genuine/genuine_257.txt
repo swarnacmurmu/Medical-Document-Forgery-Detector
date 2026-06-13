@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P32880
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-20
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹151,609
-Insurance Claim ID: 91DF0E45
-Hospital: Manipal Hospital
+Patient Name: Anjali Kumar
+Patient ID: P27495
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-21
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹3,305
+Insurance Claim ID: A6750019
+Hospital: Lilavati Hospital

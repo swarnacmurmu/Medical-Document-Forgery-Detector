@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P68784
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-19
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹224,450
+Insurance Claim ID: 2737692C
+Hospital: Lilavati Hospital

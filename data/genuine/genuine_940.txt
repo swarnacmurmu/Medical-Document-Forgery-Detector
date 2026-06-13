@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P78688
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-05
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹28,211
+Insurance Claim ID: 2463C140
+Hospital: Apollo Hospital

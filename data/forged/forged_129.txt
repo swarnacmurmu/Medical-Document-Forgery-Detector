@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P47140
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-03
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹55,881
-Insurance Claim ID: 567808B3
-Hospital: Lilavati Hospital
+Patient Name: Amit Patel
+Patient ID: P58975
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-25
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹4,830
+Insurance Claim ID: 30303CB5
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P18590
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-16
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹4,177
+Insurance Claim ID: 88DFC46A
+Hospital: Lilavati Hospital

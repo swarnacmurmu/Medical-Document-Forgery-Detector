@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P86653
+Admission Date: 2026-03-30
+Discharge Date: 2026-04-02
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹106,570
+Insurance Claim ID: 69227CF7
+Hospital: Lilavati Hospital

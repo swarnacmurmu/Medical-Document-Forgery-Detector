@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P28760
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-13
-Diagnosis: Typhoid
-Treatment: Antibiotics for 5 days
-Total Amount: ₹1,592,840
-Insurance Claim ID: 605B2FEC
+Patient Name: Vikram Patel
+Patient ID: P44467
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-02
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹68,000
+Insurance Claim ID: 4A637AAA
 Hospital: Manipal Hospital

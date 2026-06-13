@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P75030
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-19
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹9,049
+Insurance Claim ID: 7A19AD03
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P39810
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-05
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹9,759
+Insurance Claim ID: C3132B15
+Hospital: AIIMS

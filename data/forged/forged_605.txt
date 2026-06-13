@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P18822
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-26
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹21,811
+Insurance Claim ID: A2C53129
+Hospital: Fortis Healthcare

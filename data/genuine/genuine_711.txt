@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P56923
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-12
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹25,746
+Insurance Claim ID: E8F29E57
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P56032
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-09
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹5,774
+Insurance Claim ID: C94F86D8
+Hospital: Fortis Healthcare

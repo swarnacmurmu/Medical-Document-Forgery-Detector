@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P75531
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-15
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹225,690
+Insurance Claim ID: BA6FCC4E
+Hospital: Fortis Healthcare

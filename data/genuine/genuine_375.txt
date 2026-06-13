@@ -1,9 +1,9 @@
-Patient Name: Neha Gupta
-Patient ID: P97475
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-28
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹114,248
-Insurance Claim ID: 4C20B4F5
-Hospital: AIIMS
+Patient Name: Pooja Verma
+Patient ID: P18161
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-25
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹13,861
+Insurance Claim ID: 520B5992
+Hospital: Lilavati Hospital

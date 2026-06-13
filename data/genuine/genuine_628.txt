@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P20010
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-21
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹6,261
+Insurance Claim ID: 5761C1D3
+Hospital: Apollo Hospital

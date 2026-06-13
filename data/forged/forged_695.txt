@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P61006
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-05
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹4,215
+Insurance Claim ID: 1FE134A2
+Hospital: Lilavati Hospital

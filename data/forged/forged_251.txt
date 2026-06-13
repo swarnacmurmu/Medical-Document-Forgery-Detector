@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P13638
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-25
-Diagnosis: Acute Gastroenteritis
-Treatment: Azithromycin course
-Total Amount: ₹189,944
-Insurance Claim ID: FBC8290E
+Patient Name: Anjali Nair
+Patient ID: P87209
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-18
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹30,510
+Insurance Claim ID: 89EBC533
 Hospital: Apollo Hospital

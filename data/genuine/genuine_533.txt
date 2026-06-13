@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P67236
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-10
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹65,234
+Insurance Claim ID: 05FC28EA
+Hospital: AIIMS

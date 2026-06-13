@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P56042
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-29
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹8,881
+Insurance Claim ID: 5E056F2B
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P11517
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-08
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹7,861
+Insurance Claim ID: B9524FE5
+Hospital: Apollo Hospital

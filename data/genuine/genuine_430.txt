@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P29389
-Admission Date: 2026-05-31
-Discharge Date: 2026-06-06
-Diagnosis: COVID-19
-Treatment: Azithromycin course
-Total Amount: ₹69,029
-Insurance Claim ID: E3EB4E5C
-Hospital: Apollo Hospital
+Patient Name: Priya Menon
+Patient ID: P81382
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-03
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹8,906
+Insurance Claim ID: A201DFDB
+Hospital: AIIMS

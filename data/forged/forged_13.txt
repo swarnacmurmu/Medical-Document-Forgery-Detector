@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P70486
-Admission Date: 2026-04-12
-Discharge Date: 2026-04-20
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹165,485
-Insurance Claim ID: F114EA94
-Hospital: Lilavati Hospital
+Patient Name: Manish Patel
+Patient ID: P65852
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-10
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹298,144
+Insurance Claim ID: C85A656A
+Hospital: AIIMS

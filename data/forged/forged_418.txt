@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P25449
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-14
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹2,924,190
-Insurance Claim ID: 7C1CADEF
-Hospital: Apollo Hospital
+Patient Name: Amit Menon
+Patient ID: P88370
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-12
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,574
+Insurance Claim ID: CF196055
+Hospital: Lilavati Hospital

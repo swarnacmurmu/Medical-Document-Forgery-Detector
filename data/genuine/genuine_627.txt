@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P58296
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-30
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹3,131
+Insurance Claim ID: 80D3F289
+Hospital: AIIMS

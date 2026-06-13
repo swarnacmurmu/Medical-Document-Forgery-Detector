@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P51476
-Admission Date: 2026-05-02
-Discharge Date: 2026-05-10
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹36,616
-Insurance Claim ID: D2F10F35
+Patient Name: Pooja Gupta
+Patient ID: P55433
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-14
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹90,608
+Insurance Claim ID: 5EB3A1E8
 Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P69931
-Admission Date: 2026-04-26
-Discharge Date: 2026-05-05
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹69,265
-Insurance Claim ID: 3BA92F23
-Hospital: Fortis Healthcare
+Patient Name: Manish Joshi
+Patient ID: P96971
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-10
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹9,653
+Insurance Claim ID: D30A15B3
+Hospital: Apollo Hospital

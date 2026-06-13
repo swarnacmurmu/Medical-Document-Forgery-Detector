@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P69567
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-05
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹155,790
-Insurance Claim ID: 271BA7C8
-Hospital: Apollo Hospital
+Patient Name: Anjali Sharma
+Patient ID: P35026
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-19
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹3,948
+Insurance Claim ID: B6E3ADFD
+Hospital: Manipal Hospital

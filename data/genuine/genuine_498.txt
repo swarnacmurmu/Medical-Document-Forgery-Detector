@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P93629
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-11
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹116,226
-Insurance Claim ID: 0635B8B8
-Hospital: Lilavati Hospital
+Patient Name: Vikram Nair
+Patient ID: P75885
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-04
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹7,629
+Insurance Claim ID: EB78C48B
+Hospital: Fortis Healthcare

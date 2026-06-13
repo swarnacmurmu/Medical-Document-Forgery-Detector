@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P99881
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-23
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹22,655
+Insurance Claim ID: 2686E064
+Hospital: Fortis Healthcare

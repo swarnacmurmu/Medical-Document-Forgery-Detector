@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P75458
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-05
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹10,021
+Insurance Claim ID: 99F5AACE
+Hospital: Apollo Hospital

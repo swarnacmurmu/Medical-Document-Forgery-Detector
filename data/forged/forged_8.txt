@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P20136
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-17
-Diagnosis: Dengue Fever
+Patient Name: Rajesh Joshi
+Patient ID: P86900
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-01
+Diagnosis: Urinary Tract Infection
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹527,588
-Insurance Claim ID: 9CF0838B
-Hospital: Manipal Hospital
+Total Amount: ₹47,997
+Insurance Claim ID: E5EA2B2B
+Hospital: Apollo Hospital

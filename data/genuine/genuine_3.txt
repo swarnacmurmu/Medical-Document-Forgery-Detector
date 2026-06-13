@@ -1,9 +1,9 @@
-Patient Name: Priya Menon
-Patient ID: P24405
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-11
+Patient Name: Anjali Sharma
+Patient ID: P43286
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-08
 Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹14,449
-Insurance Claim ID: 611AF6BF
-Hospital: Manipal Hospital
+Treatment: Ceftriaxone IV
+Total Amount: ₹20,367
+Insurance Claim ID: 99EEEDC3
+Hospital: Apollo Hospital

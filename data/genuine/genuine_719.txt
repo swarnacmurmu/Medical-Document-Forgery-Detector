@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P88164
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-19
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹2,912
+Insurance Claim ID: 5CB4BA60
+Hospital: Lilavati Hospital

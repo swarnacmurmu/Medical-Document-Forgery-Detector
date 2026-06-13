@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P67475
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-25
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹79,673
+Insurance Claim ID: 61D10770
+Hospital: Apollo Hospital

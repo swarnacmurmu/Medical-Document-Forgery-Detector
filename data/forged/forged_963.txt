@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P41205
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-27
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹140,686
+Insurance Claim ID: D6050A69
+Hospital: Fortis Healthcare

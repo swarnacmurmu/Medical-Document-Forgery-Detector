@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P67513
-Admission Date: 2026-02-26
-Discharge Date: 2026-02-28
-Diagnosis: Dengue Fever
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹14,089
-Insurance Claim ID: 987DF575
-Hospital: Lilavati Hospital
+Patient Name: Rahul Reddy
+Patient ID: P63422
+Admission Date: 2026-03-28
+Discharge Date: 2026-03-30
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,770
+Insurance Claim ID: 074E7595
+Hospital: Fortis Healthcare

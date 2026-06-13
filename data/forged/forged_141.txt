@@ -1,9 +1,9 @@
-Patient Name: Rahul Patel
-Patient ID: P70501
-Admission Date: 2026-05-28
-Discharge Date: 2026-05-29
-Diagnosis: Hypertension
-Treatment: Rest and paracetamol
-Total Amount: ₹150,996
-Insurance Claim ID: 5736BB5A
-Hospital: AIIMS
+Patient Name: Priya Reddy
+Patient ID: P33018
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-07
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹13,720
+Insurance Claim ID: 36F9C635
+Hospital: Lilavati Hospital

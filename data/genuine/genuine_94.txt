@@ -1,9 +1,9 @@
-Patient Name: Rahul Menon
-Patient ID: P16978
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-28
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹82,881
-Insurance Claim ID: 40776294
-Hospital: Fortis Healthcare
+Patient Name: Sunita Nair
+Patient ID: P29657
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-27
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹24,586
+Insurance Claim ID: 78B8FC46
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P65600
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-06
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹32,612
+Insurance Claim ID: 68B53633
+Hospital: Fortis Healthcare

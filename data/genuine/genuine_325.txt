@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P89333
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-19
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹147,577
-Insurance Claim ID: 2B1D8926
-Hospital: Fortis Healthcare
+Patient Name: Anjali Nair
+Patient ID: P96581
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-23
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹41,946
+Insurance Claim ID: 5783C995
+Hospital: Manipal Hospital

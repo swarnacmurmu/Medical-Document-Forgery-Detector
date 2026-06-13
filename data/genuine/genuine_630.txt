@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P15676
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-21
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹19,351
+Insurance Claim ID: A09C88B1
+Hospital: Manipal Hospital

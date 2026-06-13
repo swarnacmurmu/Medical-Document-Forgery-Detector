@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P77550
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-03
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹259,134
+Insurance Claim ID: A22FB3C9
+Hospital: Fortis Healthcare

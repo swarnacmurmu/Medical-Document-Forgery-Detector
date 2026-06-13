@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P32248
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-02
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹5,723
+Insurance Claim ID: 9D74E946
+Hospital: Fortis Healthcare

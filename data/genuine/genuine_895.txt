@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P29881
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-08
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹13,866
+Insurance Claim ID: 603A4267
+Hospital: AIIMS

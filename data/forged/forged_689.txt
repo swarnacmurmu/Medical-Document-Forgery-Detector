@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P65985
+Admission Date: 2026-05-31
+Discharge Date: 2026-05-29
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,768
+Insurance Claim ID: 76C22BB7
+Hospital: Fortis Healthcare

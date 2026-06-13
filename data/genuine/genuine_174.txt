@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P30699
-Admission Date: 2026-05-29
-Discharge Date: 2026-06-02
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹57,545
-Insurance Claim ID: 7EDD5EF4
-Hospital: Fortis Healthcare
+Patient Name: Sunita Singh
+Patient ID: P63307
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-11
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹9,330
+Insurance Claim ID: D94518FD
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P16608
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-08
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,870
+Insurance Claim ID: AD68B496
+Hospital: Lilavati Hospital

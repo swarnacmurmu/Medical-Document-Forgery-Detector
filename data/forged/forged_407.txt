@@ -1,9 +1,9 @@
-Patient Name: Amit Singh
-Patient ID: P38811
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-03
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹42,417
-Insurance Claim ID: C34710A7
+Patient Name: Vikram Gupta
+Patient ID: P88719
+Admission Date: 2026-06-02
+Discharge Date: 2026-05-30
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹28,988
+Insurance Claim ID: 7A92FD83
 Hospital: Apollo Hospital

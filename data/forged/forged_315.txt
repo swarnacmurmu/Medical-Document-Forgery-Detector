@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P66258
-Admission Date: 2026-04-03
-Discharge Date: 2026-03-31
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹813,180
-Insurance Claim ID: 73F06609
-Hospital: Manipal Hospital
+Patient Name: Neha Sharma
+Patient ID: P32439
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-29
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹276,789
+Insurance Claim ID: A3F4FBA1
+Hospital: Lilavati Hospital

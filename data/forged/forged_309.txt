@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P94694
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-28
-Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹911,988
-Insurance Claim ID: CD4320D8
-Hospital: Lilavati Hospital
+Patient Name: Rahul Nair
+Patient ID: P44888
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-08
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹6,053
+Insurance Claim ID: D07CFA4F
+Hospital: Fortis Healthcare

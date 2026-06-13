@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P31680
-Admission Date: 2026-04-27
-Discharge Date: 2026-04-28
-Diagnosis: Type 2 Diabetes
-Treatment: Rest and paracetamol
-Total Amount: ₹12,114
-Insurance Claim ID: 8D72DD95
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Nair
+Patient ID: P70312
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-16
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹3,369
+Insurance Claim ID: 44D467B5
+Hospital: Fortis Healthcare

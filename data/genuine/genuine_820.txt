@@ -1,0 +1,9 @@
+Patient Name: Rajesh Gupta
+Patient ID: P87274
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-14
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,354
+Insurance Claim ID: E693ACDA
+Hospital: Apollo Hospital

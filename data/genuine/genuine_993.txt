@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P43360
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-12
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹97,788
+Insurance Claim ID: 411A7CA3
+Hospital: Lilavati Hospital

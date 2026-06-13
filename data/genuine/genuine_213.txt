@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P21594
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-16
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹172,995
-Insurance Claim ID: BD9B5B0C
+Patient Name: Anjali Sharma
+Patient ID: P49157
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-25
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹10,111
+Insurance Claim ID: 23E2DF0C
 Hospital: AIIMS

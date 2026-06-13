@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P44105
+Admission Date: 2026-04-22
+Discharge Date: 2026-04-28
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹8,951
+Insurance Claim ID: 9F2B0997
+Hospital: Lilavati Hospital

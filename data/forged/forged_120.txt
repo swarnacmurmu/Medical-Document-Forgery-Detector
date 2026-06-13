@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P73390
-Admission Date: 2026-04-17
-Discharge Date: 2026-04-26
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹68,406
-Insurance Claim ID: A687A3D5
-Hospital: Apollo Hospital
+Patient Name: Priya Joshi
+Patient ID: P45361
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-13
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹83,287
+Insurance Claim ID: FAAADD72
+Hospital: Fortis Healthcare

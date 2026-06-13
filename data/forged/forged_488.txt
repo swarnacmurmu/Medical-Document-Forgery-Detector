@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P81232
-Admission Date: 2026-02-23
-Discharge Date: 2026-02-20
-Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹112,164
-Insurance Claim ID: D6899CE8
-Hospital: Apollo Hospital
+Patient Name: Anjali Sharma
+Patient ID: P87906
+Admission Date: 2026-04-30
+Discharge Date: 2026-04-27
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹43,344
+Insurance Claim ID: FF6FB7DF
+Hospital: Fortis Healthcare

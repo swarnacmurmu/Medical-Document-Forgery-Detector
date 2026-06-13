@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P69702
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-03
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹5,175
+Insurance Claim ID: 8C44D944
+Hospital: Fortis Healthcare

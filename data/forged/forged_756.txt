@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P89184
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-07
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹101,740
+Insurance Claim ID: 7D3114B5
+Hospital: Manipal Hospital

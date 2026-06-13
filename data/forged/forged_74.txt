@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P71290
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-15
-Diagnosis: Pneumonia
-Treatment: Sumatriptan as needed
-Total Amount: ₹91,067
-Insurance Claim ID: 19714928
-Hospital: Fortis Healthcare
+Patient Name: Priya Patel
+Patient ID: P51271
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-09
+Diagnosis: Acute Gastroenteritis
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹23,920
+Insurance Claim ID: CC528DD9
+Hospital: Apollo Hospital

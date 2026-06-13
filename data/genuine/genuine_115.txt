@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P61755
-Admission Date: 2026-03-16
-Discharge Date: 2026-03-25
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹61,850
-Insurance Claim ID: F5C8FC2A
-Hospital: AIIMS
+Patient Name: Pooja Gupta
+Patient ID: P98748
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-20
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,726
+Insurance Claim ID: F3575029
+Hospital: Apollo Hospital

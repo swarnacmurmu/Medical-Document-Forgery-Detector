@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P21811
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-14
-Diagnosis: Typhoid
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹150,174
-Insurance Claim ID: 5F9FE02F
-Hospital: Lilavati Hospital
+Patient Name: Sunita Kumar
+Patient ID: P94923
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-13
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹7,943
+Insurance Claim ID: 6C0D1AA7
+Hospital: Manipal Hospital

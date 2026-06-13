@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P44849
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,524
+Insurance Claim ID: C0FC731B
+Hospital: Lilavati Hospital

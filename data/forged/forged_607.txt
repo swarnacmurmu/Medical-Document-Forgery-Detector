@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P85886
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-27
+Diagnosis: Urinary Tract Infection
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹7,488
+Insurance Claim ID: F35B5E4E
+Hospital: AIIMS

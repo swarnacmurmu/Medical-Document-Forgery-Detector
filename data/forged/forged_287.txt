@@ -1,9 +1,9 @@
-Patient Name: Amit Joshi
-Patient ID: P61139
-Admission Date: 2026-04-22
-Discharge Date: 2026-04-26
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹367,436
-Insurance Claim ID: EE929157
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Nair
+Patient ID: P42178
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-25
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹900,450
+Insurance Claim ID: E1D0447E
+Hospital: AIIMS

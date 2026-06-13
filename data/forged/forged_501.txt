@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P78770
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹93,393
+Insurance Claim ID: 6B2F3F21
+Hospital: Fortis Healthcare

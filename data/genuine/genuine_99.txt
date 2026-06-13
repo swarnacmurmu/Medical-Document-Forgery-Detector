@@ -1,9 +1,9 @@
-Patient Name: Anjali Kumar
-Patient ID: P51857
-Admission Date: 2026-03-08
-Discharge Date: 2026-03-15
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹9,005
-Insurance Claim ID: 16D5077D
-Hospital: Fortis Healthcare
+Patient Name: Neha Patel
+Patient ID: P37011
+Admission Date: 2026-02-20
+Discharge Date: 2026-03-01
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹37,653
+Insurance Claim ID: D8975F21
+Hospital: AIIMS

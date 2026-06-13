@@ -1,0 +1,9 @@
+Patient Name: Rahul Verma
+Patient ID: P30495
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-11
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹126,415
+Insurance Claim ID: 340F0898
+Hospital: AIIMS

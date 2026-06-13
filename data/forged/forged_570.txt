@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P27790
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-24
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹849,609
+Insurance Claim ID: EA5BFAFD
+Hospital: Lilavati Hospital

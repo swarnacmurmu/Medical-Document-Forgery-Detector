@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P52062
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-15
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹24,770
+Insurance Claim ID: 63DC7F16
+Hospital: Lilavati Hospital

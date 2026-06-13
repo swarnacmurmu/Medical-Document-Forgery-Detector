@@ -1,9 +1,9 @@
 Patient Name: Anjali Patel
-Patient ID: P32402
-Admission Date: 2026-05-01
-Discharge Date: 2026-05-03
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹112,135
-Insurance Claim ID: 1C2F3F7D
-Hospital: Fortis Healthcare
+Patient ID: P16912
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-19
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹6,957
+Insurance Claim ID: 42C7685F
+Hospital: Manipal Hospital

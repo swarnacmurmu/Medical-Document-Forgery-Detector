@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P93515
-Admission Date: 2026-04-30
-Discharge Date: 2026-05-03
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹102,240
-Insurance Claim ID: 04D4AFD9
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Verma
+Patient ID: P86774
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-06
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹19,201
+Insurance Claim ID: 9E9360E7
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P21639
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-11
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹328,590
-Insurance Claim ID: 1ACC6C82
+Patient Name: Priya Kumar
+Patient ID: P40993
+Admission Date: 2026-03-28
+Discharge Date: 2026-03-26
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹16,865
+Insurance Claim ID: D9757599
 Hospital: Fortis Healthcare

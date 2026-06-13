@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P10204
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-27
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹23,780
+Insurance Claim ID: 2DB335DC
+Hospital: AIIMS

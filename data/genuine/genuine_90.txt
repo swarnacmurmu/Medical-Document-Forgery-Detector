@@ -1,9 +1,9 @@
-Patient Name: Sunita Menon
-Patient ID: P29055
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-19
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹114,199
-Insurance Claim ID: ABABAF6A
-Hospital: Lilavati Hospital
+Patient Name: Neha Nair
+Patient ID: P18768
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-05
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹6,300
+Insurance Claim ID: 2ED29123
+Hospital: Fortis Healthcare

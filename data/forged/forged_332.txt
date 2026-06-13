@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P89606
-Admission Date: 2026-03-27
-Discharge Date: 2026-03-24
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹67,559
-Insurance Claim ID: 8C47BFA3
-Hospital: Lilavati Hospital
+Patient Name: Manish Verma
+Patient ID: P20816
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-31
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹35,915
+Insurance Claim ID: 2B56FDD7
+Hospital: Manipal Hospital

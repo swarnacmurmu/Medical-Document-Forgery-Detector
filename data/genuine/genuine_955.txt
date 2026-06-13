@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P17258
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-28
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,118
+Insurance Claim ID: C45C0999
+Hospital: Manipal Hospital

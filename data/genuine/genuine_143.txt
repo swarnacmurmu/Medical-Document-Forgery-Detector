@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P75388
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-11
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹145,050
-Insurance Claim ID: B23BEFD2
+Patient Name: Amit Reddy
+Patient ID: P57543
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-24
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹30,977
+Insurance Claim ID: D9E79B80
 Hospital: Manipal Hospital

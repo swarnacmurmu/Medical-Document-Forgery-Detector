@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P19034
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-30
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹14,894
+Insurance Claim ID: 79F5F29E
+Hospital: Apollo Hospital

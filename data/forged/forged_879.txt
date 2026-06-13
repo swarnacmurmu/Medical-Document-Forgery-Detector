@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P87510
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-14
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹286,856
+Insurance Claim ID: CF645581
+Hospital: Apollo Hospital

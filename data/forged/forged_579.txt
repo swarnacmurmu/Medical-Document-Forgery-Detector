@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P51313
+Admission Date: 2026-02-24
+Discharge Date: 2026-03-05
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹435,928
+Insurance Claim ID: 6EB61B6F
+Hospital: Fortis Healthcare

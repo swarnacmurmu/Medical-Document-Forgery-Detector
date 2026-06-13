@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P49541
-Admission Date: 2026-02-27
-Discharge Date: 2026-02-28
-Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹40,472
-Insurance Claim ID: 703CBAEE
-Hospital: AIIMS
+Patient Name: Rahul Patel
+Patient ID: P73351
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-27
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹11,461
+Insurance Claim ID: A75FB4D2
+Hospital: Apollo Hospital

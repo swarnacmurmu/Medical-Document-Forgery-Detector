@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P28143
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-16
+Diagnosis: Pneumonia
+Treatment: Rest and paracetamol
+Total Amount: ₹24,610
+Insurance Claim ID: E4A9CC01
+Hospital: Apollo Hospital

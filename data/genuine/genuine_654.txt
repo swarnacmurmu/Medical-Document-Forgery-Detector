@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P89078
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-09
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹14,481
+Insurance Claim ID: 0EDC4C21
+Hospital: Lilavati Hospital

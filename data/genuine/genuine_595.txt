@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P20605
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-08
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,883
+Insurance Claim ID: F1ECD377
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P39559
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-07
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹26,576
+Insurance Claim ID: 28141753
+Hospital: AIIMS

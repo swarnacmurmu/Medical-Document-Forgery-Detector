@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P72047
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-30
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹4,369
+Insurance Claim ID: 45DA5D24
+Hospital: Manipal Hospital

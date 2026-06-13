@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P63894
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-12
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹193,856
+Insurance Claim ID: 152FD321
+Hospital: Apollo Hospital

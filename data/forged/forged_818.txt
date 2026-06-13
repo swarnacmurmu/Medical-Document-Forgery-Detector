@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P60085
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-09
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹5,984
+Insurance Claim ID: 0F386C0D
+Hospital: Manipal Hospital

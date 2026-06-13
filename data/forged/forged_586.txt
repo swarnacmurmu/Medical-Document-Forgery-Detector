@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P68864
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-10
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹12,818
+Insurance Claim ID: B8F153F8
+Hospital: Manipal Hospital

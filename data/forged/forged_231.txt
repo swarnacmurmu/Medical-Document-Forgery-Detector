@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P95081
-Admission Date: 2026-03-20
-Discharge Date: 2026-03-21
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹731,924
-Insurance Claim ID: 4E2194FC
-Hospital: Manipal Hospital
+Patient Name: Rajesh Sharma
+Patient ID: P88525
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-12
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹102,240
+Insurance Claim ID: 6E43EBB7
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P40814
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-19
+Patient Name: Neha Nair
+Patient ID: P15534
+Admission Date: 2026-03-02
+Discharge Date: 2026-02-28
 Diagnosis: Dengue Fever
 Treatment: Sumatriptan as needed
-Total Amount: ₹468,180
-Insurance Claim ID: 1CD9CE47
+Total Amount: ₹31,477
+Insurance Claim ID: F895B370
 Hospital: Apollo Hospital

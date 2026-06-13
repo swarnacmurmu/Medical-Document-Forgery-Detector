@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P40764
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-15
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹90,209
+Insurance Claim ID: 01ACD06A
+Hospital: AIIMS

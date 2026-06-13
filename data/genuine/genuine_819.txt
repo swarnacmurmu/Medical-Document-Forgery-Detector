@@ -1,0 +1,9 @@
+Patient Name: Rahul Verma
+Patient ID: P53037
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-26
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹21,377
+Insurance Claim ID: 3C21628D
+Hospital: Lilavati Hospital

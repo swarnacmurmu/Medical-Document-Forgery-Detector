@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P19406
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-08
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹4,352
+Insurance Claim ID: 4308FC83
+Hospital: Lilavati Hospital

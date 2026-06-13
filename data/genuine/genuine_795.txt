@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P20165
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-09
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹9,518
+Insurance Claim ID: 32900BAE
+Hospital: AIIMS

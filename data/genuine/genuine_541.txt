@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P17177
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-12
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹33,779
+Insurance Claim ID: C9AE8691
+Hospital: AIIMS

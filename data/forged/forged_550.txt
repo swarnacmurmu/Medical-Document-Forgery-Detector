@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P14316
+Admission Date: 2026-05-03
+Discharge Date: 2026-04-30
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹61,855
+Insurance Claim ID: CB53A870
+Hospital: Fortis Healthcare

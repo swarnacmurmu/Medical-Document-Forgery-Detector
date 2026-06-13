@@ -1,9 +1,9 @@
 Patient Name: Rahul Joshi
-Patient ID: P38363
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-20
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹176,286
-Insurance Claim ID: 0FE8B44C
-Hospital: Apollo Hospital
+Patient ID: P41196
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-21
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹430,407
+Insurance Claim ID: 7615071F
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P29933
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-06
+Diagnosis: Urinary Tract Infection
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹2,785
+Insurance Claim ID: E2C19858
+Hospital: Apollo Hospital

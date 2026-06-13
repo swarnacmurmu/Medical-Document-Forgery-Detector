@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P24651
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-07
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹5,616
+Insurance Claim ID: 46CD0DC6
+Hospital: Manipal Hospital

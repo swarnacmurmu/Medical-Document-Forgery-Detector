@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P23607
-Admission Date: 2026-05-28
-Discharge Date: 2026-05-29
+Patient Name: Neha Verma
+Patient ID: P23125
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-30
 Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹88,561
-Insurance Claim ID: E90CE73A
-Hospital: Manipal Hospital
+Treatment: Rest and paracetamol
+Total Amount: ₹25,457
+Insurance Claim ID: E010D408
+Hospital: Lilavati Hospital

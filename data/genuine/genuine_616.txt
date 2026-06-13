@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P49366
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-29
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹11,518
+Insurance Claim ID: A4B7ED0A
+Hospital: Fortis Healthcare

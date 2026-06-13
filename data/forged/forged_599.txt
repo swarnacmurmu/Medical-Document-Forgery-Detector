@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P36377
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-22
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹77,190
+Insurance Claim ID: 7A30FA36
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P86844
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-01
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹4,140
+Insurance Claim ID: F0E1923D
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P19044
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-02
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,142
+Insurance Claim ID: 95A583A3
+Hospital: Apollo Hospital

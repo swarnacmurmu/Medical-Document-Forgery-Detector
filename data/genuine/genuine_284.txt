@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P66041
-Admission Date: 2026-04-01
-Discharge Date: 2026-04-04
-Diagnosis: Pneumonia
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹121,562
-Insurance Claim ID: 38E3B664
-Hospital: AIIMS
+Patient Name: Sunita Verma
+Patient ID: P33955
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-01
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,024
+Insurance Claim ID: D7E78EEE
+Hospital: Apollo Hospital

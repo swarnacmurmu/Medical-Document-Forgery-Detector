@@ -1,9 +1,9 @@
-Patient Name: Vikram Menon
-Patient ID: P71347
-Admission Date: 2026-03-16
-Discharge Date: 2026-03-19
-Diagnosis: Typhoid
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹171,829
-Insurance Claim ID: 404FE9B6
-Hospital: Fortis Healthcare
+Patient Name: Neha Nair
+Patient ID: P40728
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-25
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹7,568
+Insurance Claim ID: 44E74B61
+Hospital: Apollo Hospital

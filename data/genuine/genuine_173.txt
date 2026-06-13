@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P24643
-Admission Date: 2026-05-08
-Discharge Date: 2026-05-18
-Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹89,397
-Insurance Claim ID: 7C811943
-Hospital: Lilavati Hospital
+Patient Name: Anjali Kumar
+Patient ID: P13976
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹3,468
+Insurance Claim ID: AE4856A4
+Hospital: Manipal Hospital

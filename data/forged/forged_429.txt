@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P37642
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-17
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,306,380
-Insurance Claim ID: 483B3479
-Hospital: Manipal Hospital
+Patient Name: Rahul Menon
+Patient ID: P51073
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-09
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹100,255
+Insurance Claim ID: EC63BB03
+Hospital: Lilavati Hospital

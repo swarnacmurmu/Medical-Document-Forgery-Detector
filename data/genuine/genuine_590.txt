@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P42884
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-08
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹4,009
+Insurance Claim ID: 69204213
+Hospital: Manipal Hospital

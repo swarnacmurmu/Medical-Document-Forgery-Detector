@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P25278
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-12
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹3,575,458
-Insurance Claim ID: 1E070E4E
+Patient Name: Neha Singh
+Patient ID: P61688
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-16
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹83,880
+Insurance Claim ID: 24FE73B0
 Hospital: Lilavati Hospital

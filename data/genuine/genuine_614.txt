@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P82558
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-22
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹13,405
+Insurance Claim ID: 9D72C6BA
+Hospital: Manipal Hospital

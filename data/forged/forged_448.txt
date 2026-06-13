@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P28492
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-25
-Diagnosis: Asthma
+Patient Name: Rahul Joshi
+Patient ID: P31678
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-02
+Diagnosis: Urinary Tract Infection
 Treatment: Antibiotics for 5 days
-Total Amount: ₹135,222
-Insurance Claim ID: B38F9A33
-Hospital: Manipal Hospital
+Total Amount: ₹76,860
+Insurance Claim ID: CDF3935A
+Hospital: Fortis Healthcare

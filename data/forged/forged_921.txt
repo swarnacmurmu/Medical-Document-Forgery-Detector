@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P37264
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-24
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹37,806
+Insurance Claim ID: B9130E41
+Hospital: Fortis Healthcare

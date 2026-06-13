@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P94409
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-21
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹25,005
+Insurance Claim ID: FF57C683
+Hospital: Apollo Hospital

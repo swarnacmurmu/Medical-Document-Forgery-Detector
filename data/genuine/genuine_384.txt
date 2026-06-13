@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P85560
-Admission Date: 2026-03-29
-Discharge Date: 2026-04-07
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹117,556
-Insurance Claim ID: 7436177C
-Hospital: Apollo Hospital
+Patient Name: Amit Gupta
+Patient ID: P27341
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-09
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹3,792
+Insurance Claim ID: 420037C7
+Hospital: Manipal Hospital

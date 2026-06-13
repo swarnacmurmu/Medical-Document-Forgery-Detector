@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P14482
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-22
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹10,698
+Insurance Claim ID: 321CFA78
+Hospital: AIIMS

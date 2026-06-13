@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P34986
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-10
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹101,990
-Insurance Claim ID: 30A2492C
-Hospital: Lilavati Hospital
+Patient Name: Anjali Reddy
+Patient ID: P10025
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-25
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹16,254
+Insurance Claim ID: 18994F04
+Hospital: Apollo Hospital

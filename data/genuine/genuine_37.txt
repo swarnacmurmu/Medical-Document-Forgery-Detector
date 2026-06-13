@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P86296
-Admission Date: 2026-03-16
-Discharge Date: 2026-03-17
-Diagnosis: Migraine
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹98,259
-Insurance Claim ID: 3AF62458
-Hospital: AIIMS
+Patient Name: Sunita Gupta
+Patient ID: P80825
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-02
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,917
+Insurance Claim ID: 78267ACE
+Hospital: Manipal Hospital

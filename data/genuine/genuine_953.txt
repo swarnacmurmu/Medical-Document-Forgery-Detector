@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P79494
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-10
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹15,561
+Insurance Claim ID: 41E6E632
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P88843
-Admission Date: 2026-04-10
-Discharge Date: 2026-04-17
-Diagnosis: Acute Gastroenteritis
-Treatment: Inhaler and monitoring
-Total Amount: ₹151,745
-Insurance Claim ID: C8F82E52
+Patient Name: Neha Verma
+Patient ID: P84535
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-01
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹16,908
+Insurance Claim ID: 93C8F647
 Hospital: AIIMS

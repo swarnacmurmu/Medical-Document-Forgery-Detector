@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P58302
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-03
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹18,459
+Insurance Claim ID: 198EE4E5
+Hospital: Lilavati Hospital

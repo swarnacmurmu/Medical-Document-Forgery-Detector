@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P72420
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-04
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,018
+Insurance Claim ID: 73582826
+Hospital: AIIMS

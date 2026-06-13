@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P69406
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-04
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹6,810
+Insurance Claim ID: 41B88E6A
+Hospital: Apollo Hospital

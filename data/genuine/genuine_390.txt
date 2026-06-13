@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P36234
-Admission Date: 2026-04-24
-Discharge Date: 2026-04-29
-Diagnosis: Pneumonia
-Treatment: Rest and paracetamol
-Total Amount: ₹39,660
-Insurance Claim ID: 1F57DA2F
-Hospital: Manipal Hospital
+Patient Name: Vikram Patel
+Patient ID: P33796
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹7,858
+Insurance Claim ID: 53F56D8C
+Hospital: AIIMS

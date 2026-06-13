@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P62719
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-08
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹12,910
+Insurance Claim ID: 4306DEAA
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P58709
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-19
-Diagnosis: Type 2 Diabetes
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹197,848
-Insurance Claim ID: 5741DCB0
-Hospital: Apollo Hospital
+Patient Name: Sunita Verma
+Patient ID: P31997
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-05
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹5,052
+Insurance Claim ID: DEB716B0
+Hospital: Fortis Healthcare

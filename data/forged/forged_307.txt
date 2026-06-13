@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P25309
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-24
+Patient Name: Priya Kumar
+Patient ID: P56302
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-14
 Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹75,359
-Insurance Claim ID: 01178E37
-Hospital: AIIMS
+Treatment: Inhaler and monitoring
+Total Amount: ₹42,732
+Insurance Claim ID: 1F643259
+Hospital: Lilavati Hospital

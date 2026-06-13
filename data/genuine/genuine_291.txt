@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P24271
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-04
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹193,975
-Insurance Claim ID: E838B64D
-Hospital: Lilavati Hospital
+Patient Name: Rahul Patel
+Patient ID: P65484
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-11
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹16,152
+Insurance Claim ID: 9F7E366E
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P90459
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-28
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹83,409
+Insurance Claim ID: 5985161F
+Hospital: Manipal Hospital

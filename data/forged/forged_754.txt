@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P41581
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-08
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹64,122
+Insurance Claim ID: DDC55D89
+Hospital: AIIMS

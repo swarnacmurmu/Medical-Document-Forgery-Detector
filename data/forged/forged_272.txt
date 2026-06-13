@@ -1,9 +1,9 @@
-Patient Name: Priya Menon
-Patient ID: P73486
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-28
-Diagnosis: Asthma
+Patient Name: Vikram Verma
+Patient ID: P27802
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-19
+Diagnosis: Pneumonia
 Treatment: Sumatriptan as needed
-Total Amount: ₹88,777
-Insurance Claim ID: B5C66FB9
-Hospital: AIIMS
+Total Amount: ₹23,838
+Insurance Claim ID: D88FC4DB
+Hospital: Lilavati Hospital

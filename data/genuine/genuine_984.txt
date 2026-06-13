@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P14030
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-11
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹11,413
+Insurance Claim ID: BEA0F4AD
+Hospital: AIIMS

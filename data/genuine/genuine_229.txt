@@ -1,9 +1,9 @@
-Patient Name: Pooja Verma
-Patient ID: P81170
-Admission Date: 2026-03-01
-Discharge Date: 2026-03-05
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹30,488
-Insurance Claim ID: 738A792A
-Hospital: Fortis Healthcare
+Patient Name: Amit Menon
+Patient ID: P36987
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-22
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹74,201
+Insurance Claim ID: B7E1D7EB
+Hospital: Apollo Hospital

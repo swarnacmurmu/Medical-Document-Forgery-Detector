@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P39191
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,149
+Insurance Claim ID: 90B3F533
+Hospital: Fortis Healthcare

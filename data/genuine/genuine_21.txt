@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P23574
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-09
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹167,721
-Insurance Claim ID: B25ABAB4
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Sharma
+Patient ID: P99545
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-24
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹13,417
+Insurance Claim ID: 0F3A49E8
+Hospital: Fortis Healthcare

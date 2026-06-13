@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P31157
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-14
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹24,334
+Insurance Claim ID: C137B529
+Hospital: Lilavati Hospital

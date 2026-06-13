@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P17783
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-20
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹14,976
+Insurance Claim ID: E80A6C97
+Hospital: Fortis Healthcare

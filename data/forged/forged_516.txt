@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P93220
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-06
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹9,417
+Insurance Claim ID: 6D828425
+Hospital: AIIMS

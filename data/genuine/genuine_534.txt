@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P38697
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-12
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹4,147
+Insurance Claim ID: 980EC484
+Hospital: Manipal Hospital

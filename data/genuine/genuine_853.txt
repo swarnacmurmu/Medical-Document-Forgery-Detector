@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P95756
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-19
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹4,514
+Insurance Claim ID: 55228305
+Hospital: Apollo Hospital

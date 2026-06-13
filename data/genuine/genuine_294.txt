@@ -1,9 +1,9 @@
-Patient Name: Rajesh Kumar
-Patient ID: P15577
-Admission Date: 2026-04-26
-Discharge Date: 2026-04-29
-Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹102,834
-Insurance Claim ID: 61308BB8
-Hospital: Fortis Healthcare
+Patient Name: Anjali Reddy
+Patient ID: P91520
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-08
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹17,449
+Insurance Claim ID: F2A71FAB
+Hospital: Apollo Hospital

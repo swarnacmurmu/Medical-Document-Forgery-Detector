@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P46424
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-28
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹6,312
+Insurance Claim ID: EF373CB9
+Hospital: Manipal Hospital

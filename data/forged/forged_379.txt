@@ -1,9 +1,9 @@
-Patient Name: Sunita Joshi
-Patient ID: P77798
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-31
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹1,116,135
-Insurance Claim ID: B875CEE1
-Hospital: Manipal Hospital
+Patient Name: Manish Patel
+Patient ID: P98002
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-02
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹3,851
+Insurance Claim ID: AF773A69
+Hospital: AIIMS

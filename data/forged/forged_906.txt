@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P35532
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-18
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹82,681
+Insurance Claim ID: 54006A37
+Hospital: Fortis Healthcare

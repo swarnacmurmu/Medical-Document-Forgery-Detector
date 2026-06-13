@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P79725
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-28
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹9,117
+Insurance Claim ID: C64016DE
+Hospital: Apollo Hospital

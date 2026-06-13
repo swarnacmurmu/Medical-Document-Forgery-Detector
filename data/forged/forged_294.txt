@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P15577
-Admission Date: 2026-04-26
-Discharge Date: 2026-04-29
-Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹102,834
-Insurance Claim ID: 61308BB8
-Hospital: Fortis Healthcare
+Patient Name: Anjali Patel
+Patient ID: P80574
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-18
+Diagnosis: Hypertension
+Treatment: Inhaler and monitoring
+Total Amount: ₹20,472
+Insurance Claim ID: 21098D54
+Hospital: AIIMS

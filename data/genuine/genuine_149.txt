@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P38864
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-15
+Patient Name: Priya Kumar
+Patient ID: P30781
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-06
 Diagnosis: Acute Gastroenteritis
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹96,988
-Insurance Claim ID: 090B68E0
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹5,021
+Insurance Claim ID: 08A71679
 Hospital: Lilavati Hospital

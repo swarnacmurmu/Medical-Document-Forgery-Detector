@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P50163
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-11
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹5,691
+Insurance Claim ID: 2E5F166E
+Hospital: Fortis Healthcare

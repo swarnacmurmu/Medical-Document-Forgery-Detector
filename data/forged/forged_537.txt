@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P31923
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-25
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹388,682
+Insurance Claim ID: 793EDFAF
+Hospital: Lilavati Hospital

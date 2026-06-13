@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P46114
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-08
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹25,925
+Insurance Claim ID: 6880724B
+Hospital: Apollo Hospital

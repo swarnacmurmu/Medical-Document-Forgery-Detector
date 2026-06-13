@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P51447
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-15
-Diagnosis: Dengue Fever
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹62,246
-Insurance Claim ID: 742E22A8
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Gupta
+Patient ID: P67392
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-22
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹4,761
+Insurance Claim ID: B80B2140
+Hospital: AIIMS

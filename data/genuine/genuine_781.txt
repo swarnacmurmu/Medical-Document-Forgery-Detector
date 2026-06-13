@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P47833
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-23
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹26,917
+Insurance Claim ID: D62A9CF1
+Hospital: Manipal Hospital

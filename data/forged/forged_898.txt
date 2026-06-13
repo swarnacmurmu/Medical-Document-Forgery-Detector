@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P82384
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-13
+Diagnosis: Typhoid
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹29,537
+Insurance Claim ID: 37D4BEB9
+Hospital: Manipal Hospital

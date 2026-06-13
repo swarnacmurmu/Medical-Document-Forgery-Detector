@@ -1,9 +1,9 @@
-Patient Name: Pooja Verma
-Patient ID: P81170
-Admission Date: 2026-03-01
-Discharge Date: 2026-02-26
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹30,488
-Insurance Claim ID: 738A792A
-Hospital: Fortis Healthcare
+Patient Name: Rahul Singh
+Patient ID: P85891
+Admission Date: 2026-05-01
+Discharge Date: 2026-04-28
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹118,928
+Insurance Claim ID: 3A83E327
+Hospital: Apollo Hospital

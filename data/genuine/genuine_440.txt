@@ -1,9 +1,9 @@
 Patient Name: Neha Gupta
-Patient ID: P95403
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-26
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹149,936
-Insurance Claim ID: E19FBB4A
+Patient ID: P51866
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-19
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹89,149
+Insurance Claim ID: 121D779D
 Hospital: Manipal Hospital

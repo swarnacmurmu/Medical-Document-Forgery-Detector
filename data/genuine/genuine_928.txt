@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P15430
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-08
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹47,806
+Insurance Claim ID: D0DFCDB2
+Hospital: Apollo Hospital

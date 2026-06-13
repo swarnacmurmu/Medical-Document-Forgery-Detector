@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P62700
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-20
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹3,548,952
-Insurance Claim ID: 6658E788
-Hospital: Fortis Healthcare
+Patient Name: Amit Reddy
+Patient ID: P62857
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-06
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹10,307
+Insurance Claim ID: 4986DDC1
+Hospital: AIIMS

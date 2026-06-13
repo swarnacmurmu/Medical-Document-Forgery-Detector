@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P42210
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-16
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹11,490
+Insurance Claim ID: 57002ADE
+Hospital: Manipal Hospital

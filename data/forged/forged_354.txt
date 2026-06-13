@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P64459
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-15
+Patient Name: Manish Sharma
+Patient ID: P51272
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-08
 Diagnosis: Dengue Fever
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹1,279,836
-Insurance Claim ID: 00EBC1E2
-Hospital: Lilavati Hospital
+Treatment: Sumatriptan as needed
+Total Amount: ₹30,234
+Insurance Claim ID: 3EBBA425
+Hospital: Manipal Hospital

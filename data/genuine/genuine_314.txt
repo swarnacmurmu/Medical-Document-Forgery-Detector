@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P80541
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹35,970
-Insurance Claim ID: 1FD3EAA3
-Hospital: Fortis Healthcare
+Patient Name: Sunita Patel
+Patient ID: P33779
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-11
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹24,831
+Insurance Claim ID: 325987AC
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Neha Reddy
-Patient ID: P46479
-Admission Date: 2026-03-29
-Discharge Date: 2026-03-28
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹493,290
-Insurance Claim ID: D79DAE49
-Hospital: Fortis Healthcare
+Patient Name: Priya Gupta
+Patient ID: P12260
+Admission Date: 2026-03-02
+Discharge Date: 2026-03-04
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹91,144
+Insurance Claim ID: 78A8D959
+Hospital: Manipal Hospital

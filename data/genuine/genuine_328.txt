@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P14290
-Admission Date: 2026-06-09
-Discharge Date: 2026-06-11
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹94,832
-Insurance Claim ID: A530C464
+Patient Name: Sunita Menon
+Patient ID: P68315
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-25
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹8,781
+Insurance Claim ID: E9916C36
 Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P49573
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹5,011
+Insurance Claim ID: 14190E25
+Hospital: Lilavati Hospital

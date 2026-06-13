@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P54220
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-05
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹8,397
+Insurance Claim ID: A5B5AD2D
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P35876
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-03
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,528
+Insurance Claim ID: BB74C274
+Hospital: Manipal Hospital

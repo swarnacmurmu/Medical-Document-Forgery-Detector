@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P61853
-Admission Date: 2026-05-11
-Discharge Date: 2026-05-09
-Diagnosis: Acute Gastroenteritis
+Patient Name: Amit Verma
+Patient ID: P66871
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-07
+Diagnosis: Asthma
 Treatment: Oseltamivir and supportive care
-Total Amount: ₹1,305,610
-Insurance Claim ID: D1670092
-Hospital: Manipal Hospital
+Total Amount: ₹83,664
+Insurance Claim ID: F5A23286
+Hospital: Apollo Hospital

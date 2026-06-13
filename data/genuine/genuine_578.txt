@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P90398
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-01
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹5,227
+Insurance Claim ID: 180199B6
+Hospital: Manipal Hospital

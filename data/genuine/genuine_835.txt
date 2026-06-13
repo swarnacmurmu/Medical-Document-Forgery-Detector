@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P39600
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-22
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹7,343
+Insurance Claim ID: E8B209C7
+Hospital: Lilavati Hospital

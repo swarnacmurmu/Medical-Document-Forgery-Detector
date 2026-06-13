@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P54040
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-22
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹8,070
+Insurance Claim ID: CCA034C6
+Hospital: AIIMS

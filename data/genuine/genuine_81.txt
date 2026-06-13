@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P84257
-Admission Date: 2026-06-04
-Discharge Date: 2026-06-06
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹121,055
-Insurance Claim ID: 786F2A7F
-Hospital: Apollo Hospital
+Patient Name: Anjali Kumar
+Patient ID: P28404
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-05
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹18,824
+Insurance Claim ID: BBE92F79
+Hospital: AIIMS

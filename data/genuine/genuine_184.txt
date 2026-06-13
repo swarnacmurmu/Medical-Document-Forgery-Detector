@@ -1,9 +1,9 @@
-Patient Name: Anjali Verma
-Patient ID: P52458
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-29
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹132,706
-Insurance Claim ID: EC836D71
-Hospital: Manipal Hospital
+Patient Name: Rajesh Nair
+Patient ID: P88783
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-03
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,009
+Insurance Claim ID: 5B5EB2B4
+Hospital: Lilavati Hospital

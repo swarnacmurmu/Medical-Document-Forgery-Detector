@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P37302
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-14
+Diagnosis: Acute Gastroenteritis
+Treatment: Azithromycin course
+Total Amount: ₹63,650
+Insurance Claim ID: 54661872
+Hospital: Apollo Hospital

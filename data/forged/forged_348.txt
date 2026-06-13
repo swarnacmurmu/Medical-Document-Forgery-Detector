@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P11731
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-23
+Patient Name: Neha Patel
+Patient ID: P53709
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-10
 Diagnosis: Typhoid
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹50,492
-Insurance Claim ID: 603A72C8
-Hospital: Fortis Healthcare
+Treatment: Ceftriaxone IV
+Total Amount: ₹175,000
+Insurance Claim ID: 6516F994
+Hospital: AIIMS

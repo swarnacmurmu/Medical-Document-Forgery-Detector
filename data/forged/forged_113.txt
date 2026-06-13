@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P46986
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-02
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹152,664
-Insurance Claim ID: C9D3BFE4
-Hospital: Fortis Healthcare
+Patient Name: Priya Sharma
+Patient ID: P10779
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-09
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹123,280
+Insurance Claim ID: 98D39DBA
+Hospital: AIIMS

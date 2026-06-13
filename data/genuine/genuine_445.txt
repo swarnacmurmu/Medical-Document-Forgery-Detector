@@ -1,9 +1,9 @@
-Patient Name: Anjali Gupta
-Patient ID: P26502
-Admission Date: 2026-05-27
-Discharge Date: 2026-06-04
-Diagnosis: Typhoid
-Treatment: Inhaler and monitoring
-Total Amount: ₹88,953
-Insurance Claim ID: 4CDA8D6C
-Hospital: Manipal Hospital
+Patient Name: Rahul Menon
+Patient ID: P80208
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-21
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,081
+Insurance Claim ID: F24B1B59
+Hospital: AIIMS

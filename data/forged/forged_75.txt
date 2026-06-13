@@ -1,9 +1,9 @@
-Patient Name: Priya Gupta
-Patient ID: P51480
-Admission Date: 2026-02-23
-Discharge Date: 2026-02-22
-Diagnosis: Urinary Tract Infection
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹79,397
-Insurance Claim ID: B54C2155
+Patient Name: Priya Sharma
+Patient ID: P90103
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-07
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹33,980
+Insurance Claim ID: D50B6801
 Hospital: Fortis Healthcare

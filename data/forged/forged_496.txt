@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P51447
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-11
-Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹62,246
-Insurance Claim ID: 742E22A8
-Hospital: Lilavati Hospital
+Patient Name: Vikram Singh
+Patient ID: P26989
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-11
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹9,183
+Insurance Claim ID: EF93A974
+Hospital: Manipal Hospital

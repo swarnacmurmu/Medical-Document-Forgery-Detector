@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P35643
-Admission Date: 2026-06-07
-Discharge Date: 2026-06-04
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹119,832
-Insurance Claim ID: 1DBC97CD
+Patient Name: Rahul Menon
+Patient ID: P20092
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹25,896
+Insurance Claim ID: E307EBBD
 Hospital: Lilavati Hospital

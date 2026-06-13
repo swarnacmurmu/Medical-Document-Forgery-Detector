@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P42441
-Admission Date: 2026-02-26
-Discharge Date: 2026-03-03
-Diagnosis: Acute Gastroenteritis
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹137,967
-Insurance Claim ID: E9AF4E78
-Hospital: Lilavati Hospital
+Patient Name: Anjali Joshi
+Patient ID: P16430
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-30
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹3,700
+Insurance Claim ID: C93B52CD
+Hospital: AIIMS

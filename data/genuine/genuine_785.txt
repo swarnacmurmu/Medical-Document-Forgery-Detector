@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P91008
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,004
+Insurance Claim ID: A08C2FBE
+Hospital: Apollo Hospital

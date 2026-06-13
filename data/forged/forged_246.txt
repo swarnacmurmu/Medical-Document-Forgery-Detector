@@ -1,9 +1,9 @@
-Patient Name: Rahul Verma
-Patient ID: P51139
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-12
-Diagnosis: Urinary Tract Infection
-Treatment: Antibiotics for 5 days
-Total Amount: ₹120,320
-Insurance Claim ID: 3EFF9E7D
-Hospital: AIIMS
+Patient Name: Amit Patel
+Patient ID: P23887
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-13
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹227,136
+Insurance Claim ID: D39DEE69
+Hospital: Manipal Hospital

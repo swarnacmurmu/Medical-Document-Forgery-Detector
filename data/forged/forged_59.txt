@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P40851
-Admission Date: 2026-04-02
-Discharge Date: 2026-04-06
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹1,974,135
-Insurance Claim ID: 5BE7AE1C
-Hospital: Apollo Hospital
+Patient Name: Pooja Singh
+Patient ID: P85449
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-14
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹31,692
+Insurance Claim ID: DDAD250E
+Hospital: AIIMS

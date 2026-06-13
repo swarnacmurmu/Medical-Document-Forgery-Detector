@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P69156
+Admission Date: 2026-03-30
+Discharge Date: 2026-04-02
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,291
+Insurance Claim ID: DBB41CE7
+Hospital: Apollo Hospital

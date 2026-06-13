@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P51800
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-16
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,306
+Insurance Claim ID: E251675B
+Hospital: Fortis Healthcare

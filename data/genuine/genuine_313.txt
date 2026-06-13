@@ -1,9 +1,9 @@
-Patient Name: Amit Menon
-Patient ID: P63591
-Admission Date: 2026-02-19
-Discharge Date: 2026-03-01
+Patient Name: Rajesh Joshi
+Patient ID: P21931
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-06
 Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹50,601
-Insurance Claim ID: 30ABCD74
-Hospital: Lilavati Hospital
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,048
+Insurance Claim ID: 1BF76FB2
+Hospital: AIIMS

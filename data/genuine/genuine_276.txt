@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P27872
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-14
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹60,817
-Insurance Claim ID: 7757C628
-Hospital: Fortis Healthcare
+Patient Name: Rahul Joshi
+Patient ID: P53171
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-21
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹17,096
+Insurance Claim ID: 669B7AA5
+Hospital: Apollo Hospital

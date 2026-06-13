@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P73390
-Admission Date: 2026-04-17
-Discharge Date: 2026-04-26
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹68,406
-Insurance Claim ID: A687A3D5
-Hospital: Apollo Hospital
+Patient Name: Rahul Reddy
+Patient ID: P15497
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-09
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹8,806
+Insurance Claim ID: D12ACDEF
+Hospital: Fortis Healthcare

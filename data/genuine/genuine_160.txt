@@ -1,9 +1,9 @@
-Patient Name: Amit Reddy
-Patient ID: P91967
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-31
-Diagnosis: Asthma
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹9,049
-Insurance Claim ID: 2D06DD30
-Hospital: Manipal Hospital
+Patient Name: Sunita Menon
+Patient ID: P38149
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-25
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹7,528
+Insurance Claim ID: FE813DC2
+Hospital: Fortis Healthcare

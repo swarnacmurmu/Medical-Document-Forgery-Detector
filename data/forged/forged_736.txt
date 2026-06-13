@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P15239
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-22
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹59,496
+Insurance Claim ID: 23C95A17
+Hospital: Fortis Healthcare

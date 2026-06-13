@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P66083
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-19
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹141,774
-Insurance Claim ID: CDCAE92C
-Hospital: Lilavati Hospital
+Patient Name: Manish Reddy
+Patient ID: P12798
+Admission Date: 2026-05-01
+Discharge Date: 2026-04-30
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,358
+Insurance Claim ID: 1429A274
+Hospital: Manipal Hospital

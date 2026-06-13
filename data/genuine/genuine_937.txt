@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P80463
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-09
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹12,264
+Insurance Claim ID: 0F311618
+Hospital: Fortis Healthcare

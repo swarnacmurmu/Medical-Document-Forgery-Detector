@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P50618
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-25
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹19,875
+Insurance Claim ID: 1850A450
+Hospital: Apollo Hospital

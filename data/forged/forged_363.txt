@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P83625
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-29
-Diagnosis: Acute Gastroenteritis
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,061,164
-Insurance Claim ID: 0C5CBC24
+Patient Name: Amit Singh
+Patient ID: P43135
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-07
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹4,582
+Insurance Claim ID: A4B33B7C
 Hospital: Fortis Healthcare

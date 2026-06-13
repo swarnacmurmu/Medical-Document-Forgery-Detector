@@ -1,9 +1,9 @@
-Patient Name: Anjali Nair
-Patient ID: P40036
-Admission Date: 2026-04-30
-Discharge Date: 2026-05-02
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹186,474
-Insurance Claim ID: 4743C68D
-Hospital: Fortis Healthcare
+Patient Name: Manish Sharma
+Patient ID: P43847
+Admission Date: 2026-05-25
+Discharge Date: 2026-06-04
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹51,030
+Insurance Claim ID: 3C7C2696
+Hospital: Manipal Hospital

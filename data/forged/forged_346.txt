@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P50113
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-23
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹136,640
-Insurance Claim ID: E0BF28E7
+Patient Name: Amit Patel
+Patient ID: P96530
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-27
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹400,208
+Insurance Claim ID: 60DF1822
 Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Anjali Nair
-Patient ID: P74777
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-23
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹162,088
-Insurance Claim ID: 551E76C1
-Hospital: Apollo Hospital
+Patient Name: Neha Sharma
+Patient ID: P47118
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹13,173
+Insurance Claim ID: 884EB88F
+Hospital: Manipal Hospital

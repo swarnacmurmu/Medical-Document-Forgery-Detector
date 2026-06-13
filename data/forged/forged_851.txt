@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P10839
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-07
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹92,618
+Insurance Claim ID: E6156A34
+Hospital: Lilavati Hospital

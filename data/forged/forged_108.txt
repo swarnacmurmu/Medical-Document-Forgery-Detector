@@ -1,9 +1,9 @@
-Patient Name: Manish Patel
-Patient ID: P22714
-Admission Date: 2026-04-28
-Discharge Date: 2026-05-01
-Diagnosis: Urinary Tract Infection
+Patient Name: Pooja Gupta
+Patient ID: P57564
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-14
+Diagnosis: Dengue Fever
 Treatment: Inhaler and monitoring
-Total Amount: ₹188,949
-Insurance Claim ID: A0260B96
-Hospital: Lilavati Hospital
+Total Amount: ₹12,073
+Insurance Claim ID: C6D2DBA0
+Hospital: Fortis Healthcare

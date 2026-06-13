@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P40851
-Admission Date: 2026-04-02
-Discharge Date: 2026-04-06
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹131,609
-Insurance Claim ID: 5BE7AE1C
+Patient Name: Sunita Joshi
+Patient ID: P74139
+Admission Date: 2026-05-02
+Discharge Date: 2026-05-04
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹2,720
+Insurance Claim ID: A76DA9CD
 Hospital: Apollo Hospital

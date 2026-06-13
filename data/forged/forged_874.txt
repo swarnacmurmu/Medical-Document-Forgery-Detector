@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P83539
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-07
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹85,640
+Insurance Claim ID: 0D384830
+Hospital: Lilavati Hospital

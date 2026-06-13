@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P55022
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-08
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹9,475
+Insurance Claim ID: CD76AB7A
+Hospital: Apollo Hospital

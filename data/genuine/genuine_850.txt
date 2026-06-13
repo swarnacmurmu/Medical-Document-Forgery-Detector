@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P11199
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-07
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹4,364
+Insurance Claim ID: 61C561CE
+Hospital: Lilavati Hospital

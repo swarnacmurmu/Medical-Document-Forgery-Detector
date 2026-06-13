@@ -1,9 +1,9 @@
-Patient Name: Anjali Verma
-Patient ID: P93388
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-25
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹2,437,184
-Insurance Claim ID: 9D509514
-Hospital: Lilavati Hospital
+Patient Name: Manish Nair
+Patient ID: P19018
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-22
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹5,639
+Insurance Claim ID: 4C03B510
+Hospital: Manipal Hospital

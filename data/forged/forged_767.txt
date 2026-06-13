@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P59121
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-17
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹5,026
+Insurance Claim ID: 28EFF35E
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P52902
-Admission Date: 2026-06-08
-Discharge Date: 2026-06-15
-Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹100,480
-Insurance Claim ID: 2D677D93
+Patient Name: Neha Nair
+Patient ID: P14126
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-02
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹7,378
+Insurance Claim ID: 494E0AA0
 Hospital: AIIMS

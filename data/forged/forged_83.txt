@@ -1,9 +1,9 @@
-Patient Name: Vikram Joshi
-Patient ID: P13552
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-17
-Diagnosis: Pneumonia
-Treatment: Sumatriptan as needed
-Total Amount: ₹2,521,616
-Insurance Claim ID: F23CD5D1
-Hospital: AIIMS
+Patient Name: Priya Patel
+Patient ID: P70389
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-08
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹341,020
+Insurance Claim ID: B340A5F8
+Hospital: Manipal Hospital

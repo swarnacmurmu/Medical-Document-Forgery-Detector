@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P68743
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-24
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹3,115
+Insurance Claim ID: F87804F6
+Hospital: Lilavati Hospital

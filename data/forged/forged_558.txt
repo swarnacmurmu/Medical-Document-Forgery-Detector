@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P37538
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-13
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹358,470
+Insurance Claim ID: CD4FE7DF
+Hospital: Apollo Hospital

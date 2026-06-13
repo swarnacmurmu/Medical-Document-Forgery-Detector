@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P15717
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-21
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹11,432
+Insurance Claim ID: B30E94D9
+Hospital: Apollo Hospital

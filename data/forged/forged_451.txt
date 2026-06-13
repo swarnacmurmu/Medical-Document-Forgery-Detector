@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P69246
-Admission Date: 2026-04-20
-Discharge Date: 2026-04-17
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹2,131,443
-Insurance Claim ID: 9B4A1B2A
-Hospital: Apollo Hospital
+Patient Name: Pooja Kumar
+Patient ID: P46438
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-18
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹146,256
+Insurance Claim ID: B652DD9B
+Hospital: Fortis Healthcare

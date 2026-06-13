@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P41796
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-28
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,930
+Insurance Claim ID: 26D75C66
+Hospital: Manipal Hospital

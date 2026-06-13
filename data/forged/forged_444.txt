@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P98246
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-10
-Diagnosis: Pneumonia
-Treatment: Inhaler and monitoring
-Total Amount: ₹2,122,656
-Insurance Claim ID: 7B177EE3
-Hospital: AIIMS
+Patient Name: Vikram Kumar
+Patient ID: P65586
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-06
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹70,170
+Insurance Claim ID: FDAB062B
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P12829
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-23
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹2,799
+Insurance Claim ID: 67F198B2
+Hospital: Apollo Hospital

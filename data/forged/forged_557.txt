@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P29406
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-02
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹83,915
+Insurance Claim ID: 30477C20
+Hospital: Lilavati Hospital

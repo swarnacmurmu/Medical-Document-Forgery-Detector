@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P69613
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-05
+Patient Name: Sunita Nair
+Patient ID: P91242
+Admission Date: 2026-05-28
+Discharge Date: 2026-06-01
 Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹26,579
-Insurance Claim ID: 04A55347
-Hospital: Fortis Healthcare
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹13,522
+Insurance Claim ID: E1D65D29
+Hospital: AIIMS

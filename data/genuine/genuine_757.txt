@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P37444
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-18
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹7,366
+Insurance Claim ID: 085F533E
+Hospital: Apollo Hospital

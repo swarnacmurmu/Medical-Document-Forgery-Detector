@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P77181
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-23
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹37,375
+Insurance Claim ID: 450E7FB5
+Hospital: Manipal Hospital

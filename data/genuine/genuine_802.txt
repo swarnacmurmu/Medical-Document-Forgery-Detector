@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P93594
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-13
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹21,239
+Insurance Claim ID: 59424D5F
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P39068
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-22
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹70,470
+Insurance Claim ID: 85322FE1
+Hospital: Lilavati Hospital

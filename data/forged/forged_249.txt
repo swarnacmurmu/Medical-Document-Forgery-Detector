@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P30327
-Admission Date: 2026-04-10
-Discharge Date: 2026-04-13
+Patient Name: Pooja Menon
+Patient ID: P43363
+Admission Date: 2026-06-03
+Discharge Date: 2026-05-31
 Diagnosis: Asthma
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹118,879
-Insurance Claim ID: 13D4977F
-Hospital: Lilavati Hospital
+Treatment: Bronchodilators and steroids
+Total Amount: ₹40,698
+Insurance Claim ID: CD7A8D0A
+Hospital: AIIMS

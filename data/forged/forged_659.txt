@@ -1,0 +1,9 @@
+Patient Name: Rajesh Patel
+Patient ID: P71611
+Admission Date: 2026-03-03
+Discharge Date: 2026-02-28
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹17,602
+Insurance Claim ID: 6DE60F7F
+Hospital: AIIMS

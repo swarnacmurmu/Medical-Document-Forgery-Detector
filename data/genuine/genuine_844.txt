@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P32077
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-02
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹41,902
+Insurance Claim ID: 7AB1C1C3
+Hospital: Fortis Healthcare

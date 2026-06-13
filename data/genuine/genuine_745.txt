@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P87468
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-13
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹5,924
+Insurance Claim ID: 2340A9C2
+Hospital: Manipal Hospital

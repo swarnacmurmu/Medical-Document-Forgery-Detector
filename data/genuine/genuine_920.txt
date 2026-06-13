@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P35091
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-28
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹8,252
+Insurance Claim ID: 9DA47036
+Hospital: AIIMS

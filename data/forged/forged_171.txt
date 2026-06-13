@@ -1,9 +1,9 @@
-Patient Name: Priya Reddy
-Patient ID: P57678
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-20
-Diagnosis: Dengue Fever
-Treatment: Azithromycin course
-Total Amount: ₹199,132
-Insurance Claim ID: 5DA0446C
-Hospital: Fortis Healthcare
+Patient Name: Pooja Patel
+Patient ID: P49853
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-05
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹897,084
+Insurance Claim ID: 7B806CD6
+Hospital: Apollo Hospital

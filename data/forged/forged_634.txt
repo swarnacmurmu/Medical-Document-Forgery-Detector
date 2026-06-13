@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P37171
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-04
+Diagnosis: Asthma
+Treatment: Sumatriptan as needed
+Total Amount: ₹84,846
+Insurance Claim ID: ACB9778F
+Hospital: Fortis Healthcare

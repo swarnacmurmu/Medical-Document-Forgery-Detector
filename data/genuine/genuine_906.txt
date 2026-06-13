@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P78123
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-17
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹5,555
+Insurance Claim ID: FC264E48
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P51528
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-06
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹17,736
+Insurance Claim ID: 0F377A67
+Hospital: Fortis Healthcare

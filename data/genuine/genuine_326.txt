@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P97094
-Admission Date: 2026-05-30
-Discharge Date: 2026-06-05
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹169,824
-Insurance Claim ID: AE3CFDCD
-Hospital: Lilavati Hospital
+Patient Name: Amit Singh
+Patient ID: P60751
+Admission Date: 2026-05-27
+Discharge Date: 2026-06-01
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹21,033
+Insurance Claim ID: 583A032C
+Hospital: AIIMS

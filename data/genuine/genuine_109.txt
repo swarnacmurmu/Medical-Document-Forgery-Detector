@@ -1,9 +1,9 @@
-Patient Name: Priya Gupta
-Patient ID: P30304
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-26
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹42,849
-Insurance Claim ID: 2379B263
-Hospital: Manipal Hospital
+Patient Name: Anjali Gupta
+Patient ID: P92160
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-01
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹12,845
+Insurance Claim ID: 671BB6A0
+Hospital: Apollo Hospital

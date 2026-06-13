@@ -1,9 +1,9 @@
-Patient Name: Neha Kumar
-Patient ID: P36891
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-16
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹111,211
-Insurance Claim ID: EAC2EE3E
-Hospital: Fortis Healthcare
+Patient Name: Manish Kumar
+Patient ID: P18333
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-05
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹21,781
+Insurance Claim ID: 2258F224
+Hospital: Apollo Hospital

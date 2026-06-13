@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P48636
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-09
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,198,267
-Insurance Claim ID: 821E2F22
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Gupta
+Patient ID: P34299
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-03
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹18,984
+Insurance Claim ID: 376A9B5D
+Hospital: Manipal Hospital

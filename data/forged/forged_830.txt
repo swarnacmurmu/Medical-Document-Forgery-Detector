@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P52279
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-29
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹97,330
+Insurance Claim ID: CB6C1F9F
+Hospital: Lilavati Hospital

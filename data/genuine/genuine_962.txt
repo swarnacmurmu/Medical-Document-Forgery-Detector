@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P12199
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-09
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹33,671
+Insurance Claim ID: BDB4F9A2
+Hospital: AIIMS

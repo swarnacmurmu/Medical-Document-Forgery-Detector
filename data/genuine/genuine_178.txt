@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P99527
-Admission Date: 2026-02-25
-Discharge Date: 2026-03-07
-Diagnosis: Typhoid
-Treatment: Inhaler and monitoring
-Total Amount: ₹71,295
-Insurance Claim ID: 456D9340
-Hospital: Fortis Healthcare
+Patient Name: Pooja Singh
+Patient ID: P13139
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-05
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹6,903
+Insurance Claim ID: 930F94F4
+Hospital: Manipal Hospital

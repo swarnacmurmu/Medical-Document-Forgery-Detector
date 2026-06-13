@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P90145
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-11
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹15,994
+Insurance Claim ID: 8627D854
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Sunita Joshi
-Patient ID: P27462
-Admission Date: 2026-03-30
-Discharge Date: 2026-03-31
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹641,248
-Insurance Claim ID: 5FAF52F0
-Hospital: Apollo Hospital
+Patient Name: Priya Gupta
+Patient ID: P86257
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-04
+Diagnosis: Hypertension
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹36,216
+Insurance Claim ID: 75FB667D
+Hospital: Manipal Hospital

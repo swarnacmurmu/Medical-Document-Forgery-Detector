@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P28073
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹69,240
+Insurance Claim ID: 78F866AC
+Hospital: AIIMS

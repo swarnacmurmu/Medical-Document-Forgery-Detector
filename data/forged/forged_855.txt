@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P78401
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-27
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹165,324
+Insurance Claim ID: 702806E3
+Hospital: Lilavati Hospital

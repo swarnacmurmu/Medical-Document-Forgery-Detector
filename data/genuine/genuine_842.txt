@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P42971
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-23
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹11,625
+Insurance Claim ID: C1E563B2
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P50559
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-07
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹184,901
-Insurance Claim ID: A0383FDF
-Hospital: Apollo Hospital
+Patient Name: Vikram Gupta
+Patient ID: P62637
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-14
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹7,260
+Insurance Claim ID: B7299E7F
+Hospital: Lilavati Hospital

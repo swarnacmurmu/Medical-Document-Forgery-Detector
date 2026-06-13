@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P54209
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-16
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹487,350
+Insurance Claim ID: F6DBACBF
+Hospital: Apollo Hospital

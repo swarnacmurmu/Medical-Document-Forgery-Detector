@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P10883
-Admission Date: 2026-05-27
-Discharge Date: 2026-06-04
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹180,019
-Insurance Claim ID: 8ACC51F1
-Hospital: AIIMS
+Patient Name: Anjali Verma
+Patient ID: P14256
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-29
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹28,046
+Insurance Claim ID: 41E623D6
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P30304
-Admission Date: 2026-05-23
-Discharge Date: 2026-05-21
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹728,433
-Insurance Claim ID: 2379B263
-Hospital: Manipal Hospital
+Patient Name: Vikram Joshi
+Patient ID: P47019
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-13
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹31,428
+Insurance Claim ID: C5D859FB
+Hospital: Lilavati Hospital

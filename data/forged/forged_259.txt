@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P38105
-Admission Date: 2026-04-14
-Discharge Date: 2026-04-23
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹101,360
-Insurance Claim ID: E7FEA268
-Hospital: Lilavati Hospital
+Patient Name: Rahul Joshi
+Patient ID: P93606
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-02
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹11,012
+Insurance Claim ID: 90118BA1
+Hospital: AIIMS

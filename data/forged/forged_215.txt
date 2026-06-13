@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P39761
-Admission Date: 2026-04-30
-Discharge Date: 2026-04-28
-Diagnosis: Pneumonia
-Treatment: Azithromycin course
-Total Amount: ₹102,240
-Insurance Claim ID: 04D4AFD9
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Patel
+Patient ID: P46882
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-23
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹34,956
+Insurance Claim ID: F647051B
+Hospital: Fortis Healthcare

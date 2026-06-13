@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P17057
-Admission Date: 2026-02-26
-Discharge Date: 2026-02-27
-Diagnosis: Asthma
-Treatment: Rest and paracetamol
-Total Amount: ₹177,481
-Insurance Claim ID: DB0570BB
-Hospital: Lilavati Hospital
+Patient Name: Anjali Reddy
+Patient ID: P32274
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-26
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹159,500
+Insurance Claim ID: 2E806415
+Hospital: Apollo Hospital

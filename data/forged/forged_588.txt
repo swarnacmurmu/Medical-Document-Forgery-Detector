@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P73716
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-25
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹16,737
+Insurance Claim ID: 09D7C611
+Hospital: Fortis Healthcare

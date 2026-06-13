@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P10521
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-08
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹42,847
+Insurance Claim ID: C56C89BD
+Hospital: Manipal Hospital

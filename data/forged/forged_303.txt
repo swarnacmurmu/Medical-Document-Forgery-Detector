@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P89604
-Admission Date: 2026-03-07
-Discharge Date: 2026-03-09
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹21,219
-Insurance Claim ID: 468AA27E
-Hospital: Apollo Hospital
+Patient Name: Manish Joshi
+Patient ID: P37729
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-07
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹42,907
+Insurance Claim ID: 8979CFFA
+Hospital: Lilavati Hospital

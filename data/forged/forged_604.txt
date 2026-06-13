@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P46628
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-13
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹3,679
+Insurance Claim ID: EB794342
+Hospital: Apollo Hospital

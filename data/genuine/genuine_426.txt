@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P25477
-Admission Date: 2026-06-04
-Discharge Date: 2026-06-10
-Diagnosis: Hypertension
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹50,873
-Insurance Claim ID: AEF59B92
+Patient Name: Amit Nair
+Patient ID: P10513
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹13,202
+Insurance Claim ID: D1930039
 Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P29389
-Admission Date: 2026-05-31
-Discharge Date: 2026-06-06
+Patient Name: Pooja Gupta
+Patient ID: P75099
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-06
 Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹69,029
-Insurance Claim ID: E3EB4E5C
-Hospital: Apollo Hospital
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹124,136
+Insurance Claim ID: A56AD428
+Hospital: Lilavati Hospital

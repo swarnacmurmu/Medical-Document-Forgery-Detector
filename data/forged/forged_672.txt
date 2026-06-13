@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P39031
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-16
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹43,901
+Insurance Claim ID: 691AD597
+Hospital: Fortis Healthcare

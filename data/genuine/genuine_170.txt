@@ -1,9 +1,9 @@
-Patient Name: Priya Nair
-Patient ID: P37677
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-13
-Diagnosis: Pneumonia
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹21,021
-Insurance Claim ID: 46D12502
-Hospital: AIIMS
+Patient Name: Anjali Singh
+Patient ID: P85891
+Admission Date: 2026-04-28
+Discharge Date: 2026-05-01
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹11,988
+Insurance Claim ID: B295B25E
+Hospital: Manipal Hospital

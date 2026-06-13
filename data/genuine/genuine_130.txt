@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P13921
-Admission Date: 2026-05-07
-Discharge Date: 2026-05-12
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹12,138
-Insurance Claim ID: A51ED198
-Hospital: AIIMS
+Patient Name: Vikram Nair
+Patient ID: P15674
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-19
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹31,027
+Insurance Claim ID: DEF3A578
+Hospital: Fortis Healthcare

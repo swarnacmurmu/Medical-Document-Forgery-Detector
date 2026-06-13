@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P80559
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-14
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹32,058
+Insurance Claim ID: 6914B0BA
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P78722
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-25
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹8,768
+Insurance Claim ID: 09456BCB
+Hospital: AIIMS

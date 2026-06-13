@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P15253
-Admission Date: 2026-05-18
-Discharge Date: 2026-05-26
-Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹50,444
-Insurance Claim ID: EF92824A
-Hospital: Fortis Healthcare
+Patient Name: Amit Singh
+Patient ID: P52153
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-14
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹56,801
+Insurance Claim ID: 1D23324E
+Hospital: Manipal Hospital

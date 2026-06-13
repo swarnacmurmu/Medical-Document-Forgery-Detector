@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P73559
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-13
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹30,644
+Insurance Claim ID: AFF77DE9
+Hospital: Apollo Hospital

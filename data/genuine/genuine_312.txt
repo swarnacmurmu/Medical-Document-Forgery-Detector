@@ -1,9 +1,9 @@
-Patient Name: Vikram Joshi
-Patient ID: P75675
-Admission Date: 2026-03-17
-Discharge Date: 2026-03-20
-Diagnosis: COVID-19
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹182,642
-Insurance Claim ID: 5F6FF7B8
-Hospital: Lilavati Hospital
+Patient Name: Neha Nair
+Patient ID: P18587
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-27
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹8,778
+Insurance Claim ID: 948FCF78
+Hospital: Fortis Healthcare

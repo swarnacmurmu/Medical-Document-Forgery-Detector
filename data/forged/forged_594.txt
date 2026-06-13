@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P15222
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-24
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹186,048
+Insurance Claim ID: B69D4313
+Hospital: AIIMS

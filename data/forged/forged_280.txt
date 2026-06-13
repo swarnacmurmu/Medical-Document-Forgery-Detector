@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P65588
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-17
-Diagnosis: Asthma
-Treatment: Sumatriptan as needed
-Total Amount: ₹33,071
-Insurance Claim ID: 383E6071
-Hospital: AIIMS
+Patient Name: Pooja Reddy
+Patient ID: P65574
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-11
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,075
+Insurance Claim ID: 5711E1B2
+Hospital: Apollo Hospital

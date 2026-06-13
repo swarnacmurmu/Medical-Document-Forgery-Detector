@@ -1,9 +1,9 @@
-Patient Name: Priya Gupta
-Patient ID: P79669
-Admission Date: 2026-03-27
-Discharge Date: 2026-03-26
-Diagnosis: Acute Gastroenteritis
+Patient Name: Sunita Gupta
+Patient ID: P74219
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-29
+Diagnosis: Urinary Tract Infection
 Treatment: Rest and paracetamol
-Total Amount: ₹596,336
-Insurance Claim ID: 8B8DDF5E
-Hospital: Manipal Hospital
+Total Amount: ₹19,740
+Insurance Claim ID: 71B966F7
+Hospital: AIIMS

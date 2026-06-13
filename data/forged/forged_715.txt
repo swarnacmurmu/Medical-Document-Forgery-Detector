@@ -1,0 +1,9 @@
+Patient Name: Neha Sharma
+Patient ID: P74084
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-18
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹52,245
+Insurance Claim ID: 0AAB4ABE
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Priya Joshi
-Patient ID: P61523
-Admission Date: 2026-05-05
-Discharge Date: 2026-05-12
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹73,336
-Insurance Claim ID: 6820CBF9
-Hospital: Manipal Hospital
+Patient Name: Sunita Nair
+Patient ID: P96637
+Admission Date: 2026-05-29
+Discharge Date: 2026-06-03
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹24,298
+Insurance Claim ID: BAB0E344
+Hospital: AIIMS

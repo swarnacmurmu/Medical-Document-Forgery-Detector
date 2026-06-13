@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P31360
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-23
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹37,429
+Insurance Claim ID: 1F7792CF
+Hospital: Manipal Hospital

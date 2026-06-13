@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P76918
-Admission Date: 2026-05-01
-Discharge Date: 2026-04-29
-Diagnosis: Type 2 Diabetes
-Treatment: Antibiotics for 5 days
-Total Amount: ₹40,818
-Insurance Claim ID: 6F9798C9
-Hospital: Fortis Healthcare
+Patient Name: Pooja Gupta
+Patient ID: P57748
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-04
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹8,442
+Insurance Claim ID: 117507FE
+Hospital: AIIMS

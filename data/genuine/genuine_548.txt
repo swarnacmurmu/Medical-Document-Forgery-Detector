@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P60733
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-21
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,829
+Insurance Claim ID: D42DA4A4
+Hospital: AIIMS

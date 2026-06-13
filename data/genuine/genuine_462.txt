@@ -1,9 +1,9 @@
-Patient Name: Manish Patel
-Patient ID: P53065
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-10
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹81,003
-Insurance Claim ID: 05806ACE
-Hospital: Fortis Healthcare
+Patient Name: Pooja Gupta
+Patient ID: P66562
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-07
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹5,723
+Insurance Claim ID: 7D82BE47
+Hospital: Lilavati Hospital

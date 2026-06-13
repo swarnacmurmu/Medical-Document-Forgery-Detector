@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P58471
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-06
+Patient Name: Sunita Patel
+Patient ID: P63557
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-08
 Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹64,279
-Insurance Claim ID: A47D47E0
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,218
+Insurance Claim ID: 6AD5A719
 Hospital: AIIMS

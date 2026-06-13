@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P90955
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-08
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹4,782
+Insurance Claim ID: 1A49B748
+Hospital: AIIMS

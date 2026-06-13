@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P87782
-Admission Date: 2026-05-16
-Discharge Date: 2026-05-25
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹93,349
-Insurance Claim ID: 893E6B62
-Hospital: Apollo Hospital
+Patient Name: Pooja Verma
+Patient ID: P55351
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-18
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹8,350
+Insurance Claim ID: DE318788
+Hospital: AIIMS

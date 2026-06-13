@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P26845
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-10
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹27,324
+Insurance Claim ID: 81048CA9
+Hospital: Lilavati Hospital

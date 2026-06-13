@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P66204
-Admission Date: 2026-05-28
-Discharge Date: 2026-05-29
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹88,561
-Insurance Claim ID: E90CE73A
-Hospital: Manipal Hospital
+Patient Name: Pooja Singh
+Patient ID: P17367
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-30
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹9,897
+Insurance Claim ID: D912D2A5
+Hospital: Fortis Healthcare

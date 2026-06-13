@@ -1,9 +1,9 @@
-Patient Name: Amit Singh
-Patient ID: P60378
-Admission Date: 2026-04-14
-Discharge Date: 2026-04-22
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹23,744
-Insurance Claim ID: 693421BA
-Hospital: AIIMS
+Patient Name: Anjali Singh
+Patient ID: P65597
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-15
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹60,843
+Insurance Claim ID: C12ED10F
+Hospital: Apollo Hospital

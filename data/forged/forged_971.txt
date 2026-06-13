@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P25418
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-27
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹148,770
+Insurance Claim ID: 28F6F642
+Hospital: AIIMS

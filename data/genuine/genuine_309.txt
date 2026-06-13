@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P60194
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-28
-Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹82,908
-Insurance Claim ID: CD4320D8
+Patient Name: Pooja Joshi
+Patient ID: P99435
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-16
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹8,088
+Insurance Claim ID: 1456C444
 Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P46891
-Admission Date: 2026-05-26
-Discharge Date: 2026-06-03
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹76,178
-Insurance Claim ID: 40C38DAA
-Hospital: Apollo Hospital
+Patient Name: Rahul Menon
+Patient ID: P62875
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-09
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹15,930
+Insurance Claim ID: 195F407B
+Hospital: Fortis Healthcare

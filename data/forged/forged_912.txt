@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P12562
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-04
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹72,457
+Insurance Claim ID: 423B0D4D
+Hospital: Apollo Hospital

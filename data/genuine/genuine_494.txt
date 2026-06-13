@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P68237
-Admission Date: 2026-05-02
-Discharge Date: 2026-05-09
-Diagnosis: Urinary Tract Infection
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹156,314
-Insurance Claim ID: 955C6A09
-Hospital: AIIMS
+Patient Name: Pooja Patel
+Patient ID: P65440
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-12
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹12,316
+Insurance Claim ID: 13BF06AE
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P48677
+Admission Date: 2026-03-30
+Discharge Date: 2026-04-02
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹10,012
+Insurance Claim ID: CBB28E43
+Hospital: Manipal Hospital

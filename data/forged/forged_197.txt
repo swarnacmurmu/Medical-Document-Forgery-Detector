@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P70276
-Admission Date: 2026-03-03
-Discharge Date: 2026-03-11
-Diagnosis: COVID-19
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹177,424
-Insurance Claim ID: 5B87F28D
-Hospital: Fortis Healthcare
+Patient Name: Neha Gupta
+Patient ID: P58204
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-09
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹138,156
+Insurance Claim ID: 2F6C07B0
+Hospital: Lilavati Hospital

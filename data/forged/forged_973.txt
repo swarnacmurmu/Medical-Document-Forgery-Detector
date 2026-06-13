@@ -1,0 +1,9 @@
+Patient Name: Rajesh Patel
+Patient ID: P96231
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-06
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹60,512
+Insurance Claim ID: 648B5A0D
+Hospital: AIIMS

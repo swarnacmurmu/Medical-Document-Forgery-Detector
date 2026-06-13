@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P41084
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-17
-Diagnosis: Hypertension
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹6,150
-Insurance Claim ID: 1C0B0E0B
-Hospital: Lilavati Hospital
+Patient Name: Anjali Kumar
+Patient ID: P68414
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-23
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹47,295
+Insurance Claim ID: 7F517F05
+Hospital: AIIMS

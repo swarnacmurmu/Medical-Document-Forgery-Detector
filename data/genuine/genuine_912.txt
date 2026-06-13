@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P20150
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-22
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹12,737
+Insurance Claim ID: BE0B12F4
+Hospital: AIIMS

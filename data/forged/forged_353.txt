@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P27931
-Admission Date: 2026-02-17
-Discharge Date: 2026-02-16
-Diagnosis: Asthma
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹1,515,110
-Insurance Claim ID: 77AF92D5
-Hospital: AIIMS
+Patient Name: Neha Gupta
+Patient ID: P61658
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-22
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹29,094
+Insurance Claim ID: 94DDD714
+Hospital: Fortis Healthcare

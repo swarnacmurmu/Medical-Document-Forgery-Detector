@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P54796
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-13
-Diagnosis: Migraine
+Patient Name: Anjali Nair
+Patient ID: P18030
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-21
+Diagnosis: Dengue Fever
 Treatment: Rest and paracetamol
-Total Amount: ₹480,936
-Insurance Claim ID: 65C53B98
-Hospital: Manipal Hospital
+Total Amount: ₹36,387
+Insurance Claim ID: DA9758F8
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P78882
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-06
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹40,215
-Insurance Claim ID: 4C18357F
-Hospital: Fortis Healthcare
+Patient Name: Neha Verma
+Patient ID: P82045
+Admission Date: 2026-05-02
+Discharge Date: 2026-04-30
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹145,629
+Insurance Claim ID: 1CDE3FF2
+Hospital: Manipal Hospital

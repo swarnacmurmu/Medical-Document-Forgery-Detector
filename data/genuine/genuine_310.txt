@@ -1,9 +1,9 @@
-Patient Name: Amit Singh
-Patient ID: P41604
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-20
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹125,096
-Insurance Claim ID: 98AAAB95
-Hospital: Apollo Hospital
+Patient Name: Manish Singh
+Patient ID: P60041
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹3,038
+Insurance Claim ID: 4A0BBF54
+Hospital: AIIMS

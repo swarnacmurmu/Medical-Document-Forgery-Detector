@@ -1,9 +1,9 @@
-Patient Name: Rajesh Joshi
-Patient ID: P87972
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-28
-Diagnosis: Type 2 Diabetes
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹46,348
-Insurance Claim ID: C7D5300E
-Hospital: Manipal Hospital
+Patient Name: Rahul Kumar
+Patient ID: P57341
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-15
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹27,570
+Insurance Claim ID: A02FDD9F
+Hospital: Fortis Healthcare

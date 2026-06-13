@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P74960
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-07
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹13,185
-Insurance Claim ID: D39DB29F
-Hospital: Lilavati Hospital
+Patient Name: Anjali Gupta
+Patient ID: P12595
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-15
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹15,003
+Insurance Claim ID: 368A1F7A
+Hospital: Apollo Hospital

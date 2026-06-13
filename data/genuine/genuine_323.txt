@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P20827
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-18
+Patient Name: Priya Singh
+Patient ID: P42736
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-20
 Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹32,600
-Insurance Claim ID: 9465C79E
-Hospital: AIIMS
+Treatment: Antibiotics and hydration
+Total Amount: ₹39,017
+Insurance Claim ID: F9F37001
+Hospital: Manipal Hospital

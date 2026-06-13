@@ -1,9 +1,9 @@
-Patient Name: Manish Verma
-Patient ID: P18623
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-12
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹40,217
-Insurance Claim ID: 601E0720
-Hospital: Apollo Hospital
+Patient Name: Pooja Patel
+Patient ID: P26573
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-10
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹2,469
+Insurance Claim ID: 28F6ABE8
+Hospital: Lilavati Hospital

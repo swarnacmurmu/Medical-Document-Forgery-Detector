@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P96907
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-27
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹47,560
+Insurance Claim ID: EE1274D6
+Hospital: Apollo Hospital

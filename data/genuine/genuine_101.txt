@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P28001
-Admission Date: 2026-04-02
-Discharge Date: 2026-04-03
-Diagnosis: Asthma
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹135,532
-Insurance Claim ID: 877CD08D
+Patient Name: Neha Joshi
+Patient ID: P66553
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-25
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹36,125
+Insurance Claim ID: F9D4A325
 Hospital: Fortis Healthcare

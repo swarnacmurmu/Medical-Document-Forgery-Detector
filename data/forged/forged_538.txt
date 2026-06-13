@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P29285
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-17
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹111,267
+Insurance Claim ID: 71446CB5
+Hospital: AIIMS

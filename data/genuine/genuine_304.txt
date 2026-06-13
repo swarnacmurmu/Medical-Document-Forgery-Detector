@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P74498
-Admission Date: 2026-05-09
-Discharge Date: 2026-05-18
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹181,364
-Insurance Claim ID: 57B7E204
-Hospital: Manipal Hospital
+Patient Name: Pooja Kumar
+Patient ID: P76812
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-01
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹6,641
+Insurance Claim ID: 3C6E7249
+Hospital: Apollo Hospital

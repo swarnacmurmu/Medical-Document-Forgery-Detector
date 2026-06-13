@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P19117
-Admission Date: 2026-04-06
-Discharge Date: 2026-04-12
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹92,713
-Insurance Claim ID: 87B6DCBE
-Hospital: Lilavati Hospital
+Patient Name: Anjali Singh
+Patient ID: P56510
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-28
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹12,487
+Insurance Claim ID: 7DEBEBDE
+Hospital: AIIMS

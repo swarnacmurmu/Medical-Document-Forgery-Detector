@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P68552
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-23
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹18,942
+Insurance Claim ID: 4F14D16D
+Hospital: Manipal Hospital

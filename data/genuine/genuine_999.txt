@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P54610
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-21
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹6,372
+Insurance Claim ID: F52E1B56
+Hospital: Apollo Hospital

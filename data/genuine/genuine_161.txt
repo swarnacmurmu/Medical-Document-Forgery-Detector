@@ -1,9 +1,9 @@
-Patient Name: Manish Verma
-Patient ID: P80993
-Admission Date: 2026-05-08
-Discharge Date: 2026-05-09
-Diagnosis: Asthma
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹42,024
-Insurance Claim ID: D6139566
+Patient Name: Amit Patel
+Patient ID: P81487
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-24
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹9,311
+Insurance Claim ID: 96D56B92
 Hospital: Lilavati Hospital

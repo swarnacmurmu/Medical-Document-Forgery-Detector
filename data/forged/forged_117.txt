@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P58347
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-29
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹88,659
-Insurance Claim ID: FEC96C5C
-Hospital: Fortis Healthcare
+Patient Name: Pooja Nair
+Patient ID: P70677
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-06
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹19,114
+Insurance Claim ID: B52F6DB4
+Hospital: Manipal Hospital

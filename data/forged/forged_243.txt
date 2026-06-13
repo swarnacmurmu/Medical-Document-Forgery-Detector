@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P80356
+Patient Name: Manish Singh
+Patient ID: P41694
 Admission Date: 2026-04-07
-Discharge Date: 2026-04-06
-Diagnosis: Dengue Fever
-Treatment: Antibiotics for 5 days
-Total Amount: ₹1,401,633
-Insurance Claim ID: 903A8997
-Hospital: Lilavati Hospital
+Discharge Date: 2026-04-08
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,809
+Insurance Claim ID: 5BAD1D9A
+Hospital: Apollo Hospital

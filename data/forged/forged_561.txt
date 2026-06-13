@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P14722
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-02
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹38,466
+Insurance Claim ID: 83CEEC9F
+Hospital: Lilavati Hospital

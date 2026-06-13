@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P91234
+Admission Date: 2026-03-29
+Discharge Date: 2026-03-28
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹68,648
+Insurance Claim ID: 60369176
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P43053
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹14,575
+Insurance Claim ID: 0EE93FBD
+Hospital: Apollo Hospital

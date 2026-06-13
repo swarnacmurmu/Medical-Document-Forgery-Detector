@@ -1,9 +1,9 @@
-Patient Name: Neha Gupta
-Patient ID: P19208
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-15
-Diagnosis: Hypertension
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹43,277
-Insurance Claim ID: 38F680DC
-Hospital: Fortis Healthcare
+Patient Name: Manish Reddy
+Patient ID: P77835
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-13
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹98,098
+Insurance Claim ID: 9A0FE3ED
+Hospital: Lilavati Hospital

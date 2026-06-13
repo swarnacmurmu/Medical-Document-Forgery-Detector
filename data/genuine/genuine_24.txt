@@ -1,9 +1,9 @@
-Patient Name: Pooja Sharma
-Patient ID: P79669
-Admission Date: 2026-03-27
-Discharge Date: 2026-03-30
-Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹45,872
-Insurance Claim ID: 8B8DDF5E
-Hospital: Manipal Hospital
+Patient Name: Manish Singh
+Patient ID: P82695
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-22
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹81,317
+Insurance Claim ID: 98668AD5
+Hospital: AIIMS

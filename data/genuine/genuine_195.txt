@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P99510
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-29
+Patient Name: Neha Singh
+Patient ID: P27934
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-21
 Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹6,207
-Insurance Claim ID: 1F67760D
-Hospital: Apollo Hospital
+Treatment: Paracetamol and rest
+Total Amount: ₹3,048
+Insurance Claim ID: 97281205
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P63256
-Admission Date: 2026-03-17
-Discharge Date: 2026-03-18
-Diagnosis: Dengue Fever
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹182,817
-Insurance Claim ID: 38CBCE1B
-Hospital: Apollo Hospital
+Patient Name: Rahul Patel
+Patient ID: P54848
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-21
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹23,570
+Insurance Claim ID: 3CE550CB
+Hospital: Lilavati Hospital

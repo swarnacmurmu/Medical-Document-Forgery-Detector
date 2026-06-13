@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P20049
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹5,658
+Insurance Claim ID: 8C768F90
+Hospital: Fortis Healthcare

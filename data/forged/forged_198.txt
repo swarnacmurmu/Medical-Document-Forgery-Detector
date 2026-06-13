@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P44323
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-15
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹202,290
-Insurance Claim ID: 0723FCD9
-Hospital: AIIMS
+Patient Name: Neha Menon
+Patient ID: P17720
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-26
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹278,222
+Insurance Claim ID: 90C81D98
+Hospital: Fortis Healthcare

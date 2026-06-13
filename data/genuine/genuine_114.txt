@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P29152
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-21
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹71,033
-Insurance Claim ID: 313D82A1
-Hospital: AIIMS
+Patient Name: Manish Verma
+Patient ID: P50163
+Admission Date: 2026-05-02
+Discharge Date: 2026-05-06
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹10,473
+Insurance Claim ID: 7463B969
+Hospital: Lilavati Hospital

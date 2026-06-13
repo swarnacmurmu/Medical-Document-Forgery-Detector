@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P16296
-Admission Date: 2026-03-06
-Discharge Date: 2026-03-09
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹96,973
-Insurance Claim ID: 3D8D00D9
-Hospital: Fortis Healthcare
+Patient Name: Priya Singh
+Patient ID: P23169
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-20
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹7,612
+Insurance Claim ID: 057766E9
+Hospital: Apollo Hospital

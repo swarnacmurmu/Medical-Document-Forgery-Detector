@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P84257
-Admission Date: 2026-06-04
-Discharge Date: 2026-06-06
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹2,421,100
-Insurance Claim ID: 786F2A7F
-Hospital: Apollo Hospital
+Patient Name: Rajesh Joshi
+Patient ID: P52242
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-14
+Diagnosis: Hypertension
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹5,803
+Insurance Claim ID: 7D528078
+Hospital: Manipal Hospital

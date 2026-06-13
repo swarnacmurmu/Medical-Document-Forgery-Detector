@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P66558
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-01
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹21,714
+Insurance Claim ID: CFE5EBAF
+Hospital: Manipal Hospital

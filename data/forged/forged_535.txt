@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P60750
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-28
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹38,754
+Insurance Claim ID: AFF16425
+Hospital: Lilavati Hospital

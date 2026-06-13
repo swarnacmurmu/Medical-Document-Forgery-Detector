@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P37946
+Admission Date: 2026-03-30
+Discharge Date: 2026-04-03
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹38,884
+Insurance Claim ID: 6927F158
+Hospital: AIIMS

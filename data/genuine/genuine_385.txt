@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P34733
-Admission Date: 2026-03-05
-Discharge Date: 2026-03-11
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹99,089
-Insurance Claim ID: 2EB141CC
-Hospital: Lilavati Hospital
+Patient Name: Amit Menon
+Patient ID: P12718
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-17
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹5,108
+Insurance Claim ID: A0345B65
+Hospital: Apollo Hospital

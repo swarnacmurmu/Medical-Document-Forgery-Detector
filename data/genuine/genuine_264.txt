@@ -1,9 +1,9 @@
-Patient Name: Amit Patel
-Patient ID: P53133
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-18
-Diagnosis: Pneumonia
-Treatment: Rest and paracetamol
-Total Amount: ₹35,343
-Insurance Claim ID: 7D3A0F13
-Hospital: Fortis Healthcare
+Patient Name: Priya Sharma
+Patient ID: P52621
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-11
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹41,827
+Insurance Claim ID: AFD4DDDF
+Hospital: Manipal Hospital

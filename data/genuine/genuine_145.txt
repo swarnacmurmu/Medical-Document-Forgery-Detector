@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P97829
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-27
-Diagnosis: Migraine
-Treatment: Azithromycin course
-Total Amount: ₹54,058
-Insurance Claim ID: 1AFA17F0
-Hospital: Lilavati Hospital
+Patient Name: Pooja Kumar
+Patient ID: P65967
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-01
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹14,399
+Insurance Claim ID: 5861EF2F
+Hospital: Apollo Hospital

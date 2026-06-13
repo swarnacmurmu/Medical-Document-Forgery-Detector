@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P66041
-Admission Date: 2026-04-01
-Discharge Date: 2026-03-30
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹121,562
-Insurance Claim ID: 38E3B664
+Patient Name: Anjali Gupta
+Patient ID: P62638
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-13
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹111,924
+Insurance Claim ID: 6FE1FF9A
 Hospital: AIIMS

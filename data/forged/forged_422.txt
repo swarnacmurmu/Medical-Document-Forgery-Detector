@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P58636
-Admission Date: 2026-03-31
-Discharge Date: 2026-04-07
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹686,770
-Insurance Claim ID: 88B2B510
+Patient Name: Vikram Gupta
+Patient ID: P70690
+Admission Date: 2026-04-02
+Discharge Date: 2026-03-31
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹312,875
+Insurance Claim ID: 1EEF0A84
 Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P95588
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-11
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹38,673
+Insurance Claim ID: BFE8D324
+Hospital: Manipal Hospital

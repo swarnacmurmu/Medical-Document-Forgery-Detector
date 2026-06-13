@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P93768
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-29
-Diagnosis: Dengue Fever
-Treatment: Inhaler and monitoring
-Total Amount: ₹91,885
-Insurance Claim ID: 37291E00
-Hospital: Apollo Hospital
+Patient Name: Rahul Reddy
+Patient ID: P39850
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-19
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹5,224
+Insurance Claim ID: 6F67834B
+Hospital: AIIMS

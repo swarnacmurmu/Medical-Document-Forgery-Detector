@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P90913
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-09
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹514,338
-Insurance Claim ID: 38CDBD8D
+Patient Name: Manish Sharma
+Patient ID: P24371
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-10
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹315,024
+Insurance Claim ID: 92C23329
 Hospital: Lilavati Hospital

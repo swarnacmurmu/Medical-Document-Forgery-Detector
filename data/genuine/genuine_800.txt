@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P51685
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-02
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹25,460
+Insurance Claim ID: 180C9D80
+Hospital: Manipal Hospital

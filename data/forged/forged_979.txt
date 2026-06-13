@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P29743
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-09
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹44,276
+Insurance Claim ID: 11AF7B94
+Hospital: Manipal Hospital

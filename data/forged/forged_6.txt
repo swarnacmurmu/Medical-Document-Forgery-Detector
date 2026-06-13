@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P61827
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-02
-Diagnosis: Typhoid
+Patient Name: Amit Joshi
+Patient ID: P27447
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-10
+Diagnosis: Pneumonia
 Treatment: Sumatriptan as needed
-Total Amount: ₹2,048,814
-Insurance Claim ID: F63A522B
-Hospital: AIIMS
+Total Amount: ₹162,576
+Insurance Claim ID: 1D4E344A
+Hospital: Lilavati Hospital

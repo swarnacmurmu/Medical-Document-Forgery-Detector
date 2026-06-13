@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P34252
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-08
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹29,871
+Insurance Claim ID: B7628C37
+Hospital: Manipal Hospital

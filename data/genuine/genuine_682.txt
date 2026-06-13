@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P69692
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-05
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹29,477
+Insurance Claim ID: EBC4FEED
+Hospital: Manipal Hospital

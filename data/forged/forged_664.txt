@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P96309
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-03
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹50,970
+Insurance Claim ID: 572B70FE
+Hospital: Lilavati Hospital

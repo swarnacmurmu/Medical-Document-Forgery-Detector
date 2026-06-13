@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P64070
-Admission Date: 2026-03-13
-Discharge Date: 2026-03-12
-Diagnosis: Urinary Tract Infection
-Treatment: Antibiotics for 5 days
-Total Amount: ₹2,890,608
-Insurance Claim ID: 1D87AE9B
-Hospital: Manipal Hospital
+Patient Name: Anjali Reddy
+Patient ID: P40685
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-18
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹7,315
+Insurance Claim ID: DCD390BC
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Patel
+Patient ID: P48535
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-12
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹12,347
+Insurance Claim ID: B0C27526
+Hospital: Fortis Healthcare

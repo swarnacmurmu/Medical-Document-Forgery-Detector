@@ -1,0 +1,9 @@
+Patient Name: Vikram Joshi
+Patient ID: P23710
+Admission Date: 2026-06-02
+Discharge Date: 2026-06-04
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,418
+Insurance Claim ID: 439F60BC
+Hospital: Apollo Hospital

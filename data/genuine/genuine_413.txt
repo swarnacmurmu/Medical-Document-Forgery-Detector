@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P91505
-Admission Date: 2026-05-22
-Discharge Date: 2026-06-01
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹81,678
-Insurance Claim ID: C734E343
-Hospital: Lilavati Hospital
+Patient Name: Sunita Gupta
+Patient ID: P95259
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-06
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹25,316
+Insurance Claim ID: 60633F14
+Hospital: Fortis Healthcare

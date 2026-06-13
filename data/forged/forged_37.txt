@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P86296
-Admission Date: 2026-03-16
-Discharge Date: 2026-03-17
-Diagnosis: Migraine
+Patient Name: Priya Patel
+Patient ID: P71919
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-28
+Diagnosis: Hypertension
 Treatment: Azithromycin course
-Total Amount: ₹1,572,144
-Insurance Claim ID: 3AF62458
+Total Amount: ₹31,122
+Insurance Claim ID: 8657E85A
 Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P44969
+Admission Date: 2026-04-29
+Discharge Date: 2026-04-27
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹26,838
+Insurance Claim ID: D9465627
+Hospital: Fortis Healthcare

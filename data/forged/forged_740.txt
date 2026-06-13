@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P71058
+Admission Date: 2026-03-02
+Discharge Date: 2026-03-01
+Diagnosis: Migraine
+Treatment: Inhaler and monitoring
+Total Amount: ₹5,435
+Insurance Claim ID: 5671DEC1
+Hospital: Fortis Healthcare

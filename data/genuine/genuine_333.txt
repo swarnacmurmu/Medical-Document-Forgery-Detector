@@ -1,9 +1,9 @@
 Patient Name: Sunita Sharma
-Patient ID: P61082
-Admission Date: 2026-03-20
-Discharge Date: 2026-03-29
+Patient ID: P82362
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-25
 Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹193,189
-Insurance Claim ID: BEB40721
+Treatment: Supportive care
+Total Amount: ₹29,656
+Insurance Claim ID: 222DBB04
 Hospital: AIIMS

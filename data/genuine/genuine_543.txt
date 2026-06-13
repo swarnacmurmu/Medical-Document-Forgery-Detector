@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P95188
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-08
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹33,108
+Insurance Claim ID: CFD7FBAB
+Hospital: Lilavati Hospital

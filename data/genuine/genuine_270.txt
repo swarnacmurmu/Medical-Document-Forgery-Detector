@@ -1,9 +1,9 @@
-Patient Name: Vikram Patel
-Patient ID: P24971
-Admission Date: 2026-03-06
-Discharge Date: 2026-03-12
+Patient Name: Vikram Reddy
+Patient ID: P11087
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-23
 Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹135,007
-Insurance Claim ID: E02DFC47
-Hospital: Lilavati Hospital
+Treatment: Supportive care
+Total Amount: ₹39,275
+Insurance Claim ID: F321391C
+Hospital: Fortis Healthcare

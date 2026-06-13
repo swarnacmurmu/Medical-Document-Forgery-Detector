@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P67290
-Admission Date: 2026-05-24
-Discharge Date: 2026-06-03
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,546,712
-Insurance Claim ID: B22CB1A2
-Hospital: Manipal Hospital
+Patient Name: Manish Gupta
+Patient ID: P62591
+Admission Date: 2026-03-28
+Discharge Date: 2026-03-25
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹7,366
+Insurance Claim ID: 6B1F6789
+Hospital: Apollo Hospital

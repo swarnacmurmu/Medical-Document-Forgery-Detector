@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P10699
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-07
+Diagnosis: Pneumonia
+Treatment: Rest and paracetamol
+Total Amount: ₹25,495
+Insurance Claim ID: 06377F53
+Hospital: Apollo Hospital

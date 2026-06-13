@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P93697
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-04
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹1,464,648
-Insurance Claim ID: 66E7C1E3
-Hospital: Manipal Hospital
+Patient Name: Rahul Joshi
+Patient ID: P82296
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-28
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹154,269
+Insurance Claim ID: 085DA9F1
+Hospital: Apollo Hospital

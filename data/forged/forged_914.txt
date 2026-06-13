@@ -1,0 +1,9 @@
+Patient Name: Vikram Joshi
+Patient ID: P52172
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-24
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹9,157
+Insurance Claim ID: 743B8DFB
+Hospital: Fortis Healthcare

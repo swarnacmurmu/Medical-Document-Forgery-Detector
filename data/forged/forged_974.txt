@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P87306
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-29
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹6,166
+Insurance Claim ID: 00DC5138
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P31284
-Admission Date: 2026-05-15
-Discharge Date: 2026-05-13
-Diagnosis: Migraine
-Treatment: Rest and paracetamol
-Total Amount: ₹2,231,236
-Insurance Claim ID: D48006C6
-Hospital: Apollo Hospital
+Patient Name: Pooja Menon
+Patient ID: P86226
+Admission Date: 2026-03-02
+Discharge Date: 2026-03-08
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹63,928
+Insurance Claim ID: 1A895C57
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P44182
-Admission Date: 2026-04-29
-Discharge Date: 2026-04-27
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹86,919
-Insurance Claim ID: 3057FF0F
-Hospital: Apollo Hospital
+Patient Name: Sunita Sharma
+Patient ID: P50367
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-25
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,176
+Insurance Claim ID: F5E8EC8D
+Hospital: Fortis Healthcare

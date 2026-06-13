@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P91630
-Admission Date: 2026-03-23
-Discharge Date: 2026-04-02
-Diagnosis: Typhoid
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹166,006
-Insurance Claim ID: 2942CD97
-Hospital: AIIMS
+Patient Name: Vikram Reddy
+Patient ID: P25662
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-02
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹13,416
+Insurance Claim ID: D1D29329
+Hospital: Apollo Hospital

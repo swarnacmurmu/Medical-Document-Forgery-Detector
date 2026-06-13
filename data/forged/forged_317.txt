@@ -1,9 +1,9 @@
-Patient Name: Vikram Menon
-Patient ID: P63072
-Admission Date: 2026-04-20
+Patient Name: Priya Verma
+Patient ID: P93069
+Admission Date: 2026-04-23
 Discharge Date: 2026-04-22
-Diagnosis: Dengue Fever
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹60,425
-Insurance Claim ID: F0B2839A
-Hospital: Apollo Hospital
+Diagnosis: Type 2 Diabetes
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹49,930
+Insurance Claim ID: 03F92E38
+Hospital: Lilavati Hospital

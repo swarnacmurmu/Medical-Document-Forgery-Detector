@@ -1,9 +1,9 @@
-Patient Name: Pooja Sharma
-Patient ID: P95483
-Admission Date: 2026-06-08
-Discharge Date: 2026-06-11
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹249,501
-Insurance Claim ID: 9EC13462
-Hospital: AIIMS
+Patient Name: Rahul Singh
+Patient ID: P41159
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-07
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹23,151
+Insurance Claim ID: 24A1D822
+Hospital: Manipal Hospital

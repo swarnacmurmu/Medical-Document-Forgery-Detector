@@ -1,9 +1,9 @@
-Patient Name: Sunita Nair
-Patient ID: P12806
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-18
-Diagnosis: COVID-19
+Patient Name: Sunita Patel
+Patient ID: P63440
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-06
+Diagnosis: Urinary Tract Infection
 Treatment: Antibiotics for 5 days
-Total Amount: ₹1,170,582
-Insurance Claim ID: AD94D72B
-Hospital: Apollo Hospital
+Total Amount: ₹63,480
+Insurance Claim ID: 0804A5B0
+Hospital: Fortis Healthcare

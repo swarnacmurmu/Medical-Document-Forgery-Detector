@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P82120
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-28
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹199,962
+Insurance Claim ID: 606EEC02
+Hospital: Fortis Healthcare

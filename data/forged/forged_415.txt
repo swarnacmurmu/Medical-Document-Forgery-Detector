@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P48156
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-18
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹2,176,845
-Insurance Claim ID: 18836A7B
-Hospital: Apollo Hospital
+Patient Name: Manish Kumar
+Patient ID: P56097
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-24
+Diagnosis: COVID-19
+Treatment: Antibiotics for 5 days
+Total Amount: ₹90,562
+Insurance Claim ID: D4BA4169
+Hospital: Manipal Hospital

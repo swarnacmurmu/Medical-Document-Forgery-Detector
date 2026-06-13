@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P35790
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-21
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹237,881
+Insurance Claim ID: 386D4557
+Hospital: Fortis Healthcare

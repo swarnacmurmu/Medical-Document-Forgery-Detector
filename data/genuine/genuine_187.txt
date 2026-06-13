@@ -1,9 +1,9 @@
-Patient Name: Neha Gupta
-Patient ID: P30966
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-17
-Diagnosis: Type 2 Diabetes
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹95,543
-Insurance Claim ID: 2B32AFD2
-Hospital: AIIMS
+Patient Name: Rajesh Menon
+Patient ID: P55289
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-21
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹37,116
+Insurance Claim ID: 9AA73745
+Hospital: Apollo Hospital

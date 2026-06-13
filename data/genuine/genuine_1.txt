@@ -1,9 +1,7 @@
-Patient Name: Amit Reddy
-Patient ID: P75774
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-05
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹151,837
-Insurance Claim ID: 42D4B0D3
-Hospital: Manipal Hospital
+Patient Name: John Doe
+Patient ID: P99999
+Admission Date: 2026-01-01
+Discharge Date: 2026-01-03
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg
+Total Amount: ₹5,000

@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P41426
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-18
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹46,758
-Insurance Claim ID: 38CDBD8D
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Gupta
+Patient ID: P39726
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-10
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹4,315
+Insurance Claim ID: BF8E26B5
+Hospital: Manipal Hospital

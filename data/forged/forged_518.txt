@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P20199
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-18
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹116,604
+Insurance Claim ID: CF018D91
+Hospital: Apollo Hospital

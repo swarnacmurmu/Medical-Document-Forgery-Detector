@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P61974
-Admission Date: 2026-04-10
-Discharge Date: 2026-04-13
-Diagnosis: Asthma
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹118,879
-Insurance Claim ID: 13D4977F
-Hospital: Lilavati Hospital
+Patient Name: Pooja Patel
+Patient ID: P30025
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-28
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹17,065
+Insurance Claim ID: 5624FC28
+Hospital: Apollo Hospital

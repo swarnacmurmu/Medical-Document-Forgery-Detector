@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P31216
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-17
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹62,268
+Insurance Claim ID: 0922E1C0
+Hospital: AIIMS

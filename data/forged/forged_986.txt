@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P11328
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-23
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹58,010
+Insurance Claim ID: B2C78DCD
+Hospital: Apollo Hospital

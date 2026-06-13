@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P87454
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-11
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹203,478
+Insurance Claim ID: 24956113
+Hospital: Manipal Hospital

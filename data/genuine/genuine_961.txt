@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P13588
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-12
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹8,847
+Insurance Claim ID: 59F6DD2E
+Hospital: Manipal Hospital

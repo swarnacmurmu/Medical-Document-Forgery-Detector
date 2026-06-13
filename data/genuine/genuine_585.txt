@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P10610
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-10
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹4,967
+Insurance Claim ID: B1FDC62D
+Hospital: Apollo Hospital

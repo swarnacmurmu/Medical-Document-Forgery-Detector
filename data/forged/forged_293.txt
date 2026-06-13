@@ -1,9 +1,9 @@
-Patient Name: Manish Nair
-Patient ID: P25945
-Admission Date: 2026-03-10
-Discharge Date: 2026-03-18
-Diagnosis: Hypertension
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹40,424
-Insurance Claim ID: 33853FBB
-Hospital: Apollo Hospital
+Patient Name: Vikram Joshi
+Patient ID: P43261
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-15
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹5,057
+Insurance Claim ID: 42DA0E0E
+Hospital: Manipal Hospital

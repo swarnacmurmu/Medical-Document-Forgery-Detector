@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P94651
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-27
-Diagnosis: Type 2 Diabetes
+Patient Name: Sunita Patel
+Patient ID: P58969
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-17
+Diagnosis: Acute Gastroenteritis
 Treatment: Lisinopril 10mg daily
-Total Amount: ₹820,764
-Insurance Claim ID: 95995C83
-Hospital: Lilavati Hospital
+Total Amount: ₹57,944
+Insurance Claim ID: 8509252D
+Hospital: AIIMS

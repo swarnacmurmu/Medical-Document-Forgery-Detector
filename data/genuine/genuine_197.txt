@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P98114
-Admission Date: 2026-03-03
-Discharge Date: 2026-03-11
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹13,648
-Insurance Claim ID: 5B87F28D
-Hospital: Fortis Healthcare
+Patient Name: Rahul Menon
+Patient ID: P74816
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-26
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,141
+Insurance Claim ID: 7B3DBC78
+Hospital: Apollo Hospital

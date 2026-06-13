@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P69290
-Admission Date: 2026-04-15
-Discharge Date: 2026-04-19
-Diagnosis: Type 2 Diabetes
+Patient Name: Amit Singh
+Patient ID: P40475
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-29
+Diagnosis: Acute Gastroenteritis
 Treatment: Rest and paracetamol
-Total Amount: ₹2,024,432
-Insurance Claim ID: D68856EF
-Hospital: Manipal Hospital
+Total Amount: ₹5,186
+Insurance Claim ID: B96D1A93
+Hospital: AIIMS

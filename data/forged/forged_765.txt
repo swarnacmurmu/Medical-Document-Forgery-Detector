@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P74989
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-08
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹42,646
+Insurance Claim ID: 89F818D0
+Hospital: AIIMS

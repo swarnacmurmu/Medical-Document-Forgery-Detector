@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P19502
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-16
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹80,850
+Insurance Claim ID: CC5E532B
+Hospital: Apollo Hospital

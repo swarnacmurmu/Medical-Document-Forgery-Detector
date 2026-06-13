@@ -1,9 +1,9 @@
-Patient Name: Neha Kumar
-Patient ID: P14290
-Admission Date: 2026-06-09
-Discharge Date: 2026-06-07
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹948,320
-Insurance Claim ID: A530C464
-Hospital: Lilavati Hospital
+Patient Name: Sunita Reddy
+Patient ID: P79298
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-10
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹29,177
+Insurance Claim ID: D0DC16C7
+Hospital: AIIMS

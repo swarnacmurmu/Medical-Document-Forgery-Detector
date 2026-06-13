@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P55741
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-03
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹101,745
+Insurance Claim ID: 8FCFF8DC
+Hospital: Fortis Healthcare

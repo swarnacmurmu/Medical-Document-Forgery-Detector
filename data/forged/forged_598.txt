@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P81032
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-24
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹11,497
+Insurance Claim ID: 032CEF18
+Hospital: Manipal Hospital

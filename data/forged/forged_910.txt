@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P19719
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-25
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹116,025
+Insurance Claim ID: 8EE7F630
+Hospital: Lilavati Hospital

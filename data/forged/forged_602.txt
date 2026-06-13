@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P73208
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-14
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹305,300
+Insurance Claim ID: 6A3638D0
+Hospital: Apollo Hospital

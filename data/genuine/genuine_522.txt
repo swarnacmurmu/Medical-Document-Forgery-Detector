@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P97232
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-11
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹67,064
+Insurance Claim ID: 5894350C
+Hospital: Fortis Healthcare

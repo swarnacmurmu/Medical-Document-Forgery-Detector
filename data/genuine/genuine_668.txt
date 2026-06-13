@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P14167
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-27
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹33,291
+Insurance Claim ID: 80BB749D
+Hospital: Apollo Hospital

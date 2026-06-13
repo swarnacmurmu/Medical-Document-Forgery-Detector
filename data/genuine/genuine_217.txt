@@ -1,9 +1,9 @@
-Patient Name: Anjali Nair
-Patient ID: P88022
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-18
-Diagnosis: Asthma
-Treatment: Rest and paracetamol
-Total Amount: ₹150,750
-Insurance Claim ID: 54AF37EE
-Hospital: Manipal Hospital
+Patient Name: Pooja Menon
+Patient ID: P61440
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-21
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹34,174
+Insurance Claim ID: A8BBFD28
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Sunita Reddy
-Patient ID: P58316
-Admission Date: 2026-04-17
-Discharge Date: 2026-04-16
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹20,930
-Insurance Claim ID: 04CBEB2A
-Hospital: Lilavati Hospital
+Patient Name: Amit Reddy
+Patient ID: P76062
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-13
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹3,029
+Insurance Claim ID: 43FE8578
+Hospital: Manipal Hospital

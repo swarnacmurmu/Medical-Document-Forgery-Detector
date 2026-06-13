@@ -1,9 +1,9 @@
-Patient Name: Pooja Joshi
-Patient ID: P15236
-Admission Date: 2026-04-24
-Discharge Date: 2026-04-30
-Diagnosis: COVID-19
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹143,598
-Insurance Claim ID: BDF79936
-Hospital: Manipal Hospital
+Patient Name: Neha Verma
+Patient ID: P66261
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-20
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹37,263
+Insurance Claim ID: 11E485CA
+Hospital: Apollo Hospital

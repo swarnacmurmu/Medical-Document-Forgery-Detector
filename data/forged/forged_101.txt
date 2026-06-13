@@ -1,9 +1,9 @@
-Patient Name: Anjali Joshi
-Patient ID: P28001
+Patient Name: Pooja Gupta
+Patient ID: P36710
 Admission Date: 2026-04-02
-Discharge Date: 2026-04-03
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹135,532
-Insurance Claim ID: 877CD08D
-Hospital: Fortis Healthcare
+Discharge Date: 2026-04-09
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹65,505
+Insurance Claim ID: E8C0DB1F
+Hospital: Lilavati Hospital

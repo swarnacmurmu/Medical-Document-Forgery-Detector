@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P69040
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-22
-Diagnosis: Dengue Fever
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹788,576
-Insurance Claim ID: 7DEA8EAC
-Hospital: Fortis Healthcare
+Patient Name: Rahul Joshi
+Patient ID: P70978
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-30
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹28,029
+Insurance Claim ID: F520A3AA
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Sunita Verma
-Patient ID: P35028
-Admission Date: 2026-04-10
-Discharge Date: 2026-04-09
+Patient Name: Neha Singh
+Patient ID: P84515
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-18
 Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹2,136,060
-Insurance Claim ID: 0C74428C
-Hospital: Fortis Healthcare
+Treatment: Ciprofloxacin course
+Total Amount: ₹3,560
+Insurance Claim ID: 59E8482B
+Hospital: AIIMS

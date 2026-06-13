@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P91219
+Admission Date: 2026-02-24
+Discharge Date: 2026-03-01
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹468,600
+Insurance Claim ID: 8D5E41DA
+Hospital: AIIMS

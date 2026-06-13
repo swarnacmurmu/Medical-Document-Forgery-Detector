@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P52628
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-09
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹16,465
+Insurance Claim ID: 92FC28C3
+Hospital: Fortis Healthcare

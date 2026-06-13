@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P95501
-Admission Date: 2026-03-20
-Discharge Date: 2026-03-21
-Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹776,727
-Insurance Claim ID: 542AC885
-Hospital: AIIMS
+Patient Name: Vikram Nair
+Patient ID: P91369
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-15
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹27,279
+Insurance Claim ID: 18F96934
+Hospital: Manipal Hospital

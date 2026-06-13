@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P79433
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-27
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹208,401
+Insurance Claim ID: A966FE55
+Hospital: Fortis Healthcare

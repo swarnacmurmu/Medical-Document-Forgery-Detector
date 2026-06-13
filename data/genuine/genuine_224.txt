@@ -1,9 +1,9 @@
-Patient Name: Manish Reddy
-Patient ID: P67391
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-24
-Diagnosis: Pneumonia
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹6,654
-Insurance Claim ID: F1E2FC2D
-Hospital: AIIMS
+Patient Name: Amit Patel
+Patient ID: P26083
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-30
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹10,514
+Insurance Claim ID: 852FE2A4
+Hospital: Lilavati Hospital

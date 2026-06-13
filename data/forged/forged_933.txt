@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P66525
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-28
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹56,112
+Insurance Claim ID: 0343B77C
+Hospital: Apollo Hospital

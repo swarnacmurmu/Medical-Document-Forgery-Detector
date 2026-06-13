@@ -1,9 +1,9 @@
-Patient Name: Vikram Nair
-Patient ID: P67256
-Admission Date: 2026-05-31
-Discharge Date: 2026-06-10
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹34,520
-Insurance Claim ID: E6AE9A41
+Patient Name: Vikram Reddy
+Patient ID: P47861
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-25
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹301,950
+Insurance Claim ID: 3A0B1384
 Hospital: AIIMS

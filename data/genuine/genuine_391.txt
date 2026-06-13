@@ -1,9 +1,9 @@
-Patient Name: Neha Kumar
-Patient ID: P64256
-Admission Date: 2026-06-12
-Discharge Date: 2026-06-18
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹57,830
-Insurance Claim ID: 1C5B6DA7
+Patient Name: Amit Gupta
+Patient ID: P77702
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-10
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹72,272
+Insurance Claim ID: DFA8F140
 Hospital: AIIMS

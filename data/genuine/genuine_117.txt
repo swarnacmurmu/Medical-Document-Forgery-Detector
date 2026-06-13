@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P83754
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-29
-Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹29,553
-Insurance Claim ID: FEC96C5C
+Patient Name: Rahul Singh
+Patient ID: P36767
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-01
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹5,471
+Insurance Claim ID: 8D2F8D55
 Hospital: Fortis Healthcare

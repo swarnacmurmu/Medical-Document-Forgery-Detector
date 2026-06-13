@@ -1,0 +1,9 @@
+Patient Name: Neha Kumar
+Patient ID: P86833
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-01
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹22,987
+Insurance Claim ID: F3426650
+Hospital: Manipal Hospital

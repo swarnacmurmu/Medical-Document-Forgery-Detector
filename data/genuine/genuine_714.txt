@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P18110
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-09
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹24,480
+Insurance Claim ID: F870D3B0
+Hospital: Fortis Healthcare

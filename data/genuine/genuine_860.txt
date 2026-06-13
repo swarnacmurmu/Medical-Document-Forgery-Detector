@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P93496
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-18
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹6,381
+Insurance Claim ID: 17BD4A39
+Hospital: Fortis Healthcare

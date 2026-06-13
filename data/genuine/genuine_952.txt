@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P94921
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-28
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹30,706
+Insurance Claim ID: 4B54A293
+Hospital: Lilavati Hospital

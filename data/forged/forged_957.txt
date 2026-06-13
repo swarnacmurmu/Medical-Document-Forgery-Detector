@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P86868
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-27
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹96,816
+Insurance Claim ID: 4CD94B05
+Hospital: Fortis Healthcare

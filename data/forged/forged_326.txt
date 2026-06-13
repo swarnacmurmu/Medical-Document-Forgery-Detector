@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P97094
-Admission Date: 2026-05-30
-Discharge Date: 2026-05-29
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹2,037,888
-Insurance Claim ID: AE3CFDCD
-Hospital: Lilavati Hospital
+Patient Name: Vikram Patel
+Patient ID: P72184
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹29,712
+Insurance Claim ID: 5E055896
+Hospital: Apollo Hospital

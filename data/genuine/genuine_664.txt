@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P26779
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-06
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹6,977
+Insurance Claim ID: DB5460A4
+Hospital: Manipal Hospital

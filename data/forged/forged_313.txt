@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P67702
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-18
-Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹50,601
-Insurance Claim ID: 30ABCD74
-Hospital: Lilavati Hospital
+Patient Name: Anjali Reddy
+Patient ID: P81586
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-11
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹207,130
+Insurance Claim ID: B35AB767
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P39659
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-18
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹168,706
-Insurance Claim ID: 185A3BDD
-Hospital: Fortis Healthcare
+Patient Name: Neha Nair
+Patient ID: P65434
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-07
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹4,814
+Insurance Claim ID: 0036976B
+Hospital: Lilavati Hospital

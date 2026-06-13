@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P50543
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-21
-Diagnosis: Type 2 Diabetes
-Treatment: Rest and paracetamol
-Total Amount: ₹119,807
-Insurance Claim ID: D5457DA4
-Hospital: Fortis Healthcare
+Patient Name: Priya Patel
+Patient ID: P19385
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-13
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹11,645
+Insurance Claim ID: 25DDC0C4
+Hospital: Apollo Hospital

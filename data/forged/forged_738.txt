@@ -1,0 +1,9 @@
+Patient Name: Rajesh Gupta
+Patient ID: P77114
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-10
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹112,030
+Insurance Claim ID: 8A9186C0
+Hospital: AIIMS

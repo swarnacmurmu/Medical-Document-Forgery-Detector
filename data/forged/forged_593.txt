@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P79630
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-11
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹3,061
+Insurance Claim ID: 49A63F9D
+Hospital: AIIMS

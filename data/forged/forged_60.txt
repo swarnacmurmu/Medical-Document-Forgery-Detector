@@ -1,9 +1,9 @@
-Patient Name: Rajesh Kumar
-Patient ID: P36950
-Admission Date: 2026-03-15
-Discharge Date: 2026-03-12
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,536,477
-Insurance Claim ID: 9578D6FD
-Hospital: Fortis Healthcare
+Patient Name: Sunita Gupta
+Patient ID: P12128
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-14
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹23,574
+Insurance Claim ID: C329D8DE
+Hospital: Lilavati Hospital

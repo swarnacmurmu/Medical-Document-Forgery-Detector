@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P82711
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹82,173
+Insurance Claim ID: A198605F
+Hospital: Fortis Healthcare

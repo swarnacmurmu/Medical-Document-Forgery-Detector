@@ -1,9 +1,9 @@
-Patient Name: Rahul Gupta
-Patient ID: P35013
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-16
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹129,288
-Insurance Claim ID: E67EF298
-Hospital: Apollo Hospital
+Patient Name: Amit Sharma
+Patient ID: P28564
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-29
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹30,884
+Insurance Claim ID: 065D29F7
+Hospital: Lilavati Hospital

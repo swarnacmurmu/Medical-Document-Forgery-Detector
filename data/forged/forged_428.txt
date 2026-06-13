@@ -1,9 +1,9 @@
-Patient Name: Vikram Sharma
-Patient ID: P80510
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-22
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹86,276
-Insurance Claim ID: 0CEB08BF
-Hospital: Apollo Hospital
+Patient Name: Neha Kumar
+Patient ID: P42408
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-04
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹25,521
+Insurance Claim ID: 54B42329
+Hospital: AIIMS

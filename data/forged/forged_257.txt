@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P32880
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-20
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹606,436
-Insurance Claim ID: 91DF0E45
-Hospital: Manipal Hospital
+Patient Name: Amit Gupta
+Patient ID: P87411
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-10
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹28,203
+Insurance Claim ID: 0B89FC6F
+Hospital: AIIMS

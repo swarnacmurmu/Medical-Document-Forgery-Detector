@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P45368
-Admission Date: 2026-04-27
-Discharge Date: 2026-05-04
+Patient Name: Anjali Menon
+Patient ID: P47077
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-22
 Diagnosis: COVID-19
 Treatment: Oseltamivir and supportive care
-Total Amount: ₹24,028
-Insurance Claim ID: F587D97F
-Hospital: Apollo Hospital
+Total Amount: ₹44,993
+Insurance Claim ID: 9C7E5DF9
+Hospital: Fortis Healthcare

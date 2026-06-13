@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P64994
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-17
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹8,596
+Insurance Claim ID: E1451D12
+Hospital: Fortis Healthcare

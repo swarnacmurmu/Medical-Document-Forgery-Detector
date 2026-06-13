@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P75886
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-25
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹19,243
+Insurance Claim ID: D5914281
+Hospital: Lilavati Hospital

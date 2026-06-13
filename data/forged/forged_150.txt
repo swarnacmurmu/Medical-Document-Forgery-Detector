@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P24388
-Admission Date: 2026-05-22
-Discharge Date: 2026-05-20
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹134,693
-Insurance Claim ID: 7146A999
-Hospital: Lilavati Hospital
+Patient Name: Amit Patel
+Patient ID: P33503
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-09
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹77,280
+Insurance Claim ID: 86F47C53
+Hospital: AIIMS

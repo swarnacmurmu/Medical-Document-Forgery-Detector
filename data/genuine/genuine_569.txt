@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P29509
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-08
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹17,129
+Insurance Claim ID: 474936AE
+Hospital: Lilavati Hospital

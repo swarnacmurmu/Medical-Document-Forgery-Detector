@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P82397
-Admission Date: 2026-03-10
-Discharge Date: 2026-03-17
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹15,239
-Insurance Claim ID: 2E3A6CB3
-Hospital: Manipal Hospital
+Patient Name: Amit Joshi
+Patient ID: P24749
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-27
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,257
+Insurance Claim ID: D697E433
+Hospital: Fortis Healthcare

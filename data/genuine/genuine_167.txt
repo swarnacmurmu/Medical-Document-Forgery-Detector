@@ -1,9 +1,9 @@
-Patient Name: Sunita Menon
-Patient ID: P27412
-Admission Date: 2026-04-25
-Discharge Date: 2026-05-01
-Diagnosis: Type 2 Diabetes
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹155,077
-Insurance Claim ID: 5575FFAA
-Hospital: Fortis Healthcare
+Patient Name: Amit Joshi
+Patient ID: P39757
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹2,619
+Insurance Claim ID: 1F526FB1
+Hospital: Manipal Hospital

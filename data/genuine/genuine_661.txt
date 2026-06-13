@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P77153
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-13
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹13,311
+Insurance Claim ID: 374044BA
+Hospital: Lilavati Hospital

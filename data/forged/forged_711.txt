@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P96920
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-17
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹46,392
+Insurance Claim ID: 56EBCA9E
+Hospital: Lilavati Hospital

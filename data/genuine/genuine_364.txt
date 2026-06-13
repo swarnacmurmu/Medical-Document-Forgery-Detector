@@ -1,9 +1,9 @@
-Patient Name: Neha Kumar
-Patient ID: P99939
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-19
+Patient Name: Pooja Gupta
+Patient ID: P19220
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-13
 Diagnosis: Hypertension
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹181,449
-Insurance Claim ID: 3375B799
-Hospital: Manipal Hospital
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹5,516
+Insurance Claim ID: 0EBFBF7C
+Hospital: Lilavati Hospital

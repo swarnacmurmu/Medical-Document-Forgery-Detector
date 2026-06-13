@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P39767
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-03
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹194,844
+Insurance Claim ID: 969E9EDB
+Hospital: Lilavati Hospital

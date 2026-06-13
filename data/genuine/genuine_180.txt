@@ -1,9 +1,9 @@
-Patient Name: Rahul Kumar
-Patient ID: P32926
-Admission Date: 2026-05-22
-Discharge Date: 2026-05-25
-Diagnosis: Acute Gastroenteritis
+Patient Name: Neha Sharma
+Patient ID: P15777
+Admission Date: 2026-04-28
+Discharge Date: 2026-05-07
+Diagnosis: COVID-19
 Treatment: Oseltamivir and supportive care
-Total Amount: ₹191,060
-Insurance Claim ID: C2375CC9
-Hospital: AIIMS
+Total Amount: ₹75,918
+Insurance Claim ID: 1AF3EF2F
+Hospital: Fortis Healthcare

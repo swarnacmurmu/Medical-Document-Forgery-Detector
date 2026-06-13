@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P75191
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-06
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹75,650
+Insurance Claim ID: A3122DFA
+Hospital: Apollo Hospital

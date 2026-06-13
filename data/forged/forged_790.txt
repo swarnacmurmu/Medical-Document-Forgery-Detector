@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P46452
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-12
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹106,964
+Insurance Claim ID: 5737D86E
+Hospital: Apollo Hospital

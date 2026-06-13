@@ -1,9 +1,9 @@
-Patient Name: Neha Patel
-Patient ID: P79729
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-28
-Diagnosis: Acute Gastroenteritis
+Patient Name: Neha Gupta
+Patient ID: P22030
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-17
+Diagnosis: Hypertension
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹355,472
-Insurance Claim ID: C59D6939
-Hospital: Manipal Hospital
+Total Amount: ₹7,799
+Insurance Claim ID: 91BFEDAC
+Hospital: Fortis Healthcare

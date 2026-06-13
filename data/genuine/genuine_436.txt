@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P62491
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-23
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹162,088
-Insurance Claim ID: 551E76C1
-Hospital: Apollo Hospital
+Patient Name: Rahul Gupta
+Patient ID: P16930
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-09
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹17,620
+Insurance Claim ID: B30C8731
+Hospital: Lilavati Hospital

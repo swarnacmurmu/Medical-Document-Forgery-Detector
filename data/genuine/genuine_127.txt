@@ -1,9 +1,9 @@
-Patient Name: Rajesh Menon
-Patient ID: P62814
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-11
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹48,582
-Insurance Claim ID: 56027C5B
+Patient Name: Vikram Gupta
+Patient ID: P50083
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-24
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹29,638
+Insurance Claim ID: BA3E9981
 Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P71630
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-12
+Diagnosis: Urinary Tract Infection
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹8,173
+Insurance Claim ID: 7EAAAEBB
+Hospital: Manipal Hospital

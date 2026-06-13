@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P70571
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-30
-Diagnosis: Urinary Tract Infection
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹62,775
-Insurance Claim ID: F1CE2B09
-Hospital: AIIMS
+Patient Name: Neha Reddy
+Patient ID: P42003
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-22
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,871
+Insurance Claim ID: 0AD12774
+Hospital: Manipal Hospital

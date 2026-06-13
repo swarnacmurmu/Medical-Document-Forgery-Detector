@@ -1,9 +1,9 @@
-Patient Name: Priya Reddy
-Patient ID: P93796
-Admission Date: 2026-02-21
-Discharge Date: 2026-03-03
+Patient Name: Pooja Reddy
+Patient ID: P27106
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-09
 Diagnosis: COVID-19
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹116,640
-Insurance Claim ID: 2E0900B2
+Treatment: Remdesivir and oxygen
+Total Amount: ₹52,462
+Insurance Claim ID: 00F629CB
 Hospital: Fortis Healthcare

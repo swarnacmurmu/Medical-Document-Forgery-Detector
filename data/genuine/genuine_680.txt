@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P77992
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-06
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹6,452
+Insurance Claim ID: 11D0B070
+Hospital: Fortis Healthcare

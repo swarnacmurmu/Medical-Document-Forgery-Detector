@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P84395
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-28
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹221,994
+Insurance Claim ID: 21FDFAB5
+Hospital: Apollo Hospital

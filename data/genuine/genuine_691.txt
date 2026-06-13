@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P64716
+Admission Date: 2026-04-27
+Discharge Date: 2026-05-02
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹29,083
+Insurance Claim ID: ED149D71
+Hospital: Lilavati Hospital

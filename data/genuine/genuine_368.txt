@@ -1,9 +1,9 @@
-Patient Name: Vikram Gupta
-Patient ID: P50513
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-13
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹10,062
-Insurance Claim ID: 2E494378
-Hospital: Apollo Hospital
+Patient Name: Neha Menon
+Patient ID: P53001
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-15
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹9,169
+Insurance Claim ID: F2F2E251
+Hospital: Lilavati Hospital

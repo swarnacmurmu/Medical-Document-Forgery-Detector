@@ -1,9 +1,9 @@
-Patient Name: Priya Nair
-Patient ID: P75750
-Admission Date: 2026-06-08
-Discharge Date: 2026-06-15
-Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹100,480
-Insurance Claim ID: 2D677D93
-Hospital: AIIMS
+Patient Name: Amit Nair
+Patient ID: P80182
+Admission Date: 2026-04-12
+Discharge Date: 2026-04-11
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹85,896
+Insurance Claim ID: 2D7714B2
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P53962
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-01
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹79,521
+Insurance Claim ID: B10A0F52
+Hospital: AIIMS

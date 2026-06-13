@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P98108
-Admission Date: 2026-04-03
-Discharge Date: 2026-04-09
-Diagnosis: Urinary Tract Infection
-Treatment: Antibiotics for 5 days
-Total Amount: ₹114,860
-Insurance Claim ID: ECD7D418
-Hospital: AIIMS
+Patient Name: Rajesh Menon
+Patient ID: P41484
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-21
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹45,585
+Insurance Claim ID: 8CCD0AC2
+Hospital: Manipal Hospital

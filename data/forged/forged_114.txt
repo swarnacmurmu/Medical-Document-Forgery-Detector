@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P70392
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-21
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹71,033
-Insurance Claim ID: 313D82A1
-Hospital: AIIMS
+Patient Name: Rajesh Reddy
+Patient ID: P19594
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-15
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹7,768
+Insurance Claim ID: 9D50B1A2
+Hospital: Manipal Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P80786
-Admission Date: 2026-04-20
-Discharge Date: 2026-04-30
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹125,379
-Insurance Claim ID: 9B4A1B2A
-Hospital: Apollo Hospital
+Patient Name: Rahul Nair
+Patient ID: P82425
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-20
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹10,505
+Insurance Claim ID: 10C54571
+Hospital: Fortis Healthcare

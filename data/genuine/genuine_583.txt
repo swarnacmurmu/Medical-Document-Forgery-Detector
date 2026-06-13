@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P13905
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-23
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹6,333
+Insurance Claim ID: 1F28CB3F
+Hospital: AIIMS

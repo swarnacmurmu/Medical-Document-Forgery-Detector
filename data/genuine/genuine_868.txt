@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P32162
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-17
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹43,890
+Insurance Claim ID: D9EA79B2
+Hospital: Manipal Hospital

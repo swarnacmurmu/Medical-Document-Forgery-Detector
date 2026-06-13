@@ -1,9 +1,9 @@
-Patient Name: Priya Reddy
-Patient ID: P78910
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-03
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹10,136
-Insurance Claim ID: 3DF6B1C7
-Hospital: Apollo Hospital
+Patient Name: Manish Menon
+Patient ID: P86629
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-04
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹46,236
+Insurance Claim ID: 2F5191CB
+Hospital: Lilavati Hospital

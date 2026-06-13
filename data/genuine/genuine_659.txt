@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P81982
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-01
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹11,947
+Insurance Claim ID: 5B66AA12
+Hospital: Lilavati Hospital

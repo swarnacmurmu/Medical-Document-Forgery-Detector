@@ -1,9 +1,9 @@
-Patient Name: Anjali Nair
-Patient ID: P45968
-Admission Date: 2026-06-06
-Discharge Date: 2026-06-13
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹1,663,110
-Insurance Claim ID: AF5FEF5C
-Hospital: AIIMS
+Patient Name: Priya Patel
+Patient ID: P12782
+Admission Date: 2026-05-26
+Discharge Date: 2026-06-01
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹14,633
+Insurance Claim ID: F89F7EA6
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P68925
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-21
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹27,038
+Insurance Claim ID: 5A7D1B5C
+Hospital: Manipal Hospital

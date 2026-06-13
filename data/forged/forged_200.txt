@@ -1,9 +1,9 @@
-Patient Name: Vikram Kumar
-Patient ID: P91190
-Admission Date: 2026-06-03
-Discharge Date: 2026-05-31
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹180,796
-Insurance Claim ID: 0D057644
-Hospital: Fortis Healthcare
+Patient Name: Priya Joshi
+Patient ID: P73440
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-25
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹276,720
+Insurance Claim ID: CD589BB3
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P13928
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-05
-Diagnosis: Typhoid
-Treatment: Sumatriptan as needed
-Total Amount: ₹171,787
-Insurance Claim ID: E67C9EE4
-Hospital: AIIMS
+Patient Name: Manish Joshi
+Patient ID: P55935
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-29
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹19,978
+Insurance Claim ID: D496C3CE
+Hospital: Fortis Healthcare

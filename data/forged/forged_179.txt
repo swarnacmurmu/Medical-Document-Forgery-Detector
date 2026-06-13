@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P32354
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-26
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹841,728
-Insurance Claim ID: AD76BF08
-Hospital: Lilavati Hospital
+Patient Name: Priya Reddy
+Patient ID: P53794
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-11
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹129,669
+Insurance Claim ID: 330E2F3F
+Hospital: Manipal Hospital

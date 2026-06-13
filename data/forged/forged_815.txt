@@ -1,0 +1,9 @@
+Patient Name: Anjali Reddy
+Patient ID: P47364
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-17
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹64,288
+Insurance Claim ID: F96517CF
+Hospital: Apollo Hospital

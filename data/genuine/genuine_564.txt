@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P45250
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-12
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹5,469
+Insurance Claim ID: 3281FD4C
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P63362
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-28
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹7,992
+Insurance Claim ID: 56BB51D5
+Hospital: Manipal Hospital

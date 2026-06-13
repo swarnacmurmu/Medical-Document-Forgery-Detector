@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P33819
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-12
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹98,056
+Insurance Claim ID: DAFE95A9
+Hospital: AIIMS

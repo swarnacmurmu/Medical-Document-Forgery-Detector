@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P17566
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-22
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹60,223
+Insurance Claim ID: 7AF1B28B
+Hospital: AIIMS

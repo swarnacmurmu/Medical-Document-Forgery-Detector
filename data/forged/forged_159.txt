@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P95669
-Admission Date: 2026-04-04
-Discharge Date: 2026-04-02
-Diagnosis: Urinary Tract Infection
-Treatment: Antibiotics for 5 days
-Total Amount: ₹1,553,695
-Insurance Claim ID: F539F7DE
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Verma
+Patient ID: P19637
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-03
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹941,520
+Insurance Claim ID: 0C570999
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P80356
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-10
-Diagnosis: Dengue Fever
-Treatment: Antibiotics for 5 days
-Total Amount: ₹155,737
-Insurance Claim ID: 903A8997
-Hospital: Lilavati Hospital
+Patient Name: Pooja Gupta
+Patient ID: P51468
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-05
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹17,012
+Insurance Claim ID: 1A122DBD
+Hospital: Manipal Hospital

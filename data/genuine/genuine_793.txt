@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P88255
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-02
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹14,473
+Insurance Claim ID: 6DE2C16B
+Hospital: AIIMS

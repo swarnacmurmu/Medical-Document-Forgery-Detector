@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P10352
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-15
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹68,588
+Insurance Claim ID: A62161FB
+Hospital: Fortis Healthcare

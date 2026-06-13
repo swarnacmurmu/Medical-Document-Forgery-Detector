@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P46013
-Admission Date: 2026-05-28
-Discharge Date: 2026-05-27
-Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹103,938
-Insurance Claim ID: F92E65CB
+Patient Name: Rajesh Sharma
+Patient ID: P29312
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-08
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹14,262
+Insurance Claim ID: 2C5A2003
 Hospital: Lilavati Hospital

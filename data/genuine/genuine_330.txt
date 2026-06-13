@@ -1,9 +1,9 @@
-Patient Name: Rahul Menon
-Patient ID: P94322
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-10
-Diagnosis: COVID-19
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹7,266
-Insurance Claim ID: 554D4AE9
-Hospital: Manipal Hospital
+Patient Name: Priya Gupta
+Patient ID: P65192
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-18
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹3,673
+Insurance Claim ID: A6614DC9
+Hospital: Lilavati Hospital

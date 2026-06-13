@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P10448
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-13
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹38,200
+Insurance Claim ID: B912F8B3
+Hospital: Lilavati Hospital

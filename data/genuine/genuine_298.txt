@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P43422
-Admission Date: 2026-05-09
-Discharge Date: 2026-05-10
-Diagnosis: Acute Gastroenteritis
-Treatment: Inhaler and monitoring
-Total Amount: ₹63,153
-Insurance Claim ID: ABAB3D7D
+Patient Name: Amit Reddy
+Patient ID: P86555
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-16
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹11,810
+Insurance Claim ID: 33A0E18B
 Hospital: Lilavati Hospital

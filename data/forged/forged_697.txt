@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P73666
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-25
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹81,700
+Insurance Claim ID: D5B80E1F
+Hospital: AIIMS

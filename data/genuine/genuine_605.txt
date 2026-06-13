@@ -1,0 +1,9 @@
+Patient Name: Neha Singh
+Patient ID: P50359
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-22
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹6,378
+Insurance Claim ID: A6AF8452
+Hospital: Fortis Healthcare

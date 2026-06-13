@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P29735
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-12
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹12,875
+Insurance Claim ID: 824A7FFD
+Hospital: Manipal Hospital

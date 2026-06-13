@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P86472
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-24
+Patient Name: Sunita Verma
+Patient ID: P14361
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-25
 Diagnosis: COVID-19
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹172,819
-Insurance Claim ID: D2B8B225
+Total Amount: ₹89,988
+Insurance Claim ID: D55859D8
 Hospital: AIIMS

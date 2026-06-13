@@ -1,9 +1,9 @@
-Patient Name: Sunita Joshi
-Patient ID: P97285
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-31
-Diagnosis: COVID-19
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹65,655
-Insurance Claim ID: B875CEE1
-Hospital: Manipal Hospital
+Patient Name: Rahul Verma
+Patient ID: P37592
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-30
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹48,695
+Insurance Claim ID: D66F2888
+Hospital: AIIMS

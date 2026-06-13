@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P60717
-Admission Date: 2026-05-31
-Discharge Date: 2026-05-29
-Diagnosis: Type 2 Diabetes
-Treatment: Sumatriptan as needed
-Total Amount: ₹10,050
-Insurance Claim ID: 467A94CB
-Hospital: Lilavati Hospital
+Patient Name: Amit Verma
+Patient ID: P69926
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-15
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹5,906
+Insurance Claim ID: 98D0BF82
+Hospital: Fortis Healthcare

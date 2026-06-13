@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P38850
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-13
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹9,932
+Insurance Claim ID: 36C408B1
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P35763
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-08
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹2,854
+Insurance Claim ID: AD9C610B
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Vikram Joshi
-Patient ID: P16954
-Admission Date: 2026-03-30
-Discharge Date: 2026-04-05
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹38,400
-Insurance Claim ID: 386C31EB
-Hospital: Lilavati Hospital
+Patient Name: Rahul Patel
+Patient ID: P92497
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-06
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹155,400
+Insurance Claim ID: 58AB5248
+Hospital: Manipal Hospital

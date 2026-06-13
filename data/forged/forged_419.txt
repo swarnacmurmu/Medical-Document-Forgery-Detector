@@ -1,9 +1,9 @@
-Patient Name: Rajesh Nair
-Patient ID: P10229
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-23
-Diagnosis: Asthma
-Treatment: Antibiotics for 5 days
-Total Amount: ₹52,642
-Insurance Claim ID: 14FF67F5
-Hospital: Lilavati Hospital
+Patient Name: Manish Reddy
+Patient ID: P85440
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-23
+Diagnosis: COVID-19
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹249,207
+Insurance Claim ID: EDC55AC6
+Hospital: AIIMS

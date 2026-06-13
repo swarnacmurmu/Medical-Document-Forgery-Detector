@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P63117
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-13
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹60,396
+Insurance Claim ID: D64DF9F0
+Hospital: AIIMS

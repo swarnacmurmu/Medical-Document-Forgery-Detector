@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P87222
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-17
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹29,424
+Insurance Claim ID: D76CAEDC
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P62789
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-14
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹85,544
+Insurance Claim ID: 7EA6A318
+Hospital: Manipal Hospital

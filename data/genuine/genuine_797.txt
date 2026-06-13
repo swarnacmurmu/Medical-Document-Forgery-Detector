@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P58047
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-15
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹30,758
+Insurance Claim ID: BDCA4B1F
+Hospital: AIIMS

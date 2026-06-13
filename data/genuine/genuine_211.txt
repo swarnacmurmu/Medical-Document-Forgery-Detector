@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P12710
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-07
-Diagnosis: Acute Gastroenteritis
-Treatment: Antibiotics for 5 days
-Total Amount: ₹38,223
-Insurance Claim ID: E814CAAF
-Hospital: AIIMS
+Patient Name: Amit Sharma
+Patient ID: P25183
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-23
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹10,044
+Insurance Claim ID: B84C073F
+Hospital: Lilavati Hospital

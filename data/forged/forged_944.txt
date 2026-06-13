@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P21147
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-16
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹19,094
+Insurance Claim ID: 347646DD
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Neha Sharma
+Patient ID: P73944
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-26
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,867
+Insurance Claim ID: C098C3CF
+Hospital: Lilavati Hospital

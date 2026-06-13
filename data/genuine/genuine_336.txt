@@ -1,9 +1,9 @@
-Patient Name: Priya Verma
-Patient ID: P50628
-Admission Date: 2026-04-16
-Discharge Date: 2026-04-25
-Diagnosis: Pneumonia
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹25,059
-Insurance Claim ID: 35117495
-Hospital: AIIMS
+Patient Name: Anjali Kumar
+Patient ID: P50407
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-07
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹3,509
+Insurance Claim ID: C7EE0D4B
+Hospital: Apollo Hospital

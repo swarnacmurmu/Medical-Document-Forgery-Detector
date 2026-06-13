@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P33278
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-16
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹7,781
+Insurance Claim ID: 7FF5610A
+Hospital: AIIMS

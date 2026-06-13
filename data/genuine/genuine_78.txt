@@ -1,9 +1,9 @@
-Patient Name: Manish Verma
-Patient ID: P65459
-Admission Date: 2026-05-05
-Discharge Date: 2026-05-06
-Diagnosis: Hypertension
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹188,629
-Insurance Claim ID: 8D5CF020
-Hospital: Apollo Hospital
+Patient Name: Rahul Gupta
+Patient ID: P54892
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹5,101
+Insurance Claim ID: 8D5530EE
+Hospital: Manipal Hospital

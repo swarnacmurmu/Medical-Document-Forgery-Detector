@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P62827
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-16
+Diagnosis: COVID-19
+Treatment: Antibiotics for 5 days
+Total Amount: ₹568,040
+Insurance Claim ID: FC6EF96F
+Hospital: Manipal Hospital

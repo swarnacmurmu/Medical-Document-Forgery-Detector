@@ -1,9 +1,9 @@
-Patient Name: Rahul Singh
-Patient ID: P86405
+Patient Name: Sunita Gupta
+Patient ID: P83352
 Admission Date: 2026-05-01
-Discharge Date: 2026-05-05
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹145,015
-Insurance Claim ID: C2922019
-Hospital: Apollo Hospital
+Discharge Date: 2026-05-03
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹8,043
+Insurance Claim ID: F2C47808
+Hospital: Manipal Hospital

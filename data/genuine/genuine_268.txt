@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P84736
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-25
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹37,406
-Insurance Claim ID: F44334F9
-Hospital: Fortis Healthcare
+Patient Name: Pooja Joshi
+Patient ID: P98351
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-13
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹42,437
+Insurance Claim ID: BCA05FC9
+Hospital: Apollo Hospital

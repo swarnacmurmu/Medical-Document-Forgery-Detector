@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P44134
-Admission Date: 2026-03-18
-Discharge Date: 2026-03-27
-Diagnosis: Asthma
-Treatment: Rest and paracetamol
-Total Amount: ₹46,831
-Insurance Claim ID: 3CAC07AC
-Hospital: AIIMS
+Patient Name: Neha Joshi
+Patient ID: P94533
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-29
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹23,004
+Insurance Claim ID: E70DF34F
+Hospital: Manipal Hospital

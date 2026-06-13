@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P29286
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-10
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹16,396
+Insurance Claim ID: 600890F5
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P53931
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-18
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹21,534
+Insurance Claim ID: A259675B
+Hospital: AIIMS

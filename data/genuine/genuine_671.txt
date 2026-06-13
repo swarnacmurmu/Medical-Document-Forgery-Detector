@@ -1,0 +1,9 @@
+Patient Name: Amit Gupta
+Patient ID: P80539
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-08
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹10,020
+Insurance Claim ID: F5595911
+Hospital: Lilavati Hospital

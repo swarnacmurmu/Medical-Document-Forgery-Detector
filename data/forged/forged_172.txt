@@ -1,9 +1,9 @@
-Patient Name: Pooja Gupta
-Patient ID: P67412
-Admission Date: 2026-04-15
-Discharge Date: 2026-04-22
-Diagnosis: Acute Gastroenteritis
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹38,388
-Insurance Claim ID: D5B9660E
+Patient Name: Rahul Nair
+Patient ID: P92658
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-29
+Diagnosis: Urinary Tract Infection
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹54,565
+Insurance Claim ID: AF1B91A5
 Hospital: Apollo Hospital

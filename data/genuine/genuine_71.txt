@@ -1,9 +1,9 @@
-Patient Name: Sunita Menon
-Patient ID: P68424
-Admission Date: 2026-02-16
-Discharge Date: 2026-02-20
-Diagnosis: Typhoid
-Treatment: Rest and paracetamol
-Total Amount: ₹57,675
-Insurance Claim ID: D0D330DA
-Hospital: Fortis Healthcare
+Patient Name: Rahul Joshi
+Patient ID: P99994
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹16,244
+Insurance Claim ID: 5D62E39D
+Hospital: Apollo Hospital

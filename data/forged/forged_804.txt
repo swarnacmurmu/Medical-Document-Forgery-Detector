@@ -1,0 +1,9 @@
+Patient Name: Rahul Verma
+Patient ID: P57714
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-08
+Diagnosis: Hypertension
+Treatment: Inhaler and monitoring
+Total Amount: ₹20,928
+Insurance Claim ID: 71F56284
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P81666
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-06
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹8,129
+Insurance Claim ID: 48C6DC4A
+Hospital: Apollo Hospital

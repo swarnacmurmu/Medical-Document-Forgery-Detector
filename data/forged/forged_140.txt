@@ -1,9 +1,9 @@
-Patient Name: Priya Patel
-Patient ID: P49782
-Admission Date: 2026-02-16
-Discharge Date: 2026-02-18
-Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹38,453
-Insurance Claim ID: D1D672A6
-Hospital: Lilavati Hospital
+Patient Name: Neha Verma
+Patient ID: P73847
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-12
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹3,931
+Insurance Claim ID: 9E6F740B
+Hospital: Fortis Healthcare

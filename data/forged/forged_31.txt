@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P49491
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-10
+Patient Name: Rajesh Patel
+Patient ID: P84766
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-14
 Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹111,961
-Insurance Claim ID: EC07258D
-Hospital: Apollo Hospital
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹7,234
+Insurance Claim ID: 8BF6F709
+Hospital: Manipal Hospital

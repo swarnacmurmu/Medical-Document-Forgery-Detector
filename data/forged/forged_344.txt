@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P98484
-Admission Date: 2026-05-25
-Discharge Date: 2026-05-29
+Patient Name: Manish Verma
+Patient ID: P19334
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-09
 Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹473,163
-Insurance Claim ID: 3B95528B
-Hospital: AIIMS
+Treatment: Sumatriptan as needed
+Total Amount: ₹9,980
+Insurance Claim ID: 2B7C75A4
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P70649
+Admission Date: 2026-03-01
+Discharge Date: 2026-02-28
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹117,278
+Insurance Claim ID: 790009EB
+Hospital: Fortis Healthcare

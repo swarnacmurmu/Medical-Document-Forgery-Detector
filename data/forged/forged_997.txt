@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P28878
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-12
+Diagnosis: Hypertension
+Treatment: Inhaler and monitoring
+Total Amount: ₹4,013
+Insurance Claim ID: 6080534D
+Hospital: Manipal Hospital

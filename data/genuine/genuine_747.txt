@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P86949
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-28
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹7,248
+Insurance Claim ID: 3EDA60DA
+Hospital: Fortis Healthcare

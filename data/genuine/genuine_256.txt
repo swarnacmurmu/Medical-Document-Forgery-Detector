@@ -1,9 +1,9 @@
-Patient Name: Rajesh Reddy
-Patient ID: P11949
-Admission Date: 2026-05-08
-Discharge Date: 2026-05-15
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹141,821
-Insurance Claim ID: 08D60D39
+Patient Name: Rajesh Verma
+Patient ID: P27763
+Admission Date: 2026-03-29
+Discharge Date: 2026-03-30
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹7,320
+Insurance Claim ID: 2B6BDA71
 Hospital: Apollo Hospital

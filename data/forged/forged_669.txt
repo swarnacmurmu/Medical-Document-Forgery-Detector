@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P75624
+Admission Date: 2026-04-01
+Discharge Date: 2026-03-29
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹11,201
+Insurance Claim ID: F3EC62DE
+Hospital: AIIMS

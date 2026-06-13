@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P17190
-Admission Date: 2026-06-04
-Discharge Date: 2026-06-02
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹1,955,943
-Insurance Claim ID: 412F2521
+Patient Name: Rahul Patel
+Patient ID: P42527
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-22
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹65,056
+Insurance Claim ID: 1CD3380E
 Hospital: Fortis Healthcare

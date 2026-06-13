@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P19992
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-27
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹3,505
+Insurance Claim ID: 63803BFF
+Hospital: Manipal Hospital

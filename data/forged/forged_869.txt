@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P72772
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-09
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹33,215
+Insurance Claim ID: E412A5DC
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P25513
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-29
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹137,490
+Insurance Claim ID: 92D27838
+Hospital: Lilavati Hospital

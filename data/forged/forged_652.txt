@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P86067
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-05
+Diagnosis: Pneumonia
+Treatment: Rest and paracetamol
+Total Amount: ₹20,771
+Insurance Claim ID: C6EAFDE9
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P67262
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-30
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹155,214
+Insurance Claim ID: 4C5E9FF7
+Hospital: Manipal Hospital

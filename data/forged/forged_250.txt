@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P39978
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-24
+Patient Name: Amit Joshi
+Patient ID: P99100
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-14
 Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹158,161
-Insurance Claim ID: C38A1C9C
+Treatment: Azithromycin course
+Total Amount: ₹61,530
+Insurance Claim ID: CC7C1BA1
 Hospital: Lilavati Hospital

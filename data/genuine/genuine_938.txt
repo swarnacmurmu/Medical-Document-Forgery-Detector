@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P53663
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹69,733
+Insurance Claim ID: D27646BE
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P82230
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-15
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹2,855
+Insurance Claim ID: 0A718BD8
+Hospital: Fortis Healthcare

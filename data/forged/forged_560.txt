@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P39807
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-23
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹12,338
+Insurance Claim ID: 8138C99D
+Hospital: Fortis Healthcare

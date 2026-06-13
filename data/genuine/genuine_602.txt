@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P24178
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-21
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹13,587
+Insurance Claim ID: F85A7A54
+Hospital: Fortis Healthcare

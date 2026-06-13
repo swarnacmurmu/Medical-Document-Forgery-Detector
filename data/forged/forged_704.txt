@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P94295
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-10
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹30,507
+Insurance Claim ID: 6E6E0895
+Hospital: Fortis Healthcare

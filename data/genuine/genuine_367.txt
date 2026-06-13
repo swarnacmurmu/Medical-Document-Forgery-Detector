@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P53952
-Admission Date: 2026-04-19
-Discharge Date: 2026-04-23
+Patient Name: Vikram Kumar
+Patient ID: P24560
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-11
 Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹31,192
-Insurance Claim ID: 16DA860F
-Hospital: AIIMS
+Treatment: Paracetamol and rest
+Total Amount: ₹9,555
+Insurance Claim ID: A184A941
+Hospital: Manipal Hospital

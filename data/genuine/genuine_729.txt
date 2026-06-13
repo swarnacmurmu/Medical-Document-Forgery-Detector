@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P70117
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-10
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹33,143
+Insurance Claim ID: F6694D14
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P82444
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-25
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹19,975
+Insurance Claim ID: 0102ABAD
+Hospital: AIIMS

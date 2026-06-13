@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P63912
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-25
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹90,940
+Insurance Claim ID: B6C5ED67
+Hospital: AIIMS

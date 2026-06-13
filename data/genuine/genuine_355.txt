@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P63472
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-24
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹85,114
-Insurance Claim ID: 77464E60
-Hospital: Apollo Hospital
+Patient Name: Anjali Kumar
+Patient ID: P61480
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-12
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹25,164
+Insurance Claim ID: 6BD33329
+Hospital: Manipal Hospital

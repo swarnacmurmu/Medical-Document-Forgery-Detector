@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P41738
-Admission Date: 2026-06-11
-Discharge Date: 2026-06-14
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹95,920
-Insurance Claim ID: 563AB047
-Hospital: Fortis Healthcare
+Patient Name: Sunita Reddy
+Patient ID: P19673
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-23
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹16,174
+Insurance Claim ID: A7CD6A6A
+Hospital: AIIMS

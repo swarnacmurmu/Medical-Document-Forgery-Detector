@@ -1,0 +1,9 @@
+Patient Name: Neha Singh
+Patient ID: P28842
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-06
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹12,898
+Insurance Claim ID: 0636D7BF
+Hospital: Manipal Hospital

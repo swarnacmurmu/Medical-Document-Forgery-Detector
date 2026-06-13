@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P17074
-Admission Date: 2026-04-22
-Discharge Date: 2026-04-19
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹3,876,700
-Insurance Claim ID: 262201E9
-Hospital: AIIMS
+Patient Name: Vikram Nair
+Patient ID: P23336
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-14
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹123,420
+Insurance Claim ID: F96CED16
+Hospital: Apollo Hospital

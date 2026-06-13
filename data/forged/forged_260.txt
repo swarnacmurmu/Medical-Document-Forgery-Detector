@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P62205
-Admission Date: 2026-04-09
-Discharge Date: 2026-04-19
-Diagnosis: COVID-19
-Treatment: Rest and paracetamol
-Total Amount: ₹188,892
-Insurance Claim ID: 590AACF6
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Nair
+Patient ID: P70091
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-23
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹90,200
+Insurance Claim ID: EAF1C285
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P81139
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-28
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹3,812
+Insurance Claim ID: 935A2559
+Hospital: Manipal Hospital

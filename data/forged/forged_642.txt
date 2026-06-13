@@ -1,0 +1,9 @@
+Patient Name: Rahul Joshi
+Patient ID: P85817
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-19
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹6,491
+Insurance Claim ID: 620F407F
+Hospital: AIIMS

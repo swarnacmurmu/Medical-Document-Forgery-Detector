@@ -1,9 +1,9 @@
-Patient Name: Sunita Patel
-Patient ID: P12840
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-02
-Diagnosis: Asthma
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹47,494
-Insurance Claim ID: 047E4EED
-Hospital: AIIMS
+Patient Name: Neha Patel
+Patient ID: P66921
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-04
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹14,994
+Insurance Claim ID: 0DB54C50
+Hospital: Fortis Healthcare

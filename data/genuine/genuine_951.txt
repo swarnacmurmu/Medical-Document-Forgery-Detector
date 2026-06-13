@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P95518
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-12
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹87,689
+Insurance Claim ID: BBFDEC46
+Hospital: Apollo Hospital

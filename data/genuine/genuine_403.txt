@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P12084
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-23
-Diagnosis: Urinary Tract Infection
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹189,417
-Insurance Claim ID: 8131B362
-Hospital: Fortis Healthcare
+Patient Name: Anjali Patel
+Patient ID: P20105
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-07
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹2,862
+Insurance Claim ID: 8707950C
+Hospital: Apollo Hospital

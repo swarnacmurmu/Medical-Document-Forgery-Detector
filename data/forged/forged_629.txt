@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P78131
+Admission Date: 2026-03-30
+Discharge Date: 2026-03-27
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹30,948
+Insurance Claim ID: 21E4CE4D
+Hospital: Manipal Hospital

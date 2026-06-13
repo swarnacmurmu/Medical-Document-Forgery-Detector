@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P56137
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-11
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹132,844
+Insurance Claim ID: A4DFB9E8
+Hospital: Lilavati Hospital

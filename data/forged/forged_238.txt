@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P75293
-Admission Date: 2026-02-18
-Discharge Date: 2026-02-24
-Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹132,542
-Insurance Claim ID: 55C054CE
-Hospital: Lilavati Hospital
+Patient Name: Rajesh Patel
+Patient ID: P16043
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹72,165
+Insurance Claim ID: 26B7D312
+Hospital: Apollo Hospital

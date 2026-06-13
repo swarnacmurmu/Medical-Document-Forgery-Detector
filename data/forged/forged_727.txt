@@ -1,0 +1,9 @@
+Patient Name: Sunita Kumar
+Patient ID: P27353
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-08
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹25,683
+Insurance Claim ID: 7B824298
+Hospital: Fortis Healthcare

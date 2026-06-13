@@ -1,9 +1,9 @@
-Patient Name: Priya Nair
-Patient ID: P74954
-Admission Date: 2026-03-26
-Discharge Date: 2026-03-31
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹132,224
-Insurance Claim ID: 693E0A67
-Hospital: Manipal Hospital
+Patient Name: Sunita Verma
+Patient ID: P22566
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-06
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹18,612
+Insurance Claim ID: C37F51E0
+Hospital: AIIMS

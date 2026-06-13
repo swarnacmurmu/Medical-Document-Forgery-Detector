@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P20136
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-17
-Diagnosis: Dengue Fever
-Treatment: Antibiotics for 5 days
-Total Amount: ₹131,897
-Insurance Claim ID: 9CF0838B
+Patient Name: Neha Nair
+Patient ID: P80457
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-09
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹47,891
+Insurance Claim ID: 6D2ECC99
 Hospital: Manipal Hospital

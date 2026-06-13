@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P19835
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-08
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹33,142
+Insurance Claim ID: 1965229B
+Hospital: Manipal Hospital

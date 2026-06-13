@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P61549
-Admission Date: 2026-05-19
-Discharge Date: 2026-05-23
+Patient Name: Vikram Nair
+Patient ID: P54437
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-21
 Diagnosis: COVID-19
-Treatment: Antibiotics for 5 days
-Total Amount: ₹195,097
-Insurance Claim ID: AD94D72B
-Hospital: Apollo Hospital
+Treatment: Monoclonal antibodies
+Total Amount: ₹22,706
+Insurance Claim ID: 254E280A
+Hospital: Lilavati Hospital

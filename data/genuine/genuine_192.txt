@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P21639
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-11
-Diagnosis: Typhoid
-Treatment: Inhaler and monitoring
-Total Amount: ₹164,295
-Insurance Claim ID: 1ACC6C82
-Hospital: Fortis Healthcare
+Patient Name: Vikram Reddy
+Patient ID: P91315
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-02
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹11,601
+Insurance Claim ID: 1C45ED52
+Hospital: AIIMS

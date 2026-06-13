@@ -1,9 +1,9 @@
-Patient Name: Amit Gupta
-Patient ID: P74316
-Admission Date: 2026-05-22
-Discharge Date: 2026-05-24
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹176,069
-Insurance Claim ID: C6C37CD7
-Hospital: Lilavati Hospital
+Patient Name: Manish Joshi
+Patient ID: P14762
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-20
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹10,031
+Insurance Claim ID: 4A05C5D4
+Hospital: AIIMS

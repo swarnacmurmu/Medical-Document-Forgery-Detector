@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P80672
-Admission Date: 2026-02-17
-Discharge Date: 2026-02-23
-Diagnosis: Hypertension
-Treatment: Rest and paracetamol
-Total Amount: ₹78,443
-Insurance Claim ID: A985520F
-Hospital: Manipal Hospital
+Patient Name: Pooja Kumar
+Patient ID: P83117
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-21
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹23,833
+Insurance Claim ID: 7BC46FCD
+Hospital: Lilavati Hospital

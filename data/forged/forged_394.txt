@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P86776
-Admission Date: 2026-03-10
-Discharge Date: 2026-03-07
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹15,239
-Insurance Claim ID: 2E3A6CB3
+Patient Name: Rahul Gupta
+Patient ID: P77521
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-14
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹49,861
+Insurance Claim ID: C209B731
 Hospital: Manipal Hospital

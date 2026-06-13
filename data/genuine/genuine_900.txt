@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P32678
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹17,873
+Insurance Claim ID: 17AEF4EF
+Hospital: Fortis Healthcare

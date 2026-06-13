@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P20036
-Admission Date: 2026-03-27
-Discharge Date: 2026-03-24
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹1,287,407
-Insurance Claim ID: F2CDB4B3
-Hospital: AIIMS
+Patient Name: Amit Menon
+Patient ID: P73941
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-28
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹42,970
+Insurance Claim ID: 2118047B
+Hospital: Fortis Healthcare

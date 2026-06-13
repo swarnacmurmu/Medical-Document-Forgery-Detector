@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P46491
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-27
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹23,207
+Insurance Claim ID: D6989193
+Hospital: Fortis Healthcare

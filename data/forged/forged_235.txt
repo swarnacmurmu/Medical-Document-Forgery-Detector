@@ -1,9 +1,9 @@
-Patient Name: Rahul Verma
-Patient ID: P44255
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-05
-Diagnosis: COVID-19
+Patient Name: Anjali Reddy
+Patient ID: P36800
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-01
+Diagnosis: Type 2 Diabetes
 Treatment: Sumatriptan as needed
-Total Amount: ₹106,133
-Insurance Claim ID: A965E2EE
-Hospital: AIIMS
+Total Amount: ₹97,970
+Insurance Claim ID: B06A7E64
+Hospital: Apollo Hospital

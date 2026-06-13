@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P73641
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-11
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹19,341
+Insurance Claim ID: D4DCFBAC
+Hospital: Lilavati Hospital

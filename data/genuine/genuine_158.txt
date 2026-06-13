@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P86045
-Admission Date: 2026-02-23
-Discharge Date: 2026-02-28
-Diagnosis: Hypertension
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹86,727
-Insurance Claim ID: 594AB45C
-Hospital: Lilavati Hospital
+Patient Name: Neha Patel
+Patient ID: P78179
+Admission Date: 2026-05-27
+Discharge Date: 2026-06-01
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹34,004
+Insurance Claim ID: E8855E98
+Hospital: AIIMS

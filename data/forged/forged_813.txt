@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P68678
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-26
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹53,000
+Insurance Claim ID: 099D4CAB
+Hospital: AIIMS

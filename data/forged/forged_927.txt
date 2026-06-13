@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P10705
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹199,227
+Insurance Claim ID: 046B3B2A
+Hospital: Manipal Hospital

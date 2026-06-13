@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P40443
-Admission Date: 2026-03-03
-Discharge Date: 2026-03-01
-Diagnosis: Acute Gastroenteritis
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹2,877,322
-Insurance Claim ID: 07CFC464
-Hospital: Apollo Hospital
+Patient Name: Sunita Reddy
+Patient ID: P18424
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-24
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹340,632
+Insurance Claim ID: 4A18F093
+Hospital: Fortis Healthcare

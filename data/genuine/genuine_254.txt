@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P50404
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-03
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹195,863
-Insurance Claim ID: 6F613177
-Hospital: Manipal Hospital
+Patient Name: Anjali Reddy
+Patient ID: P76905
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-26
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹10,855
+Insurance Claim ID: 9B19C6C0
+Hospital: Lilavati Hospital

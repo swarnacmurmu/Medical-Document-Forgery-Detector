@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P17532
-Admission Date: 2026-05-25
+Patient Name: Rajesh Verma
+Patient ID: P38513
+Admission Date: 2026-05-27
 Discharge Date: 2026-05-29
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹157,721
-Insurance Claim ID: 3B95528B
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹12,158
+Insurance Claim ID: 7B8BCD19
 Hospital: AIIMS

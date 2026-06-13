@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P96658
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-27
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹23,986
+Insurance Claim ID: A3C9B2AA
+Hospital: Fortis Healthcare

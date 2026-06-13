@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P61802
+Admission Date: 2026-03-24
+Discharge Date: 2026-03-27
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹9,863
+Insurance Claim ID: 861D08FC
+Hospital: Lilavati Hospital

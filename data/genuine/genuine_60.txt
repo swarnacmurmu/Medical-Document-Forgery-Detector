@@ -1,9 +1,9 @@
-Patient Name: Rajesh Kumar
-Patient ID: P70293
-Admission Date: 2026-03-15
-Discharge Date: 2026-03-23
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹90,381
-Insurance Claim ID: 9578D6FD
-Hospital: Fortis Healthcare
+Patient Name: Amit Kumar
+Patient ID: P76144
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-30
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹28,652
+Insurance Claim ID: 39B47F06
+Hospital: Apollo Hospital

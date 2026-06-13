@@ -1,9 +1,9 @@
-Patient Name: Manish Verma
-Patient ID: P19218
-Admission Date: 2026-05-21
-Discharge Date: 2026-05-20
-Diagnosis: Type 2 Diabetes
+Patient Name: Sunita Joshi
+Patient ID: P86198
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-04
+Diagnosis: Migraine
 Treatment: Rest and paracetamol
-Total Amount: ₹719,208
-Insurance Claim ID: 81948AEF
-Hospital: Manipal Hospital
+Total Amount: ₹44,472
+Insurance Claim ID: 563D8C51
+Hospital: Apollo Hospital

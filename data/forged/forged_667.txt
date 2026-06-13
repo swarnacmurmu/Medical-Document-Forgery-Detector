@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P45480
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-21
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹85,208
+Insurance Claim ID: 8B24809C
+Hospital: Lilavati Hospital

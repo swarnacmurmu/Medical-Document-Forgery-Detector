@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P56232
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-20
-Diagnosis: Dengue Fever
-Treatment: Azithromycin course
-Total Amount: ₹199,132
-Insurance Claim ID: 5DA0446C
-Hospital: Fortis Healthcare
+Patient Name: Rajesh Menon
+Patient ID: P86659
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-19
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹8,505
+Insurance Claim ID: 77C677BB
+Hospital: Manipal Hospital

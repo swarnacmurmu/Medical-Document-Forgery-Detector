@@ -1,0 +1,9 @@
+Patient Name: Neha Singh
+Patient ID: P13318
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-06
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹8,926
+Insurance Claim ID: AA93112A
+Hospital: AIIMS

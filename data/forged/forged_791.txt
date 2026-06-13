@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P50283
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-07
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹25,641
+Insurance Claim ID: D4B74D8D
+Hospital: Apollo Hospital

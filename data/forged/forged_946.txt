@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P54822
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-14
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹73,340
+Insurance Claim ID: 0104F674
+Hospital: AIIMS

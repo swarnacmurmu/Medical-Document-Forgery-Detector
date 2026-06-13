@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P83395
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-13
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹286,326
+Insurance Claim ID: 1A04132C
+Hospital: AIIMS

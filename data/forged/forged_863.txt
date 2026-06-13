@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P99367
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-23
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹2,262
+Insurance Claim ID: 6D4FA3C3
+Hospital: Lilavati Hospital

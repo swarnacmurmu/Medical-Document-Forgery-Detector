@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P35611
-Admission Date: 2026-02-28
-Discharge Date: 2026-03-06
-Diagnosis: Pneumonia
-Treatment: Antibiotics for 5 days
-Total Amount: ₹67,222
-Insurance Claim ID: 906E83F1
-Hospital: Manipal Hospital
+Patient Name: Vikram Joshi
+Patient ID: P45745
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-18
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹10,731
+Insurance Claim ID: CF675373
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Pooja Singh
-Patient ID: P66500
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-29
-Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹152,884
-Insurance Claim ID: E37CDAB7
+Patient Name: Priya Joshi
+Patient ID: P79992
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-08
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹8,369
+Insurance Claim ID: 01AEBAF3
 Hospital: Fortis Healthcare

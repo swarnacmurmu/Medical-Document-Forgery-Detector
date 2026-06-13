@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P47980
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-30
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹42,439
-Insurance Claim ID: E39CB1D9
+Patient Name: Neha Patel
+Patient ID: P90409
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-05
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹96,440
+Insurance Claim ID: 50E3BFFD
 Hospital: Lilavati Hospital

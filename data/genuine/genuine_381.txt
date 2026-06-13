@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P87748
-Admission Date: 2026-06-05
-Discharge Date: 2026-06-13
-Diagnosis: COVID-19
+Patient Name: Sunita Reddy
+Patient ID: P27164
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-27
+Diagnosis: Type 2 Diabetes
 Treatment: Metformin 500mg twice daily
-Total Amount: ₹190,249
-Insurance Claim ID: 6FBAA086
-Hospital: Lilavati Hospital
+Total Amount: ₹9,930
+Insurance Claim ID: 846D9F8D
+Hospital: Manipal Hospital

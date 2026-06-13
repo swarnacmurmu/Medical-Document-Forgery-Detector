@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P11136
-Admission Date: 2026-05-26
-Discharge Date: 2026-05-23
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹81,514
-Insurance Claim ID: 020B398B
-Hospital: Lilavati Hospital
+Patient Name: Manish Kumar
+Patient ID: P95938
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-17
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹376,264
+Insurance Claim ID: F5D553DD
+Hospital: Manipal Hospital

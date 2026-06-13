@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P39612
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-16
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹35,224
+Insurance Claim ID: A4F5DE25
+Hospital: Lilavati Hospital

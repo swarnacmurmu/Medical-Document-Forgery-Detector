@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P89882
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-17
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹4,724
+Insurance Claim ID: AF5D7FAA
+Hospital: Fortis Healthcare

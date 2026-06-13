@@ -1,9 +1,9 @@
-Patient Name: Manish Reddy
-Patient ID: P25819
-Admission Date: 2026-06-13
-Discharge Date: 2026-06-23
-Diagnosis: Asthma
+Patient Name: Rajesh Gupta
+Patient ID: P56629
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-28
+Diagnosis: Urinary Tract Infection
 Treatment: Antibiotics for 5 days
-Total Amount: ₹52,642
-Insurance Claim ID: 14FF67F5
+Total Amount: ₹11,162
+Insurance Claim ID: B8DBE95D
 Hospital: Lilavati Hospital

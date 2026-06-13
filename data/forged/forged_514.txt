@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P91753
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-08
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹393,530
+Insurance Claim ID: 2D05F8F2
+Hospital: Apollo Hospital

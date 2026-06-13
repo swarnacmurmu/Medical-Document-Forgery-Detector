@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P62793
-Admission Date: 2026-05-02
-Discharge Date: 2026-05-01
-Diagnosis: Acute Gastroenteritis
-Treatment: Sumatriptan as needed
-Total Amount: ₹59,127
-Insurance Claim ID: BA3C52FE
+Patient Name: Priya Gupta
+Patient ID: P71877
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-27
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹49,266
+Insurance Claim ID: 39179BE0
 Hospital: Manipal Hospital

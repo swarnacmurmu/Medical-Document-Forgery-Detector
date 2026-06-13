@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P82077
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-21
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹17,028
+Insurance Claim ID: E3E541CA
+Hospital: AIIMS

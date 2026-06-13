@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P65970
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-17
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹28,310
+Insurance Claim ID: F01EDF27
+Hospital: Apollo Hospital

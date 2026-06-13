@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P13302
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-27
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹5,626
+Insurance Claim ID: 4F2610E9
+Hospital: Lilavati Hospital

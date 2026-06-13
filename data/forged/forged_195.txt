@@ -1,9 +1,9 @@
-Patient Name: Manish Reddy
-Patient ID: P99510
-Admission Date: 2026-03-25
-Discharge Date: 2026-03-29
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹24,828
-Insurance Claim ID: 1F67760D
+Patient Name: Anjali Nair
+Patient ID: P41396
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-03
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹32,413
+Insurance Claim ID: EC64C7DE
 Hospital: Apollo Hospital

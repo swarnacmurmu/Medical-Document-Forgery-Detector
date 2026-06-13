@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P69758
-Admission Date: 2026-05-10
-Discharge Date: 2026-05-09
-Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹3,322,420
-Insurance Claim ID: 20DA34E4
-Hospital: Apollo Hospital
+Patient Name: Vikram Reddy
+Patient ID: P84505
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-21
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹70,479
+Insurance Claim ID: 4B40CD04
+Hospital: Manipal Hospital

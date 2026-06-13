@@ -1,9 +1,9 @@
-Patient Name: Vikram Reddy
-Patient ID: P14685
-Admission Date: 2026-04-24
-Discharge Date: 2026-05-02
-Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,595,048
-Insurance Claim ID: 6B47CE3E
-Hospital: Fortis Healthcare
+Patient Name: Sunita Patel
+Patient ID: P57683
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-13
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹35,765
+Insurance Claim ID: 98BBAFBB
+Hospital: Apollo Hospital

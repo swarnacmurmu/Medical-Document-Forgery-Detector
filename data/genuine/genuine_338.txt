@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P79455
-Admission Date: 2026-05-06
-Discharge Date: 2026-05-12
-Diagnosis: Type 2 Diabetes
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹56,443
-Insurance Claim ID: 5E381564
-Hospital: Fortis Healthcare
+Patient Name: Rahul Singh
+Patient ID: P23924
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-21
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹11,076
+Insurance Claim ID: 48925187
+Hospital: Manipal Hospital

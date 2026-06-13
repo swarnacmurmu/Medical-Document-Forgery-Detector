@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P28492
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-25
-Diagnosis: Asthma
-Treatment: Inhaler and monitoring
-Total Amount: ₹135,222
-Insurance Claim ID: B38F9A33
+Patient Name: Pooja Nair
+Patient ID: P41927
+Admission Date: 2026-03-28
+Discharge Date: 2026-04-03
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹53,501
+Insurance Claim ID: 3290E10A
 Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P42361
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-21
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹577,416
+Insurance Claim ID: 97A487A3
+Hospital: Apollo Hospital

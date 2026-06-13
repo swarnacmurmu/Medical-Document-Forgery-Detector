@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P70085
+Admission Date: 2026-03-13
+Discharge Date: 2026-03-15
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹6,667
+Insurance Claim ID: 937D72E4
+Hospital: AIIMS

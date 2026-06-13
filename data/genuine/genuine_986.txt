@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P60453
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-10
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹10,804
+Insurance Claim ID: A9496C4B
+Hospital: Lilavati Hospital

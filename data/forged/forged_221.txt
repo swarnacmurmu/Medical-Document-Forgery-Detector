@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P34105
-Admission Date: 2026-03-19
-Discharge Date: 2026-03-17
-Diagnosis: Pneumonia
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹585,162
-Insurance Claim ID: B261826F
-Hospital: Lilavati Hospital
+Patient Name: Rahul Patel
+Patient ID: P36381
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-26
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹41,442
+Insurance Claim ID: F7270B61
+Hospital: Apollo Hospital

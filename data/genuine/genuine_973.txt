@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P19912
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-14
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹39,585
+Insurance Claim ID: 6A873172
+Hospital: Apollo Hospital

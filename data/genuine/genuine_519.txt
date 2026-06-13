@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P20484
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-28
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹13,495
+Insurance Claim ID: 6DAD5567
+Hospital: Manipal Hospital

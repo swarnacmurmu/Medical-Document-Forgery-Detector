@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P67093
-Admission Date: 2026-04-20
-Discharge Date: 2026-04-30
-Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹154,682
-Insurance Claim ID: E01C57DF
+Patient Name: Pooja Gupta
+Patient ID: P74091
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-01
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹4,754
+Insurance Claim ID: 3563EE18
 Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P98651
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-02
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹13,533
+Insurance Claim ID: 0B2ED9B3
+Hospital: Apollo Hospital

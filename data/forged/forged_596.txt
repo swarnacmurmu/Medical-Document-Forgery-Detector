@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P64289
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-30
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹5,295
+Insurance Claim ID: B93C8B66
+Hospital: Fortis Healthcare

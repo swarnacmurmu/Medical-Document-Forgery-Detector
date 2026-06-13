@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P61853
-Admission Date: 2026-05-11
-Discharge Date: 2026-05-12
-Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹130,561
-Insurance Claim ID: D1670092
-Hospital: Manipal Hospital
+Patient Name: Priya Singh
+Patient ID: P22163
+Admission Date: 2026-04-24
+Discharge Date: 2026-05-02
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹60,050
+Insurance Claim ID: DAAFE9DD
+Hospital: Fortis Healthcare

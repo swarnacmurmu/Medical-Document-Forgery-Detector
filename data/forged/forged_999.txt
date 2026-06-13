@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P97681
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-28
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹248,390
+Insurance Claim ID: B609BEBD
+Hospital: Apollo Hospital

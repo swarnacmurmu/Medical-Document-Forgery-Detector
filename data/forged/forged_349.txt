@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P45551
-Admission Date: 2026-04-08
-Discharge Date: 2026-04-07
-Diagnosis: Migraine
-Treatment: Sumatriptan as needed
-Total Amount: ₹55,983
-Insurance Claim ID: 8F7901BA
-Hospital: Lilavati Hospital
+Patient Name: Vikram Kumar
+Patient ID: P89914
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-03
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹144,875
+Insurance Claim ID: DAEDFA61
+Hospital: Apollo Hospital

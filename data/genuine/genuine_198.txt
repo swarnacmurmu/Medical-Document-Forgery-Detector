@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P69658
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-23
-Diagnosis: Typhoid
-Treatment: Azithromycin course
-Total Amount: ₹13,486
-Insurance Claim ID: 0723FCD9
-Hospital: AIIMS
+Patient Name: Priya Patel
+Patient ID: P25924
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-21
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹15,082
+Insurance Claim ID: C62AFA3B
+Hospital: Lilavati Hospital

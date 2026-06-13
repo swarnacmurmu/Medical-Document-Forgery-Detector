@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P74739
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-01
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹28,424
+Insurance Claim ID: A0446081
+Hospital: Manipal Hospital

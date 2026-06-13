@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P71065
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-19
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹51,196
+Insurance Claim ID: B897C7DB
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P58033
-Admission Date: 2026-04-27
-Discharge Date: 2026-04-26
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹541,525
-Insurance Claim ID: A511DB82
-Hospital: Fortis Healthcare
+Patient Name: Vikram Sharma
+Patient ID: P94680
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-17
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹75,438
+Insurance Claim ID: BEAA94F4
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Rajesh Singh
-Patient ID: P97085
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-20
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹45,775
-Insurance Claim ID: 1F4D94EB
+Patient Name: Rajesh Kumar
+Patient ID: P55225
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-16
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹19,551
+Insurance Claim ID: 8C12A529
 Hospital: Lilavati Hospital

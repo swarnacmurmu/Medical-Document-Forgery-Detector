@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P55487
-Admission Date: 2026-04-29
-Discharge Date: 2026-04-30
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹79,415
-Insurance Claim ID: 04FCE435
+Patient Name: Rahul Gupta
+Patient ID: P24149
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-16
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹12,222
+Insurance Claim ID: 2E29405B
 Hospital: AIIMS

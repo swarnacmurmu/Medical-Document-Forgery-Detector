@@ -1,0 +1,9 @@
+Patient Name: Vikram Joshi
+Patient ID: P69173
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-18
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹30,642
+Insurance Claim ID: 136D4A3E
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P46454
-Admission Date: 2026-05-31
-Discharge Date: 2026-05-30
-Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,405,391
-Insurance Claim ID: 224D1BAB
-Hospital: Fortis Healthcare
+Patient Name: Vikram Joshi
+Patient ID: P71977
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-20
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹35,084
+Insurance Claim ID: AF891F0A
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Manish Menon
-Patient ID: P68568
-Admission Date: 2026-04-15
-Discharge Date: 2026-04-23
-Diagnosis: Typhoid
+Patient Name: Rajesh Singh
+Patient ID: P29159
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-15
+Diagnosis: Type 2 Diabetes
 Treatment: Rest and paracetamol
-Total Amount: ₹141,210
-Insurance Claim ID: AB357242
-Hospital: AIIMS
+Total Amount: ₹6,038
+Insurance Claim ID: C2B71C1D
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P83415
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-16
+Diagnosis: Hypertension
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹3,341
+Insurance Claim ID: 0F8C4F5E
+Hospital: Apollo Hospital

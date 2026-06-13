@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P70555
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-06
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹10,763
+Insurance Claim ID: E78808D7
+Hospital: Apollo Hospital

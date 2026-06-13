@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P48833
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-17
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹4,426
+Insurance Claim ID: 0A82C6B5
+Hospital: Fortis Healthcare

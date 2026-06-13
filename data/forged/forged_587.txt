@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P55161
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-06
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹49,122
+Insurance Claim ID: C6E65D86
+Hospital: Apollo Hospital

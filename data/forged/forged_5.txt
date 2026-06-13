@@ -1,9 +1,9 @@
-Patient Name: Amit Reddy
-Patient ID: P13928
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-03
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹858,935
-Insurance Claim ID: E67C9EE4
-Hospital: AIIMS
+Patient Name: Manish Joshi
+Patient ID: P71225
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-05
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹27,312
+Insurance Claim ID: C170B54C
+Hospital: Lilavati Hospital

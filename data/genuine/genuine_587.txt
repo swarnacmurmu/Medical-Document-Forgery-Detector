@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P29506
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-29
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹62,788
+Insurance Claim ID: A50F1E6F
+Hospital: Lilavati Hospital

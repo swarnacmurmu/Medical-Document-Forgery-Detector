@@ -1,9 +1,9 @@
-Patient Name: Amit Gupta
-Patient ID: P59454
-Admission Date: 2026-03-29
-Discharge Date: 2026-04-07
-Diagnosis: Urinary Tract Infection
-Treatment: Rest and paracetamol
-Total Amount: ₹181,692
-Insurance Claim ID: AF108D11
-Hospital: AIIMS
+Patient Name: Neha Verma
+Patient ID: P15866
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-16
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹15,552
+Insurance Claim ID: E09B8555
+Hospital: Manipal Hospital

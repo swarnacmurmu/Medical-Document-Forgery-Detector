@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P90812
-Admission Date: 2026-04-29
-Discharge Date: 2026-05-06
+Patient Name: Neha Verma
+Patient ID: P49984
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-21
 Diagnosis: Acute Gastroenteritis
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹48,149
-Insurance Claim ID: D09863D0
-Hospital: AIIMS
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹6,927
+Insurance Claim ID: DEBDBB78
+Hospital: Manipal Hospital

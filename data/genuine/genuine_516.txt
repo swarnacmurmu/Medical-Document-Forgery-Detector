@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P72275
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-12
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹10,352
+Insurance Claim ID: 2353A685
+Hospital: Fortis Healthcare

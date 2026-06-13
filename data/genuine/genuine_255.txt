@@ -1,9 +1,9 @@
-Patient Name: Rahul Sharma
-Patient ID: P48636
-Admission Date: 2026-04-11
-Discharge Date: 2026-04-21
-Diagnosis: Urinary Tract Infection
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹171,181
-Insurance Claim ID: 821E2F22
-Hospital: Fortis Healthcare
+Patient Name: Sunita Gupta
+Patient ID: P34663
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-27
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹33,906
+Insurance Claim ID: D9154E32
+Hospital: Apollo Hospital

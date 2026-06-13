@@ -1,9 +1,9 @@
-Patient Name: Priya Kumar
-Patient ID: P82288
-Admission Date: 2026-05-20
-Discharge Date: 2026-05-22
-Diagnosis: Pneumonia
-Treatment: Rest and paracetamol
-Total Amount: ₹83,658
-Insurance Claim ID: 227D69B2
-Hospital: Manipal Hospital
+Patient Name: Priya Reddy
+Patient ID: P28799
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-29
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹11,375
+Insurance Claim ID: 1FC823A4
+Hospital: Lilavati Hospital

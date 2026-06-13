@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P50424
-Admission Date: 2026-05-03
-Discharge Date: 2026-05-06
-Diagnosis: Hypertension
-Treatment: Inhaler and monitoring
-Total Amount: ₹40,215
-Insurance Claim ID: 4C18357F
+Patient Name: Amit Nair
+Patient ID: P62509
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-26
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹30,956
+Insurance Claim ID: DD07F902
 Hospital: Fortis Healthcare

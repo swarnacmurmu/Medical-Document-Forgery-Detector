@@ -1,9 +1,9 @@
-Patient Name: Neha Verma
-Patient ID: P56606
-Admission Date: 2026-03-26
-Discharge Date: 2026-04-02
-Diagnosis: COVID-19
-Treatment: Inhaler and monitoring
-Total Amount: ₹58,435
-Insurance Claim ID: B5020A79
-Hospital: Apollo Hospital
+Patient Name: Sunita Kumar
+Patient ID: P73189
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-26
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹10,232
+Insurance Claim ID: 425D3CF5
+Hospital: Lilavati Hospital

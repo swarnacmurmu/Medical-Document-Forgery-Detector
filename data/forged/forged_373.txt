@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P16193
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-06
+Patient Name: Sunita Reddy
+Patient ID: P64971
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-18
 Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,470,211
-Insurance Claim ID: D5C57D1D
-Hospital: Apollo Hospital
+Treatment: Azithromycin course
+Total Amount: ₹193,792
+Insurance Claim ID: B2E6DA56
+Hospital: Fortis Healthcare

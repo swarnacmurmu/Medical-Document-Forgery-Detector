@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P47574
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-26
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹26,306
+Insurance Claim ID: BD2268AC
+Hospital: Fortis Healthcare

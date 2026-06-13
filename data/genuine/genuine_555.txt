@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P97280
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-06
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹4,353
+Insurance Claim ID: 7754C517
+Hospital: AIIMS

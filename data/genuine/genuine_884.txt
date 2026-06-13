@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P19898
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-23
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹14,675
+Insurance Claim ID: CDA2E775
+Hospital: AIIMS

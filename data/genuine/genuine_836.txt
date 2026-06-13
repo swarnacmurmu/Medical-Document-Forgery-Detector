@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P10983
+Admission Date: 2026-02-23
+Discharge Date: 2026-03-02
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹47,288
+Insurance Claim ID: 574DEEDC
+Hospital: Apollo Hospital

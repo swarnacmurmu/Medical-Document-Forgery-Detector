@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P17239
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-12
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹3,993
+Insurance Claim ID: 709C3809
+Hospital: Manipal Hospital

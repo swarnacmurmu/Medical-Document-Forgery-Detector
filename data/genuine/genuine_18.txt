@@ -1,9 +1,9 @@
-Patient Name: Rahul Nair
-Patient ID: P40073
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-14
+Patient Name: Pooja Patel
+Patient ID: P10843
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-13
 Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹16,994
-Insurance Claim ID: DCE0E0FC
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹10,269
+Insurance Claim ID: EEEC426A
 Hospital: Fortis Healthcare

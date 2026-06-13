@@ -1,9 +1,9 @@
-Patient Name: Sunita Gupta
-Patient ID: P16828
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-20
-Diagnosis: Typhoid
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹491,015
-Insurance Claim ID: F8AB1EEE
-Hospital: Apollo Hospital
+Patient Name: Neha Kumar
+Patient ID: P74210
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-07
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹174,726
+Insurance Claim ID: FBEF12CD
+Hospital: Fortis Healthcare

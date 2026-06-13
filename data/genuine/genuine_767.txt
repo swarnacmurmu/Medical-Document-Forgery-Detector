@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P37555
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-21
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹4,637
+Insurance Claim ID: FBD44269
+Hospital: Manipal Hospital

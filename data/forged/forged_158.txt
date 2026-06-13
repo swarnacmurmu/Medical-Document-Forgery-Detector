@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P15269
-Admission Date: 2026-02-23
-Discharge Date: 2026-02-22
-Diagnosis: Hypertension
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹867,270
-Insurance Claim ID: 594AB45C
-Hospital: Lilavati Hospital
+Patient Name: Rahul Nair
+Patient ID: P12090
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-15
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹43,140
+Insurance Claim ID: 46E44B49
+Hospital: AIIMS

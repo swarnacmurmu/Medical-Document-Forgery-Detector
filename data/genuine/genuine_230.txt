@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P61516
-Admission Date: 2026-04-28
-Discharge Date: 2026-05-01
-Diagnosis: Pneumonia
-Treatment: Rest and paracetamol
-Total Amount: ₹136,847
-Insurance Claim ID: 39881B08
-Hospital: Fortis Healthcare
+Patient Name: Anjali Gupta
+Patient ID: P81201
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-25
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹6,343
+Insurance Claim ID: 66C2E591
+Hospital: Lilavati Hospital

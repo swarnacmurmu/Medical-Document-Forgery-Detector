@@ -1,9 +1,9 @@
-Patient Name: Pooja Menon
-Patient ID: P16453
-Admission Date: 2026-04-30
-Discharge Date: 2026-04-29
-Diagnosis: Migraine
-Treatment: Inhaler and monitoring
-Total Amount: ₹1,123,938
-Insurance Claim ID: 7BD31D13
-Hospital: Manipal Hospital
+Patient Name: Rahul Verma
+Patient ID: P58010
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-14
+Diagnosis: Acute Gastroenteritis
+Treatment: Sumatriptan as needed
+Total Amount: ₹60,980
+Insurance Claim ID: 9E7E6E1A
+Hospital: Fortis Healthcare

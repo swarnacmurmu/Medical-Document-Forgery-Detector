@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P37925
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-31
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹27,860
+Insurance Claim ID: E99EB3EA
+Hospital: Apollo Hospital

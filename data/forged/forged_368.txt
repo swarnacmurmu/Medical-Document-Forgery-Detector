@@ -1,9 +1,9 @@
-Patient Name: Vikram Gupta
-Patient ID: P36173
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-13
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹201,240
-Insurance Claim ID: 2E494378
-Hospital: Apollo Hospital
+Patient Name: Priya Singh
+Patient ID: P98037
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-20
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹9,317
+Insurance Claim ID: 8F418F16
+Hospital: AIIMS

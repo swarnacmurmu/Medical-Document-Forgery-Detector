@@ -1,9 +1,9 @@
-Patient Name: Anjali Singh
-Patient ID: P65588
-Admission Date: 2026-02-20
-Discharge Date: 2026-02-28
-Diagnosis: Asthma
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹33,071
-Insurance Claim ID: 383E6071
-Hospital: AIIMS
+Patient Name: Amit Joshi
+Patient ID: P15119
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-11
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹20,907
+Insurance Claim ID: D7D34120
+Hospital: Fortis Healthcare

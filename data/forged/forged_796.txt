@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P26744
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-10
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹258,848
+Insurance Claim ID: 67BA67CE
+Hospital: Apollo Hospital

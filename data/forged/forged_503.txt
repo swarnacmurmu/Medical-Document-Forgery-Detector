@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P61743
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-08
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹37,818
+Insurance Claim ID: 28252AF2
+Hospital: AIIMS

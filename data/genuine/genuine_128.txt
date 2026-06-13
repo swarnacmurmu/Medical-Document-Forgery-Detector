@@ -1,9 +1,9 @@
-Patient Name: Priya Reddy
-Patient ID: P13590
-Admission Date: 2026-03-25
-Discharge Date: 2026-04-04
-Diagnosis: Dengue Fever
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹49,286
-Insurance Claim ID: 7DEA8EAC
-Hospital: Fortis Healthcare
+Patient Name: Rahul Singh
+Patient ID: P11196
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-02
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹14,231
+Insurance Claim ID: 798B9264
+Hospital: Lilavati Hospital

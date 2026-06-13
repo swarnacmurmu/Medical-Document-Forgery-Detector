@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P74123
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-17
+Diagnosis: Type 2 Diabetes
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹13,670
+Insurance Claim ID: A26010B8
+Hospital: Lilavati Hospital

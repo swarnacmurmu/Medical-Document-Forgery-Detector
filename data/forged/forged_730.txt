@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P83018
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-09
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹49,896
+Insurance Claim ID: 45385338
+Hospital: Apollo Hospital

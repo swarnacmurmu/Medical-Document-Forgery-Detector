@@ -1,9 +1,9 @@
-Patient Name: Amit Kumar
-Patient ID: P11886
-Admission Date: 2026-05-24
-Discharge Date: 2026-06-01
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹259,488
-Insurance Claim ID: C36D8EB9
+Patient Name: Neha Verma
+Patient ID: P48057
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-30
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹13,563
+Insurance Claim ID: E4292E01
 Hospital: AIIMS

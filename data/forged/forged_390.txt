@@ -1,9 +1,9 @@
-Patient Name: Rajesh Sharma
-Patient ID: P36234
-Admission Date: 2026-04-24
-Discharge Date: 2026-04-21
-Diagnosis: Pneumonia
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹634,560
-Insurance Claim ID: 1F57DA2F
-Hospital: Manipal Hospital
+Patient Name: Priya Joshi
+Patient ID: P36415
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-03
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹143,148
+Insurance Claim ID: 37A1A07E
+Hospital: AIIMS

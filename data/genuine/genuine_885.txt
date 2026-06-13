@@ -1,0 +1,9 @@
+Patient Name: Anjali Reddy
+Patient ID: P87960
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹6,930
+Insurance Claim ID: 03F2E487
+Hospital: Lilavati Hospital

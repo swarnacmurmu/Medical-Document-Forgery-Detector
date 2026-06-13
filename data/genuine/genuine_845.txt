@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P46972
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-17
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹27,821
+Insurance Claim ID: EAB18876
+Hospital: Manipal Hospital

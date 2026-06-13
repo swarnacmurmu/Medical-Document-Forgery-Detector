@@ -1,9 +1,9 @@
-Patient Name: Neha Joshi
-Patient ID: P64814
-Admission Date: 2026-05-26
-Discharge Date: 2026-06-03
-Diagnosis: Asthma
-Treatment: Azithromycin course
-Total Amount: ₹81,514
-Insurance Claim ID: 020B398B
+Patient Name: Amit Kumar
+Patient ID: P23865
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-29
+Diagnosis: Hypertension
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹3,383
+Insurance Claim ID: 845E2E7B
 Hospital: Lilavati Hospital

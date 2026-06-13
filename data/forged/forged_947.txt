@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P76633
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-13
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹64,640
+Insurance Claim ID: 3F735204
+Hospital: Manipal Hospital

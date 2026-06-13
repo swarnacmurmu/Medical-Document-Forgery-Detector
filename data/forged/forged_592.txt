@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P63733
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-06
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹34,420
+Insurance Claim ID: 478F3B78
+Hospital: Manipal Hospital

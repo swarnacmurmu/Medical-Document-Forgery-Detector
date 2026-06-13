@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P63530
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-03
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹5,210
+Insurance Claim ID: B097D98C
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P18870
-Admission Date: 2026-04-13
-Discharge Date: 2026-04-11
-Diagnosis: Acute Gastroenteritis
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹105,908
-Insurance Claim ID: 74513542
+Patient Name: Rahul Verma
+Patient ID: P97122
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-07
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹6,189
+Insurance Claim ID: 70483097
 Hospital: AIIMS

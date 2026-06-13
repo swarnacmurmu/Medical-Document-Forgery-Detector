@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P47894
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹8,269
+Insurance Claim ID: 9F91EEF5
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P21911
-Admission Date: 2026-05-09
-Discharge Date: 2026-05-18
-Diagnosis: Hypertension
+Patient Name: Amit Verma
+Patient ID: P78452
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-16
+Diagnosis: Migraine
 Treatment: Sumatriptan as needed
-Total Amount: ₹181,364
-Insurance Claim ID: 57B7E204
-Hospital: Manipal Hospital
+Total Amount: ₹21,957
+Insurance Claim ID: 65D0297A
+Hospital: Fortis Healthcare

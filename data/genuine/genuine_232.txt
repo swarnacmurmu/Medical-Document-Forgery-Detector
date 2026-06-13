@@ -1,9 +1,9 @@
-Patient Name: Manish Reddy
-Patient ID: P16954
-Admission Date: 2026-03-30
-Discharge Date: 2026-04-05
-Diagnosis: Acute Gastroenteritis
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹9,600
-Insurance Claim ID: 386C31EB
-Hospital: Lilavati Hospital
+Patient Name: Neha Reddy
+Patient ID: P68279
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-29
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹73,361
+Insurance Claim ID: 30A6A53E
+Hospital: Fortis Healthcare

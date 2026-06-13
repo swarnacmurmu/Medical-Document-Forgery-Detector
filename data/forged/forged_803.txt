@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P16763
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-29
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹3,150
+Insurance Claim ID: 3E890DE8
+Hospital: Manipal Hospital

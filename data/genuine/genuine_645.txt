@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P45062
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-23
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹11,627
+Insurance Claim ID: 12DC1565
+Hospital: Lilavati Hospital

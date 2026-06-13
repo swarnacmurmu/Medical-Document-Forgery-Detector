@@ -1,9 +1,9 @@
-Patient Name: Manish Singh
-Patient ID: P67290
-Admission Date: 2026-05-24
-Discharge Date: 2026-06-03
-Diagnosis: Urinary Tract Infection
-Treatment: Sumatriptan as needed
-Total Amount: ₹193,339
-Insurance Claim ID: B22CB1A2
-Hospital: Manipal Hospital
+Patient Name: Neha Singh
+Patient ID: P38545
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-16
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹27,883
+Insurance Claim ID: 82AEEAE6
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P74629
+Admission Date: 2026-03-13
+Discharge Date: 2026-03-15
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹5,272
+Insurance Claim ID: 79FAD21C
+Hospital: Apollo Hospital

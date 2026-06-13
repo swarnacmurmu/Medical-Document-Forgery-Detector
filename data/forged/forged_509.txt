@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P64118
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹9,236
+Insurance Claim ID: 240DDFCF
+Hospital: AIIMS

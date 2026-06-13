@@ -1,9 +1,9 @@
-Patient Name: Sunita Patel
-Patient ID: P15970
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-27
-Diagnosis: Acute Gastroenteritis
-Treatment: Rest and paracetamol
-Total Amount: ₹88,982
-Insurance Claim ID: BF934CC9
-Hospital: AIIMS
+Patient Name: Vikram Patel
+Patient ID: P26421
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-03
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹411,313
+Insurance Claim ID: 84EFDC90
+Hospital: Lilavati Hospital

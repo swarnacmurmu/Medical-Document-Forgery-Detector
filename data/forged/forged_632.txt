@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P76770
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-17
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹22,989
+Insurance Claim ID: 71024CFC
+Hospital: Lilavati Hospital

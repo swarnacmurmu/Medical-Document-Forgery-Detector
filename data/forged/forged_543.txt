@@ -1,0 +1,9 @@
+Patient Name: Sunita Patel
+Patient ID: P79863
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-15
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹37,914
+Insurance Claim ID: CCEBC327
+Hospital: Apollo Hospital

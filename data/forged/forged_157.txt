@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P42441
-Admission Date: 2026-02-26
-Discharge Date: 2026-02-24
-Diagnosis: Acute Gastroenteritis
-Treatment: Sumatriptan as needed
-Total Amount: ₹1,103,736
-Insurance Claim ID: E9AF4E78
-Hospital: Lilavati Hospital
+Patient Name: Priya Menon
+Patient ID: P33548
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-19
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹25,831
+Insurance Claim ID: 5E1B4403
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P26737
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-23
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg daily
+Total Amount: ₹64,130
+Insurance Claim ID: E6E11A7C
+Hospital: Lilavati Hospital

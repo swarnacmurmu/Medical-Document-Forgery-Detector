@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P44255
-Admission Date: 2026-04-07
-Discharge Date: 2026-04-12
-Diagnosis: COVID-19
-Treatment: Sumatriptan as needed
-Total Amount: ₹106,133
-Insurance Claim ID: A965E2EE
-Hospital: AIIMS
+Patient Name: Sunita Reddy
+Patient ID: P30558
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-24
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹14,700
+Insurance Claim ID: 8F2F7BF7
+Hospital: Apollo Hospital

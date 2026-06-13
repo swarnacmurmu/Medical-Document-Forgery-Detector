@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P50902
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-24
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹51,072
+Insurance Claim ID: 670B4512
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P46891
-Admission Date: 2026-05-26
-Discharge Date: 2026-06-03
-Diagnosis: Migraine
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹76,178
-Insurance Claim ID: 40C38DAA
-Hospital: Apollo Hospital
+Patient Name: Amit Joshi
+Patient ID: P56619
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-07
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹10,838
+Insurance Claim ID: A238D959
+Hospital: Lilavati Hospital

@@ -1,9 +1,9 @@
-Patient Name: Pooja Patel
-Patient ID: P42455
-Admission Date: 2026-02-26
-Discharge Date: 2026-03-03
+Patient Name: Vikram Sharma
+Patient ID: P98771
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-07
 Diagnosis: Type 2 Diabetes
-Treatment: Rest and paracetamol
-Total Amount: ₹26,127
-Insurance Claim ID: 2C635663
-Hospital: AIIMS
+Treatment: Insulin as needed
+Total Amount: ₹8,380
+Insurance Claim ID: 65A35FB4
+Hospital: Apollo Hospital

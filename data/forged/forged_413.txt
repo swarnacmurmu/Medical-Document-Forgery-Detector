@@ -1,9 +1,9 @@
-Patient Name: Neha Sharma
-Patient ID: P75011
-Admission Date: 2026-05-22
-Discharge Date: 2026-06-01
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹735,102
-Insurance Claim ID: C734E343
-Hospital: Lilavati Hospital
+Patient Name: Vikram Verma
+Patient ID: P16283
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-24
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹38,904
+Insurance Claim ID: 55CF276D
+Hospital: Fortis Healthcare

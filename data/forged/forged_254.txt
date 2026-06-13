@@ -1,9 +1,9 @@
-Patient Name: Anjali Menon
-Patient ID: P50404
-Admission Date: 2026-06-02
-Discharge Date: 2026-06-03
-Diagnosis: COVID-19
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹195,863
-Insurance Claim ID: 6F613177
-Hospital: Manipal Hospital
+Patient Name: Anjali Verma
+Patient ID: P65333
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-07
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹32,922
+Insurance Claim ID: 29393420
+Hospital: Lilavati Hospital

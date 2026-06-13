@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P40945
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-03
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹12,891
+Insurance Claim ID: FC788F3F
+Hospital: Lilavati Hospital

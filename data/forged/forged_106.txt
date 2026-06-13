@@ -1,9 +1,9 @@
-Patient Name: Anjali Sharma
-Patient ID: P15158
-Admission Date: 2026-04-03
-Discharge Date: 2026-04-01
-Diagnosis: COVID-19
-Treatment: Azithromycin course
-Total Amount: ₹109,864
-Insurance Claim ID: 0FAD4B0F
-Hospital: AIIMS
+Patient Name: Priya Patel
+Patient ID: P52326
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-12
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹49,965
+Insurance Claim ID: BAF7793C
+Hospital: Fortis Healthcare

@@ -1,9 +1,9 @@
-Patient Name: Sunita Kumar
-Patient ID: P91368
+Patient Name: Rahul Nair
+Patient ID: P60562
 Admission Date: 2026-04-27
-Discharge Date: 2026-04-29
-Diagnosis: Urinary Tract Infection
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹108,305
-Insurance Claim ID: A511DB82
-Hospital: Fortis Healthcare
+Discharge Date: 2026-05-03
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹41,167
+Insurance Claim ID: 92AB8750
+Hospital: Lilavati Hospital

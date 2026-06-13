@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P60131
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-28
-Diagnosis: Acute Gastroenteritis
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹22,217
-Insurance Claim ID: C59D6939
+Patient Name: Amit Nair
+Patient ID: P14966
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-18
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹47,115
+Insurance Claim ID: EB0E870E
 Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P72856
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-10
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹32,955
+Insurance Claim ID: 2C4B6580
+Hospital: Apollo Hospital

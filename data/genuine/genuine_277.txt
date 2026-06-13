@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P61623
-Admission Date: 2026-05-29
-Discharge Date: 2026-06-07
-Diagnosis: Asthma
-Treatment: Antibiotics for 5 days
-Total Amount: ₹189,365
-Insurance Claim ID: 1418E851
-Hospital: Fortis Healthcare
+Patient Name: Anjali Singh
+Patient ID: P13399
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-19
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹10,872
+Insurance Claim ID: 510714B1
+Hospital: AIIMS

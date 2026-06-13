@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P74960
-Admission Date: 2026-02-27
-Discharge Date: 2026-03-07
-Diagnosis: Migraine
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹13,185
-Insurance Claim ID: D39DB29F
-Hospital: Lilavati Hospital
+Patient Name: Sunita Verma
+Patient ID: P59803
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-08
+Diagnosis: Urinary Tract Infection
+Treatment: Ciprofloxacin course
+Total Amount: ₹78,904
+Insurance Claim ID: 47C2D915
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Sunita Sharma
-Patient ID: P80814
-Admission Date: 2026-06-09
-Discharge Date: 2026-06-06
-Diagnosis: Typhoid
+Patient Name: Vikram Singh
+Patient ID: P53318
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
 Treatment: Oseltamivir and supportive care
-Total Amount: ₹138,562
-Insurance Claim ID: 23F8FEC3
+Total Amount: ₹14,787
+Insurance Claim ID: 9CD5D069
 Hospital: Lilavati Hospital

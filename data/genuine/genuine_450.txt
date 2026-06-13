@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P27197
-Admission Date: 2026-04-05
-Discharge Date: 2026-04-09
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹122,054
-Insurance Claim ID: 66E7C1E3
+Patient Name: Priya Reddy
+Patient ID: P75723
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-07
+Diagnosis: Hypertension
+Treatment: Losartan 50mg daily
+Total Amount: ₹7,894
+Insurance Claim ID: 3989CF20
 Hospital: Manipal Hospital

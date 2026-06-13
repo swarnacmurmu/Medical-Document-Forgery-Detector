@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P11249
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-13
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹297,080
+Insurance Claim ID: 9C138F2C
+Hospital: Apollo Hospital

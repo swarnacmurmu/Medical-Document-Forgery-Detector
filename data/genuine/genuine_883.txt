@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P75209
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-31
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹89,215
+Insurance Claim ID: 4CEBDE74
+Hospital: AIIMS

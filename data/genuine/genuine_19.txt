@@ -1,9 +1,9 @@
-Patient Name: Vikram Singh
-Patient ID: P72712
-Admission Date: 2026-04-15
-Discharge Date: 2026-04-19
-Diagnosis: Type 2 Diabetes
-Treatment: Rest and paracetamol
-Total Amount: ₹126,527
-Insurance Claim ID: D68856EF
-Hospital: Manipal Hospital
+Patient Name: Neha Sharma
+Patient ID: P76916
+Admission Date: 2026-04-27
+Discharge Date: 2026-05-02
+Diagnosis: Typhoid
+Treatment: Ceftriaxone IV
+Total Amount: ₹16,634
+Insurance Claim ID: C167FAE7
+Hospital: Apollo Hospital

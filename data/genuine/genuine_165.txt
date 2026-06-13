@@ -1,9 +1,9 @@
-Patient Name: Neha Reddy
-Patient ID: P56066
-Admission Date: 2026-02-26
-Discharge Date: 2026-03-06
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹189,332
-Insurance Claim ID: 0855AFCB
-Hospital: AIIMS
+Patient Name: Neha Verma
+Patient ID: P76782
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-16
+Diagnosis: Typhoid
+Treatment: Antibiotics and hydration
+Total Amount: ₹27,034
+Insurance Claim ID: 4AD5AE63
+Hospital: Lilavati Hospital

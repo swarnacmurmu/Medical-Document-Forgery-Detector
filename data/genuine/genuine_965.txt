@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P89187
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-09
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹5,427
+Insurance Claim ID: C8B08E34
+Hospital: Lilavati Hospital

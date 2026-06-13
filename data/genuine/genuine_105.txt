@@ -1,9 +1,9 @@
-Patient Name: Vikram Reddy
-Patient ID: P17007
-Admission Date: 2026-03-09
-Discharge Date: 2026-03-12
-Diagnosis: Type 2 Diabetes
-Treatment: Inhaler and monitoring
-Total Amount: ₹88,907
-Insurance Claim ID: 17C47CD3
+Patient Name: Vikram Patel
+Patient ID: P54307
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-23
+Diagnosis: COVID-19
+Treatment: Monoclonal antibodies
+Total Amount: ₹33,076
+Insurance Claim ID: 57B5E1D2
 Hospital: Fortis Healthcare

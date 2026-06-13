@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P82041
+Admission Date: 2026-02-28
+Discharge Date: 2026-02-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration and probiotics
+Total Amount: ₹69,447
+Insurance Claim ID: 3A0B68E7
+Hospital: Apollo Hospital

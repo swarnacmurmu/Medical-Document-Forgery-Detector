@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P98519
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-02
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹9,634
+Insurance Claim ID: FEFBF7AE
+Hospital: Manipal Hospital

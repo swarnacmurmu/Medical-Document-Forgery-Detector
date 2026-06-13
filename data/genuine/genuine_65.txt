@@ -1,9 +1,9 @@
-Patient Name: Manish Kumar
-Patient ID: P42132
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-14
-Diagnosis: Type 2 Diabetes
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹23,336
-Insurance Claim ID: 9648B150
-Hospital: Fortis Healthcare
+Patient Name: Pooja Kumar
+Patient ID: P82583
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-29
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹23,814
+Insurance Claim ID: 81BB579D
+Hospital: Manipal Hospital

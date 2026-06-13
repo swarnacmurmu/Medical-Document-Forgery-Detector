@@ -1,9 +1,9 @@
-Patient Name: Manish Joshi
-Patient ID: P74322
-Admission Date: 2026-05-12
-Discharge Date: 2026-05-17
+Patient Name: Anjali Kumar
+Patient ID: P39665
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-23
 Diagnosis: Dengue Fever
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹84,623
-Insurance Claim ID: 2EB0942B
-Hospital: AIIMS
+Treatment: Rest and paracetamol
+Total Amount: ₹16,130
+Insurance Claim ID: 10ED1DB6
+Hospital: Manipal Hospital

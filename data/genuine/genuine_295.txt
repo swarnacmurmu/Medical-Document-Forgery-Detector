@@ -1,9 +1,9 @@
-Patient Name: Rahul Joshi
-Patient ID: P84767
-Admission Date: 2026-03-21
-Discharge Date: 2026-03-30
-Diagnosis: Hypertension
-Treatment: Antibiotics for 5 days
-Total Amount: ₹65,551
-Insurance Claim ID: CF4B3F89
-Hospital: Manipal Hospital
+Patient Name: Rajesh Sharma
+Patient ID: P87435
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-30
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹17,307
+Insurance Claim ID: 50805EC6
+Hospital: AIIMS

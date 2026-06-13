@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P45353
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-10
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹33,333
+Insurance Claim ID: 06EB0A16
+Hospital: Lilavati Hospital

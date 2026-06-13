@@ -1,9 +1,9 @@
-Patient Name: Rajesh Patel
-Patient ID: P84872
-Admission Date: 2026-03-02
-Discharge Date: 2026-02-28
+Patient Name: Amit Patel
+Patient ID: P24194
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-19
 Diagnosis: COVID-19
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹171,197
-Insurance Claim ID: EEF99478
-Hospital: Lilavati Hospital
+Treatment: Inhaler and monitoring
+Total Amount: ₹67,374
+Insurance Claim ID: 631A0E25
+Hospital: Apollo Hospital

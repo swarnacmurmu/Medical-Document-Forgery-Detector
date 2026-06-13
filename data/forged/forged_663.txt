@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P68506
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-20
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹178,064
+Insurance Claim ID: CC9A2C3B
+Hospital: Lilavati Hospital

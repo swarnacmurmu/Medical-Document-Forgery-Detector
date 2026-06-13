@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P65545
+Admission Date: 2026-02-28
+Discharge Date: 2026-02-26
+Diagnosis: Urinary Tract Infection
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹72,104
+Insurance Claim ID: E67FBEC8
+Hospital: Apollo Hospital

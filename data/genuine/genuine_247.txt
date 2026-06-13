@@ -1,9 +1,9 @@
-Patient Name: Pooja Joshi
-Patient ID: P94816
-Admission Date: 2026-02-19
-Discharge Date: 2026-02-23
-Diagnosis: Urinary Tract Infection
-Treatment: Inhaler and monitoring
-Total Amount: ₹86,869
-Insurance Claim ID: 39396951
+Patient Name: Priya Kumar
+Patient ID: P63105
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-08
+Diagnosis: Migraine
+Treatment: Paracetamol and rest
+Total Amount: ₹9,771
+Insurance Claim ID: 1AFA4C1D
 Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P95770
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-25
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹68,495
+Insurance Claim ID: 7DBC8560
+Hospital: Lilavati Hospital

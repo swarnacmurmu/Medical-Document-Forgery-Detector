@@ -1,9 +1,9 @@
-Patient Name: Neha Patel
-Patient ID: P39883
-Admission Date: 2026-03-22
-Discharge Date: 2026-03-27
-Diagnosis: Pneumonia
-Treatment: Sumatriptan as needed
-Total Amount: ₹2,511,894
-Insurance Claim ID: 659BDDBB
+Patient Name: Vikram Kumar
+Patient ID: P61436
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-26
+Diagnosis: Hypertension
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹2,736
+Insurance Claim ID: A725235D
 Hospital: Apollo Hospital

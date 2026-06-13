@@ -1,9 +1,9 @@
-Patient Name: Neha Menon
-Patient ID: P99527
-Admission Date: 2026-05-11
-Discharge Date: 2026-05-17
-Diagnosis: Hypertension
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹10,557
-Insurance Claim ID: 96B195E9
-Hospital: Apollo Hospital
+Patient Name: Priya Patel
+Patient ID: P44329
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-02
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹9,068
+Insurance Claim ID: 56B7571B
+Hospital: AIIMS

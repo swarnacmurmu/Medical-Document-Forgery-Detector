@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P64604
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-22
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹36,429
+Insurance Claim ID: 8E5751CE
+Hospital: Fortis Healthcare

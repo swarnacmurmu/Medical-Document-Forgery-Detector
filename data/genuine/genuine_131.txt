@@ -1,9 +1,9 @@
-Patient Name: Manish Sharma
-Patient ID: P40814
-Admission Date: 2026-02-21
-Discharge Date: 2026-02-24
-Diagnosis: Dengue Fever
-Treatment: Sumatriptan as needed
-Total Amount: ₹117,045
-Insurance Claim ID: 1CD9CE47
-Hospital: Apollo Hospital
+Patient Name: Vikram Menon
+Patient ID: P84173
+Admission Date: 2026-03-28
+Discharge Date: 2026-04-04
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹20,916
+Insurance Claim ID: A6E80CEA
+Hospital: Lilavati Hospital

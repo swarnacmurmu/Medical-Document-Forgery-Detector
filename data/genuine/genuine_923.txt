@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P37710
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-04
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹22,016
+Insurance Claim ID: E0D1757C
+Hospital: Apollo Hospital

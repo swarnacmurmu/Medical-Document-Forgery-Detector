@@ -1,9 +1,9 @@
-Patient Name: Amit Sharma
-Patient ID: P52803
-Admission Date: 2026-05-04
-Discharge Date: 2026-05-03
+Patient Name: Anjali Sharma
+Patient ID: P47998
+Admission Date: 2026-04-09
+Discharge Date: 2026-04-06
 Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹144,490
-Insurance Claim ID: 611AF6BF
-Hospital: Manipal Hospital
+Treatment: Antibiotics and hydration
+Total Amount: ₹56,946
+Insurance Claim ID: 7FB8AE08
+Hospital: Lilavati Hospital

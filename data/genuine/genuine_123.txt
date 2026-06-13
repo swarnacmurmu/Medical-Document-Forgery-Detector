@@ -1,9 +1,9 @@
-Patient Name: Anjali Reddy
-Patient ID: P60436
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-26
-Diagnosis: Urinary Tract Infection
-Treatment: Azithromycin course
-Total Amount: ₹141,774
-Insurance Claim ID: CDCAE92C
-Hospital: Lilavati Hospital
+Patient Name: Sunita Sharma
+Patient ID: P48121
+Admission Date: 2026-02-26
+Discharge Date: 2026-03-02
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹4,380
+Insurance Claim ID: 24DE8630
+Hospital: Apollo Hospital

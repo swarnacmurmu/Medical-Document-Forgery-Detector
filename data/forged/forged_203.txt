@@ -1,9 +1,9 @@
-Patient Name: Vikram Verma
-Patient ID: P56264
-Admission Date: 2026-06-10
-Discharge Date: 2026-06-16
-Diagnosis: Migraine
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹139,019
-Insurance Claim ID: C1D35190
-Hospital: Apollo Hospital
+Patient Name: Priya Kumar
+Patient ID: P97415
+Admission Date: 2026-02-22
+Discharge Date: 2026-02-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹70,710
+Insurance Claim ID: 85968EB4
+Hospital: Lilavati Hospital

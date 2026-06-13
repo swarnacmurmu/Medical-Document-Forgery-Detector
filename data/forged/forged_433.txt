@@ -1,9 +1,9 @@
-Patient Name: Amit Nair
-Patient ID: P38795
-Admission Date: 2026-05-24
-Discharge Date: 2026-05-23
-Diagnosis: Typhoid
-Treatment: Oseltamivir and supportive care
-Total Amount: ₹195,700
-Insurance Claim ID: BDE6E82F
-Hospital: Fortis Healthcare
+Patient Name: Sunita Reddy
+Patient ID: P86134
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-28
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹11,555
+Insurance Claim ID: C04F70EE
+Hospital: Lilavati Hospital

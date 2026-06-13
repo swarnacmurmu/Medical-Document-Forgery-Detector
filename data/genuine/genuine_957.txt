@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P92939
+Admission Date: 2026-04-28
+Discharge Date: 2026-05-01
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹26,762
+Insurance Claim ID: D23495FA
+Hospital: Apollo Hospital

@@ -1,9 +1,9 @@
-Patient Name: Amit Reddy
-Patient ID: P75388
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-11
-Diagnosis: Asthma
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹1,740,600
-Insurance Claim ID: B23BEFD2
-Hospital: Manipal Hospital
+Patient Name: Amit Verma
+Patient ID: P77481
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-19
+Diagnosis: Type 2 Diabetes
+Treatment: Insulin as needed
+Total Amount: ₹7,053
+Insurance Claim ID: 53750604
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P30625
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-22
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹122,150
+Insurance Claim ID: 004C0706
+Hospital: AIIMS

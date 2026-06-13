@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P10809
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-18
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹72,852
+Insurance Claim ID: 013951C1
+Hospital: Lilavati Hospital

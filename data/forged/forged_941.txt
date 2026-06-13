@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P48968
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-22
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹103,455
+Insurance Claim ID: 390A9D62
+Hospital: Fortis Healthcare

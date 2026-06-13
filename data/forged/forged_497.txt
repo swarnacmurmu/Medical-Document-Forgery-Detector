@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P27580
-Admission Date: 2026-04-21
-Discharge Date: 2026-04-24
-Diagnosis: Typhoid
-Treatment: Lisinopril 10mg daily
-Total Amount: ₹351,134
-Insurance Claim ID: 4BEAB903
-Hospital: AIIMS
+Patient Name: Rahul Verma
+Patient ID: P92999
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-10
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹122,580
+Insurance Claim ID: 531E5E4E
+Hospital: Apollo Hospital

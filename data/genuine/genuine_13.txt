@@ -1,9 +1,9 @@
-Patient Name: Pooja Reddy
-Patient ID: P70486
-Admission Date: 2026-04-12
-Discharge Date: 2026-04-20
-Diagnosis: Type 2 Diabetes
-Treatment: Azithromycin course
-Total Amount: ₹33,097
-Insurance Claim ID: F114EA94
-Hospital: Lilavati Hospital
+Patient Name: Rahul Kumar
+Patient ID: P82938
+Admission Date: 2026-05-29
+Discharge Date: 2026-06-01
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹36,555
+Insurance Claim ID: EB814F37
+Hospital: Manipal Hospital

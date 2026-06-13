@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P25449
-Admission Date: 2026-03-04
-Discharge Date: 2026-03-14
-Diagnosis: Type 2 Diabetes
-Treatment: IV fluids and oral rehydration
-Total Amount: ₹162,455
-Insurance Claim ID: 7C1CADEF
-Hospital: Apollo Hospital
+Patient Name: Priya Menon
+Patient ID: P53188
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-17
+Diagnosis: Dengue Fever
+Treatment: Supportive care
+Total Amount: ₹19,382
+Insurance Claim ID: 8C92D017
+Hospital: Fortis Healthcare

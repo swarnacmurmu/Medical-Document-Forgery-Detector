@@ -1,9 +1,9 @@
-Patient Name: Anjali Patel
-Patient ID: P63718
-Admission Date: 2026-06-03
-Discharge Date: 2026-06-11
-Diagnosis: Hypertension
-Treatment: Sumatriptan as needed
-Total Amount: ₹116,226
-Insurance Claim ID: 0635B8B8
-Hospital: Lilavati Hospital
+Patient Name: Anjali Kumar
+Patient ID: P12143
+Admission Date: 2026-04-27
+Discharge Date: 2026-04-26
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹8,349
+Insurance Claim ID: 365A6B44
+Hospital: Fortis Healthcare

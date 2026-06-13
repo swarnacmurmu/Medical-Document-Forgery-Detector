@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P36759
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-10
+Diagnosis: Dengue Fever
+Treatment: IV fluids and monitoring
+Total Amount: ₹92,928
+Insurance Claim ID: 24740CE9
+Hospital: Lilavati Hospital

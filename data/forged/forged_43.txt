@@ -1,9 +1,9 @@
-Patient Name: Manish Gupta
-Patient ID: P61172
-Admission Date: 2026-04-28
-Discharge Date: 2026-04-26
-Diagnosis: Typhoid
+Patient Name: Manish Kumar
+Patient ID: P90260
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-29
+Diagnosis: Asthma
 Treatment: IV fluids and oral rehydration
-Total Amount: ₹33,904
-Insurance Claim ID: AF3EC3F0
-Hospital: Lilavati Hospital
+Total Amount: ₹21,185
+Insurance Claim ID: AA387DEB
+Hospital: Manipal Hospital

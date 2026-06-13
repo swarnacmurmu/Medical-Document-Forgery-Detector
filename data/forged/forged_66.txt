@@ -1,9 +1,9 @@
-Patient Name: Sunita Singh
-Patient ID: P35650
-Admission Date: 2026-02-22
-Discharge Date: 2026-02-24
-Diagnosis: Dengue Fever
-Treatment: Rest and paracetamol
-Total Amount: ₹762,444
-Insurance Claim ID: 7FF40796
+Patient Name: Amit Joshi
+Patient ID: P19590
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-16
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,535
+Insurance Claim ID: A3B9DCF8
 Hospital: Fortis Healthcare

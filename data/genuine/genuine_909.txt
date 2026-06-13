@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P63204
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-10
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin and diet counselling
+Total Amount: ₹5,755
+Insurance Claim ID: 555AD789
+Hospital: AIIMS

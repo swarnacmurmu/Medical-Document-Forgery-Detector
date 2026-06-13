@@ -1,9 +1,9 @@
-Patient Name: Rajesh Gupta
-Patient ID: P74147
-Admission Date: 2026-02-14
-Discharge Date: 2026-02-24
-Diagnosis: Asthma
-Treatment: Metformin 500mg twice daily
-Total Amount: ₹17,949
-Insurance Claim ID: 5E6CC5B0
-Hospital: Apollo Hospital
+Patient Name: Anjali Sharma
+Patient ID: P39049
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-21
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹92,436
+Insurance Claim ID: 46E0F5A5
+Hospital: Lilavati Hospital

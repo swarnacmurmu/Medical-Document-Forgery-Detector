@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P70237
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-19
+Diagnosis: Pneumonia
+Treatment: Antibiotics and hydration
+Total Amount: ₹46,379
+Insurance Claim ID: E03E5558
+Hospital: Lilavati Hospital

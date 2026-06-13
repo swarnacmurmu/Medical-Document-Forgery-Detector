@@ -1,9 +1,9 @@
-Patient Name: Neha Nair
-Patient ID: P45666
-Admission Date: 2026-05-17
-Discharge Date: 2026-05-26
-Diagnosis: Typhoid
-Treatment: Chest physiotherapy and oxygen
-Total Amount: ₹50,964
-Insurance Claim ID: C7E3970C
+Patient Name: Sunita Nair
+Patient ID: P12920
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-28
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹37,977
+Insurance Claim ID: B407862A
 Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P21527
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-04
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹13,149
+Insurance Claim ID: 151E35A5
+Hospital: Manipal Hospital

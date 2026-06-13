@@ -1,9 +1,9 @@
-Patient Name: Pooja Kumar
-Patient ID: P93768
-Admission Date: 2026-03-23
-Discharge Date: 2026-03-22
-Diagnosis: Dengue Fever
-Treatment: Antibiotics for 5 days
-Total Amount: ₹183,770
-Insurance Claim ID: 37291E00
-Hospital: Apollo Hospital
+Patient Name: Manish Menon
+Patient ID: P76527
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-15
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹63,512
+Insurance Claim ID: EF54B4C2
+Hospital: AIIMS

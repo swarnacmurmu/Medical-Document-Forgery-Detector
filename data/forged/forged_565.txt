@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P68734
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-10
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹18,909
+Insurance Claim ID: 99172CC7
+Hospital: Lilavati Hospital

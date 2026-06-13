@@ -1,9 +1,9 @@
-Patient Name: Pooja Nair
-Patient ID: P36069
-Admission Date: 2026-03-14
-Discharge Date: 2026-03-15
-Diagnosis: Hypertension
-Treatment: Azithromycin course
-Total Amount: ₹144,200
-Insurance Claim ID: F491FE16
-Hospital: Manipal Hospital
+Patient Name: Manish Reddy
+Patient ID: P43841
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-05
+Diagnosis: Migraine
+Treatment: NSAIDs and dark room
+Total Amount: ₹4,402
+Insurance Claim ID: EC2D834D
+Hospital: Fortis Healthcare

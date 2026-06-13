@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P24789
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-18
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹22,422
+Insurance Claim ID: 31593A78
+Hospital: AIIMS

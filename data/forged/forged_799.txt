@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P79896
+Admission Date: 2026-05-27
+Discharge Date: 2026-05-24
+Diagnosis: Urinary Tract Infection
+Treatment: Nitrofurantoin for 7 days
+Total Amount: ₹31,040
+Insurance Claim ID: D53B79A2
+Hospital: Fortis Healthcare

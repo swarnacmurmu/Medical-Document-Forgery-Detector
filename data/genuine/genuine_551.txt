@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P24122
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-12
+Diagnosis: COVID-19
+Treatment: Remdesivir and oxygen
+Total Amount: ₹77,812
+Insurance Claim ID: AC56EF6F
+Hospital: Lilavati Hospital

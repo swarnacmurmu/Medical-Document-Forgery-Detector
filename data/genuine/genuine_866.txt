@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P32252
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-22
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹14,726
+Insurance Claim ID: FBE047BD
+Hospital: Lilavati Hospital

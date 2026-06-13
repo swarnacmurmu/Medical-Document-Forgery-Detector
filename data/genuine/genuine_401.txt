@@ -1,9 +1,9 @@
-Patient Name: Priya Sharma
-Patient ID: P35778
-Admission Date: 2026-04-03
-Discharge Date: 2026-04-10
-Diagnosis: Typhoid
+Patient Name: Rahul Sharma
+Patient ID: P97379
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-26
+Diagnosis: Asthma
 Treatment: Inhaler and monitoring
-Total Amount: ₹143,229
-Insurance Claim ID: 2A6935F5
-Hospital: Fortis Healthcare
+Total Amount: ₹14,632
+Insurance Claim ID: 5FA33D1D
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P71260
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-02
+Diagnosis: Asthma
+Treatment: Bronchodilators and steroids
+Total Amount: ₹35,712
+Insurance Claim ID: EC3AE6F0
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P37318
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-12
+Diagnosis: Asthma
+Treatment: Salbutamol as needed
+Total Amount: ₹13,795
+Insurance Claim ID: 7006A4C1
+Hospital: AIIMS

@@ -1,9 +1,9 @@
-Patient Name: Rahul Reddy
-Patient ID: P17829
-Admission Date: 2026-03-01
-Discharge Date: 2026-03-06
-Diagnosis: Migraine
+Patient Name: Rahul Kumar
+Patient ID: P14309
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-06
+Diagnosis: Typhoid
 Treatment: Antibiotics for 5 days
-Total Amount: ₹132,551
-Insurance Claim ID: 8CA46271
-Hospital: Manipal Hospital
+Total Amount: ₹131,896
+Insurance Claim ID: D6316585
+Hospital: AIIMS
