@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P25819
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-23
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹52,642
+Insurance Claim ID: 14FF67F5
+Hospital: Lilavati Hospital

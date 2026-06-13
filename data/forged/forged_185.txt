@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P64260
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-20
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹755,711
+Insurance Claim ID: D0A5EFE1
+Hospital: Fortis Healthcare

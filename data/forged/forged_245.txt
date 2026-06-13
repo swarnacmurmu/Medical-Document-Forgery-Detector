@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P87972
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-28
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹92,696
+Insurance Claim ID: C7D5300E
+Hospital: Manipal Hospital

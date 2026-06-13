@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P57159
+Admission Date: 2026-05-27
+Discharge Date: 2026-06-04
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹360,038
+Insurance Claim ID: 8ACC51F1
+Hospital: AIIMS

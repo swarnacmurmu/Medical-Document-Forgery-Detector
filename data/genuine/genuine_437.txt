@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P47617
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-30
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹67,780
+Insurance Claim ID: 4875C1B8
+Hospital: Lilavati Hospital

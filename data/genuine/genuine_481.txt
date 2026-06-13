@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P82553
+Admission Date: 2026-04-25
+Discharge Date: 2026-05-02
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹16,980
+Insurance Claim ID: 88EFBAFA
+Hospital: Lilavati Hospital

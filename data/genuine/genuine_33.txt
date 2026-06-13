@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P44695
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-13
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹135,818
+Insurance Claim ID: BF96D7BF
+Hospital: Manipal Hospital

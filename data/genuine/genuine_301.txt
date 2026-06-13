@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P46013
+Admission Date: 2026-05-28
+Discharge Date: 2026-06-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹103,938
+Insurance Claim ID: F92E65CB
+Hospital: Lilavati Hospital

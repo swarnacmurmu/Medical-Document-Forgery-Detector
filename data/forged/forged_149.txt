@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P61973
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-03
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹1,648,796
+Insurance Claim ID: 090B68E0
+Hospital: Lilavati Hospital

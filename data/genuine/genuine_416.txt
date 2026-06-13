@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P59581
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-11
+Diagnosis: Migraine
+Treatment: Antibiotics for 5 days
+Total Amount: ₹159,828
+Insurance Claim ID: 1CC23AA7
+Hospital: AIIMS

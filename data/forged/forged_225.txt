@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P68729
+Admission Date: 2026-02-13
+Discharge Date: 2026-02-11
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹87,827
+Insurance Claim ID: 004793CB
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P94651
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-27
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹820,764
+Insurance Claim ID: 95995C83
+Hospital: Lilavati Hospital

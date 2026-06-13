@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P25477
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-10
+Diagnosis: Hypertension
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹50,873
+Insurance Claim ID: AEF59B92
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P71985
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-06
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹729,620
+Insurance Claim ID: EE9E71EB
+Hospital: AIIMS

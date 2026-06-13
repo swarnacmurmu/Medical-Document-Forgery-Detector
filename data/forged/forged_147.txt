@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P88280
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-18
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹83,658
+Insurance Claim ID: 227D69B2
+Hospital: Manipal Hospital

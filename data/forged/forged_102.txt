@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P71347
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-19
+Diagnosis: Typhoid
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹171,829
+Insurance Claim ID: 404FE9B6
+Hospital: Fortis Healthcare

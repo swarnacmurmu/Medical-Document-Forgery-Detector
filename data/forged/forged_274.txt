@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P22799
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-13
+Diagnosis: Migraine
+Treatment: Antibiotics for 5 days
+Total Amount: ₹1,166,112
+Insurance Claim ID: 21D125F9
+Hospital: Manipal Hospital

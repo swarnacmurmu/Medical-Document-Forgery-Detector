@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P98111
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-10
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹181,449
+Insurance Claim ID: 3375B799
+Hospital: Manipal Hospital

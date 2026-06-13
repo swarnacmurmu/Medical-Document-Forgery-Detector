@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P43422
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-06
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹63,153
+Insurance Claim ID: ABAB3D7D
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P54325
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-28
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹32,509
+Insurance Claim ID: B261826F
+Hospital: Lilavati Hospital

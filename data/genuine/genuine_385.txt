@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P34733
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-11
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹99,089
+Insurance Claim ID: 2EB141CC
+Hospital: Lilavati Hospital

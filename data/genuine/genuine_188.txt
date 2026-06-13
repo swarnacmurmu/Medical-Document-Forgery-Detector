@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P14685
+Admission Date: 2026-04-24
+Discharge Date: 2026-05-02
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹113,932
+Insurance Claim ID: 6B47CE3E
+Hospital: Fortis Healthcare

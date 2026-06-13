@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P82898
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-05
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹48,552
+Insurance Claim ID: A51ED198
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P97085
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-20
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹45,775
+Insurance Claim ID: 1F4D94EB
+Hospital: Lilavati Hospital

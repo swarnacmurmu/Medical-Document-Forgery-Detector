@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P87782
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-25
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹93,349
+Insurance Claim ID: 893E6B62
+Hospital: Apollo Hospital

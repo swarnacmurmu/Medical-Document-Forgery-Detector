@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P12060
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-25
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹1,032,912
+Insurance Claim ID: 03A520C8
+Hospital: Manipal Hospital

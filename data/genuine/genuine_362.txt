@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P35643
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-13
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹119,832
+Insurance Claim ID: 1DBC97CD
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P93388
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-25
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹2,437,184
+Insurance Claim ID: 9D509514
+Hospital: Lilavati Hospital

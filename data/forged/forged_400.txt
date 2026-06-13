@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P68568
+Admission Date: 2026-04-15
+Discharge Date: 2026-04-23
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹141,210
+Insurance Claim ID: AB357242
+Hospital: AIIMS

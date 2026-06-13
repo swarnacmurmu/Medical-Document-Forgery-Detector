@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P55087
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-09
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹42,497
+Insurance Claim ID: 5706238A
+Hospital: Lilavati Hospital

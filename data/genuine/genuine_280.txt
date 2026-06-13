@@ -1,0 +1,9 @@
+Patient Name: Anjali Singh
+Patient ID: P65588
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-28
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹33,071
+Insurance Claim ID: 383E6071
+Hospital: AIIMS

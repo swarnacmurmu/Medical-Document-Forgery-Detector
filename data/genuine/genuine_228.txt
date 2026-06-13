@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P19902
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-08
+Diagnosis: Pneumonia
+Treatment: Inhaler and monitoring
+Total Amount: ₹155,946
+Insurance Claim ID: 2202C6DB
+Hospital: AIIMS

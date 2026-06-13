@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P67093
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-30
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹154,682
+Insurance Claim ID: E01C57DF
+Hospital: Apollo Hospital

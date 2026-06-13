@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P80082
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-13
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹166,121
+Insurance Claim ID: 20DA34E4
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P45659
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-08
+Diagnosis: Hypertension
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹24,002
+Insurance Claim ID: 245045AE
+Hospital: Fortis Healthcare

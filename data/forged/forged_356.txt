@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P45065
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-11
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹194,669
+Insurance Claim ID: D458D01E
+Hospital: AIIMS

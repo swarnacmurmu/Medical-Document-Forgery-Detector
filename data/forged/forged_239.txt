@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P60982
+Admission Date: 2026-04-30
+Discharge Date: 2026-04-29
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹1,318,350
+Insurance Claim ID: 2B334B23
+Hospital: Apollo Hospital

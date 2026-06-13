@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P97094
+Admission Date: 2026-05-30
+Discharge Date: 2026-06-05
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹169,824
+Insurance Claim ID: AE3CFDCD
+Hospital: Lilavati Hospital

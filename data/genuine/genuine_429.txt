@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P92293
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-27
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹108,865
+Insurance Claim ID: 483B3479
+Hospital: Manipal Hospital

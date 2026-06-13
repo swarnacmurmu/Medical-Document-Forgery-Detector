@@ -1,0 +1,9 @@
+Patient Name: Neha Singh
+Patient ID: P62793
+Admission Date: 2026-05-02
+Discharge Date: 2026-05-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Sumatriptan as needed
+Total Amount: ₹59,127
+Insurance Claim ID: BA3C52FE
+Hospital: Manipal Hospital

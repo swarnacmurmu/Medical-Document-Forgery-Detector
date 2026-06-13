@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P24664
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹77,182
+Insurance Claim ID: 19DDDBBA
+Hospital: Fortis Healthcare

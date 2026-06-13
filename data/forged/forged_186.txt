@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P32572
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-09
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹96,268
+Insurance Claim ID: F443A9EC
+Hospital: Apollo Hospital

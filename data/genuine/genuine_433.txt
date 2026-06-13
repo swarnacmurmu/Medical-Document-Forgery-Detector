@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P38795
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-30
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹195,700
+Insurance Claim ID: BDE6E82F
+Hospital: Fortis Healthcare

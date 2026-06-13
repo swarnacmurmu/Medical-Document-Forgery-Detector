@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P66204
+Admission Date: 2026-05-28
+Discharge Date: 2026-05-29
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹88,561
+Insurance Claim ID: E90CE73A
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P71477
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-01
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹23,336
+Insurance Claim ID: 9648B150
+Hospital: Fortis Healthcare

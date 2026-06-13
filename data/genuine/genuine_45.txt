@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P45368
+Admission Date: 2026-04-27
+Discharge Date: 2026-05-04
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹24,028
+Insurance Claim ID: F587D97F
+Hospital: Apollo Hospital

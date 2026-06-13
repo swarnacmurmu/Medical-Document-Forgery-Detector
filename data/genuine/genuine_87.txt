@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P64422
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-23
+Diagnosis: Urinary Tract Infection
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹97,916
+Insurance Claim ID: 174AD27E
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Gupta
+Patient ID: P61853
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-09
+Diagnosis: Acute Gastroenteritis
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,305,610
+Insurance Claim ID: D1670092
+Hospital: Manipal Hospital

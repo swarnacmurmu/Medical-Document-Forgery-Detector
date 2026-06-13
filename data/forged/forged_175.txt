@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P56757
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-09
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹69,204
+Insurance Claim ID: E19B0787
+Hospital: Lilavati Hospital

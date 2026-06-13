@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P24410
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹170,603
+Insurance Claim ID: C7BDA458
+Hospital: Lilavati Hospital

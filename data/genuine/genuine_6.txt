@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P11829
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-08
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹113,823
+Insurance Claim ID: F63A522B
+Hospital: AIIMS

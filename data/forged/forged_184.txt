@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P52458
+Admission Date: 2026-03-21
+Discharge Date: 2026-03-29
+Diagnosis: COVID-19
+Treatment: Antibiotics for 5 days
+Total Amount: ₹796,236
+Insurance Claim ID: EC836D71
+Hospital: Manipal Hospital

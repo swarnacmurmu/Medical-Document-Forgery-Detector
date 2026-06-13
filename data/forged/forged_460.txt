@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P56789
+Admission Date: 2026-04-19
+Discharge Date: 2026-04-17
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹12,828
+Insurance Claim ID: F6E3F44C
+Hospital: Manipal Hospital

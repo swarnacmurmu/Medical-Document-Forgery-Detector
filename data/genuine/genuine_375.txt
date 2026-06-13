@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P97475
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-28
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹114,248
+Insurance Claim ID: 4C20B4F5
+Hospital: AIIMS

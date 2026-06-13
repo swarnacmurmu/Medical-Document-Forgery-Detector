@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P18945
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-14
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹160,872
+Insurance Claim ID: C0A9D643
+Hospital: AIIMS

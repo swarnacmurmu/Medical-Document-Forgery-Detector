@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P74498
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-18
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹181,364
+Insurance Claim ID: 57B7E204
+Hospital: Manipal Hospital

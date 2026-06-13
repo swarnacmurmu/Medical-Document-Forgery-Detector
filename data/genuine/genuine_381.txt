@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P87748
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-13
+Diagnosis: COVID-19
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹190,249
+Insurance Claim ID: 6FBAA086
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P66799
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-01
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹5,934
+Insurance Claim ID: E0A7C903
+Hospital: Apollo Hospital

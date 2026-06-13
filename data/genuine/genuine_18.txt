@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P40073
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-14
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹16,994
+Insurance Claim ID: DCE0E0FC
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P51513
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-01
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹350,685
+Insurance Claim ID: D2271CB6
+Hospital: Lilavati Hospital

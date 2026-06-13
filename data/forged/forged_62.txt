@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P21948
+Admission Date: 2026-04-27
+Discharge Date: 2026-05-07
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹245,607
+Insurance Claim ID: 88A061C4
+Hospital: AIIMS

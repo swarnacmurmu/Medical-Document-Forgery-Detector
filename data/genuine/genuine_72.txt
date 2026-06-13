@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P93768
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-29
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹91,885
+Insurance Claim ID: 37291E00
+Hospital: Apollo Hospital

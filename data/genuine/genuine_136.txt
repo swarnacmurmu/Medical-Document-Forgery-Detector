@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P81945
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-06
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹90,853
+Insurance Claim ID: 23B90AD8
+Hospital: AIIMS

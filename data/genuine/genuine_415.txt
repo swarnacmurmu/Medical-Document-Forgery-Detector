@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P48156
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-26
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹197,895
+Insurance Claim ID: 18836A7B
+Hospital: Apollo Hospital

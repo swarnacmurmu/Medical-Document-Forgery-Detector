@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P61456
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-25
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹37,558
+Insurance Claim ID: 9DA4A9CF
+Hospital: AIIMS

@@ -1,79 +1,76 @@
 import os
-import re
 import json
-from google import genai
+import re
 from dotenv import load_dotenv
-import PIL.Image
+from google import genai
+from google.genai import types
 
-# Load API key from .env
 load_dotenv()
-API_KEY = os.getenv("GEMINI_API_KEY")
-if not API_KEY:
-    raise ValueError("GEMINI_API_KEY not found. Check .env file.")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY not found in .env file")
 
-client = genai.Client(api_key=API_KEY)
+# Use a confirmed, working model name
+MODEL_NAME = "gemini-2.5-flash"  # Replace with a model from your list if needed
 
-def analyze_document(file_path: str):
-    """
-    Analyzes a medical document (image or text) for forgery.
-    Returns a structured dictionary with verdict, flags, explanation, etc.
-    """
-    # Determine file type
-    if file_path.lower().endswith('.txt'):
-        with open(file_path, 'r') as f:
-            doc_content = f.read()
-        contents = [doc_content]
-    else:
-        # Assume image
-        img = PIL.Image.open(file_path)
-        contents = [img]
+client = genai.Client(api_key=GEMINI_API_KEY)
 
-    prompt = """
-    You are a medical document forensics expert. Analyze this document for potential forgery.
+def analyze_document(file_content: str, file_name: str):
+    if len(file_content) > 10000:
+        file_content = file_content[:10000] + "\n...[truncated]"
+    
+    prompt = f"""
+You are a medical document forensics expert. Analyze the following medical record for signs of forgery.
 
-    Step 1: Extract the following fields (use null if missing):
-    - patient_name
-    - patient_id
-    - admission_date
-    - discharge_date
-    - diagnosis
-    - treatment
-    - total_amount
-    - insurance_claim_id
+Medical Record:
+{file_content}
 
-    Step 2: Check for logical inconsistencies:
-    - Discharge date before admission date
-    - Mismatched patient name or ID
-    - Unusual medical terms or spelling errors
-    - Treatment not matching diagnosis
-    - Inflated or unrealistic amounts
+Check for:
+- Inflated monetary amounts
+- Date inconsistency (discharge before admission)
+- Treatment not matching diagnosis
+- Unusual medical terminology or spelling errors
+- Missing critical fields
 
-    Step 3: Return ONLY valid JSON with this exact structure:
-    {
-        "extracted_data": { ... },
-        "suspicious_flags": ["flag1", "flag2"],
-        "forensic_verdict": "suspicious" or "clean",
-        "explanation": "short one-sentence explanation",
-        "confidence_score": 0.95
-    }
-    """
-
-    response = client.models.generate_content(
-        model="gemini-2.0-flash-exp",
-        contents=[prompt] + contents
-    )
-
-    # Parse JSON from response
-    json_match = re.search(r'\{.*\}', response.text, re.DOTALL)
-    if json_match:
-        try:
-            return json.loads(json_match.group())
-        except json.JSONDecodeError:
-            pass
-    return {
-        "extracted_data": {},
-        "suspicious_flags": ["Failed to parse Gemini response"],
-        "forensic_verdict": "error",
-        "explanation": response.text[:200],
-        "confidence_score": 0.0
-    }
+Return ONLY a JSON object with these keys:
+{{
+    "forensic_verdict": "clean" or "suspicious",
+    "confidence_score": 0.95,
+    "suspicious_flags": ["flag1", "flag2"],
+    "explanation": "short reason for the verdict"
+}}
+"""
+    try:
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=[prompt]
+        )
+        response_text = response.text
+        print(f"Gemini Response: {response_text}")  # Debug print
+        
+        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        if json_match:
+            result = json.loads(json_match.group())
+        else:
+            result = json.loads(response_text)
+        
+        # Ensure all keys exist
+        default = {
+            "forensic_verdict": "error",
+            "confidence_score": 0.0,
+            "suspicious_flags": [],
+            "explanation": "Failed to parse Gemini response."
+        }
+        for key in default:
+            if key not in result:
+                result[key] = default[key]
+        return result
+        
+    except Exception as e:
+        print(f"Gemini API Error: {e}")
+        return {
+            "forensic_verdict": "error",
+            "confidence_score": 0.0,
+            "suspicious_flags": ["analysis_exception"],
+            "explanation": f"API Error: {str(e)[:100]}"
+        }

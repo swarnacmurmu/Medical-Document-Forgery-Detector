@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P95880
+Admission Date: 2026-05-16
+Discharge Date: 2026-05-15
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹74,420
+Insurance Claim ID: 59ACD05B
+Hospital: Manipal Hospital

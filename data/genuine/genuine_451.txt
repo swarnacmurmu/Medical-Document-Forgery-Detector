@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P80786
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-30
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹125,379
+Insurance Claim ID: 9B4A1B2A
+Hospital: Apollo Hospital

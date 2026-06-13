@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P24971
+Admission Date: 2026-03-06
+Discharge Date: 2026-03-05
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹675,035
+Insurance Claim ID: E02DFC47
+Hospital: Lilavati Hospital

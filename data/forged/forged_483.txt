@@ -1,0 +1,9 @@
+Patient Name: Amit Gupta
+Patient ID: P62528
+Admission Date: 2026-02-28
+Discharge Date: 2026-02-27
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹150,249
+Insurance Claim ID: 33229611
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P85986
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-09
+Diagnosis: Acute Gastroenteritis
+Treatment: Azithromycin course
+Total Amount: ₹89,835
+Insurance Claim ID: 4CCAA33D
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P46891
+Admission Date: 2026-05-26
+Discharge Date: 2026-06-03
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹76,178
+Insurance Claim ID: 40C38DAA
+Hospital: Apollo Hospital

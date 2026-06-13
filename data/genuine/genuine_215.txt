@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P93515
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-03
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹102,240
+Insurance Claim ID: 04D4AFD9
+Hospital: Lilavati Hospital

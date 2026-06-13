@@ -1,0 +1,9 @@
+Patient Name: Amit Gupta
+Patient ID: P55796
+Admission Date: 2026-04-06
+Discharge Date: 2026-04-11
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹66,105
+Insurance Claim ID: 2E43F55C
+Hospital: AIIMS

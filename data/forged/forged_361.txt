@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P16828
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-20
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹491,015
+Insurance Claim ID: F8AB1EEE
+Hospital: Apollo Hospital

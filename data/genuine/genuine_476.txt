@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P93987
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-21
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹190,049
+Insurance Claim ID: 9338A646
+Hospital: Apollo Hospital

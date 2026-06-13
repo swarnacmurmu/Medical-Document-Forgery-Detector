@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P96661
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹184,790
+Insurance Claim ID: AF5FEF5C
+Hospital: AIIMS

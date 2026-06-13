@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P83972
+Admission Date: 2026-03-29
+Discharge Date: 2026-04-07
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹1,998,452
+Insurance Claim ID: 7436177C
+Hospital: Apollo Hospital

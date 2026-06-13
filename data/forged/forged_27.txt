@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P54796
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-13
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹480,936
+Insurance Claim ID: 65C53B98
+Hospital: Manipal Hospital

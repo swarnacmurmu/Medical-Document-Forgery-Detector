@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P76908
+Admission Date: 2026-02-24
+Discharge Date: 2026-02-27
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹15,167
+Insurance Claim ID: 5B65C641
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Pooja Verma
+Patient ID: P41227
+Admission Date: 2026-03-18
+Discharge Date: 2026-03-21
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹179,601
+Insurance Claim ID: 99479F3E
+Hospital: Apollo Hospital

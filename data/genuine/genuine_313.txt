@@ -1,0 +1,9 @@
+Patient Name: Amit Menon
+Patient ID: P63591
+Admission Date: 2026-02-19
+Discharge Date: 2026-03-01
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹50,601
+Insurance Claim ID: 30ABCD74
+Hospital: Lilavati Hospital

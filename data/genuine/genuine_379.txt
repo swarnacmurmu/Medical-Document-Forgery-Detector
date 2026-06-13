@@ -1,0 +1,9 @@
+Patient Name: Sunita Joshi
+Patient ID: P97285
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-31
+Diagnosis: COVID-19
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹65,655
+Insurance Claim ID: B875CEE1
+Hospital: Manipal Hospital

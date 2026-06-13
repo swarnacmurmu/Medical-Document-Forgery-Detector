@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P48636
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-21
+Diagnosis: Urinary Tract Infection
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹171,181
+Insurance Claim ID: 821E2F22
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P23574
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-01
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹167,721
+Insurance Claim ID: B25ABAB4
+Hospital: Lilavati Hospital

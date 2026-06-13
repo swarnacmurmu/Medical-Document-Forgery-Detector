@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P36320
+Admission Date: 2026-04-25
+Discharge Date: 2026-05-01
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹3,101,540
+Insurance Claim ID: 5575FFAA
+Hospital: Fortis Healthcare

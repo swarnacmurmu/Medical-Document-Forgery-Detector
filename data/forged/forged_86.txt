@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P46479
+Admission Date: 2026-03-29
+Discharge Date: 2026-03-28
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹493,290
+Insurance Claim ID: D79DAE49
+Hospital: Fortis Healthcare

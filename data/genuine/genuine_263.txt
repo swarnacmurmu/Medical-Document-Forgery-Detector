@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P34986
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-10
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹101,990
+Insurance Claim ID: 30A2492C
+Hospital: Lilavati Hospital

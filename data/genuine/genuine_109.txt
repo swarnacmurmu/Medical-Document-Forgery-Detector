@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P30304
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-26
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹42,849
+Insurance Claim ID: 2379B263
+Hospital: Manipal Hospital

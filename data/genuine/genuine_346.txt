@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P50113
+Admission Date: 2026-03-25
+Discharge Date: 2026-04-03
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹136,640
+Insurance Claim ID: E0BF28E7
+Hospital: Lilavati Hospital

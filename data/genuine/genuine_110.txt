@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P67290
+Admission Date: 2026-05-24
+Discharge Date: 2026-06-03
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹193,339
+Insurance Claim ID: B22CB1A2
+Hospital: Manipal Hospital

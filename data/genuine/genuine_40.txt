@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P62323
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-28
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹163,571
+Insurance Claim ID: A4949BC7
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Manish Menon
+Patient ID: P97342
+Admission Date: 2026-04-14
+Discharge Date: 2026-04-23
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹101,360
+Insurance Claim ID: E7FEA268
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Sunita Patel
+Patient ID: P12840
+Admission Date: 2026-03-04
+Discharge Date: 2026-03-02
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹47,494
+Insurance Claim ID: 047E4EED
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P83755
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-20
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹68,701
+Insurance Claim ID: D0A5EFE1
+Hospital: Fortis Healthcare

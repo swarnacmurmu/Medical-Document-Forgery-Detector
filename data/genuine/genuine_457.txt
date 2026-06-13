@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P89827
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-28
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹130,628
+Insurance Claim ID: 1C018DD8
+Hospital: Apollo Hospital

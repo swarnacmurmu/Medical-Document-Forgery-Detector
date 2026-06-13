@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P37022
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-17
+Diagnosis: Acute Gastroenteritis
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,517,450
+Insurance Claim ID: C8F82E52
+Hospital: AIIMS

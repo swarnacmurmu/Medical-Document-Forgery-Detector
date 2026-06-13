@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P98343
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-20
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹57,675
+Insurance Claim ID: D0D330DA
+Hospital: Fortis Healthcare

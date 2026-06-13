@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P15253
+Admission Date: 2026-05-18
+Discharge Date: 2026-05-17
+Diagnosis: Dengue Fever
+Treatment: Rest and paracetamol
+Total Amount: ₹605,328
+Insurance Claim ID: EF92824A
+Hospital: Fortis Healthcare

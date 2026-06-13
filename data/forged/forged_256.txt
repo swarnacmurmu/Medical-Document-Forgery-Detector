@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P81631
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-15
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹2,269,136
+Insurance Claim ID: 08D60D39
+Hospital: Apollo Hospital

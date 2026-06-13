@@ -1,0 +1,9 @@
+Patient Name: Anjali Kumar
+Patient ID: P35496
+Admission Date: 2026-03-13
+Discharge Date: 2026-03-11
+Diagnosis: Type 2 Diabetes
+Treatment: Antibiotics for 5 days
+Total Amount: ₹238,599
+Insurance Claim ID: 6A8C8EFB
+Hospital: AIIMS

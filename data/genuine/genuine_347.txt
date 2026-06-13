@@ -1,0 +1,9 @@
+Patient Name: Vikram Menon
+Patient ID: P72748
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-03
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹117,037
+Insurance Claim ID: F2CDB4B3
+Hospital: AIIMS

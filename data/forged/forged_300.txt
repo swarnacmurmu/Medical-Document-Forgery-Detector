@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P68414
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹1,328,239
+Insurance Claim ID: A22867AB
+Hospital: Manipal Hospital

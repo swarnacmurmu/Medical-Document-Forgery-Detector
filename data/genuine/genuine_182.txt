@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P58709
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-19
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹197,848
+Insurance Claim ID: 5741DCB0
+Hospital: Apollo Hospital

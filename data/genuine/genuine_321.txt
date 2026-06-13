@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P58316
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-24
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹20,930
+Insurance Claim ID: 04CBEB2A
+Hospital: Lilavati Hospital

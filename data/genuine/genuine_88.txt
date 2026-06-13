@@ -1,0 +1,9 @@
+Patient Name: Neha Kumar
+Patient ID: P36891
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-16
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹111,211
+Insurance Claim ID: EAC2EE3E
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P54159
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-15
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹9,005
+Insurance Claim ID: 16D5077D
+Hospital: Fortis Healthcare

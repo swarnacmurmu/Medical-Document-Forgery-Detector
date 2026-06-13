@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P54238
+Admission Date: 2026-03-09
+Discharge Date: 2026-03-07
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹177,297
+Insurance Claim ID: E23B1D31
+Hospital: AIIMS

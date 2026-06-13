@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P91317
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-19
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹124,850
+Insurance Claim ID: 5EE3137E
+Hospital: Lilavati Hospital

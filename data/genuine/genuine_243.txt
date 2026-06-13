@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P80356
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-10
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹155,737
+Insurance Claim ID: 903A8997
+Hospital: Lilavati Hospital

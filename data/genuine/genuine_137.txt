@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P66839
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-21
+Diagnosis: Urinary Tract Infection
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹147,584
+Insurance Claim ID: 8C124527
+Hospital: Manipal Hospital

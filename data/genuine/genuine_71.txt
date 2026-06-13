@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P68424
+Admission Date: 2026-02-16
+Discharge Date: 2026-02-20
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹57,675
+Insurance Claim ID: D0D330DA
+Hospital: Fortis Healthcare

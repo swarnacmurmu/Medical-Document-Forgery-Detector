@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P56606
+Admission Date: 2026-03-26
+Discharge Date: 2026-03-24
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹58,435
+Insurance Claim ID: B5020A79
+Hospital: Apollo Hospital

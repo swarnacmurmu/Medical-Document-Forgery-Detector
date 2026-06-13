@@ -1,0 +1,9 @@
+Patient Name: Priya Menon
+Patient ID: P73486
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-28
+Diagnosis: Asthma
+Treatment: Sumatriptan as needed
+Total Amount: ₹88,777
+Insurance Claim ID: B5C66FB9
+Hospital: AIIMS

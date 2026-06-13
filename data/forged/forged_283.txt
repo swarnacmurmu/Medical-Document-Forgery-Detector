@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P16215
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-24
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹54,859
+Insurance Claim ID: BDE93B40
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P90458
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-02
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹455,511
+Insurance Claim ID: 42D4B0D3
+Hospital: Manipal Hospital

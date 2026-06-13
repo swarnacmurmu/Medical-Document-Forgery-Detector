@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P56606
+Admission Date: 2026-03-26
+Discharge Date: 2026-04-02
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹58,435
+Insurance Claim ID: B5020A79
+Hospital: Apollo Hospital

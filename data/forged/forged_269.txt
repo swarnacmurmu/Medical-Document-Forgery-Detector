@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P74960
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-07
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹13,185
+Insurance Claim ID: D39DB29F
+Hospital: Lilavati Hospital

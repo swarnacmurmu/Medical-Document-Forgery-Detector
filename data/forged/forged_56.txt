@@ -1,0 +1,9 @@
+Patient Name: Neha Sharma
+Patient ID: P46454
+Admission Date: 2026-05-31
+Discharge Date: 2026-05-30
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹1,405,391
+Insurance Claim ID: 224D1BAB
+Hospital: Fortis Healthcare

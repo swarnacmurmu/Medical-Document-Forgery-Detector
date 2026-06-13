@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P28001
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-03
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹135,532
+Insurance Claim ID: 877CD08D
+Hospital: Fortis Healthcare

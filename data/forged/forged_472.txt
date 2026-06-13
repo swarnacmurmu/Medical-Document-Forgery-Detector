@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P59293
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-17
+Diagnosis: Asthma
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹97,359
+Insurance Claim ID: 85DE4976
+Hospital: Apollo Hospital

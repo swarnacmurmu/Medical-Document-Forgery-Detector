@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P70530
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-11
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹12,067
+Insurance Claim ID: D596F230
+Hospital: Fortis Healthcare

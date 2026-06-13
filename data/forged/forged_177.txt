@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P68528
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-22
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹192,249
+Insurance Claim ID: 04AFDF0F
+Hospital: Fortis Healthcare

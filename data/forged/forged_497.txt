@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P27580
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-24
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹351,134
+Insurance Claim ID: 4BEAB903
+Hospital: AIIMS

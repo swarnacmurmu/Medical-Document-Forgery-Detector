@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P94618
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-22
+Diagnosis: Dengue Fever
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹144,069
+Insurance Claim ID: 6F525D79
+Hospital: AIIMS

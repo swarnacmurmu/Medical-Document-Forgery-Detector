@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P89333
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-19
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹147,577
+Insurance Claim ID: 2B1D8926
+Hospital: Fortis Healthcare

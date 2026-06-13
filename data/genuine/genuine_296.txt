@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P55487
+Admission Date: 2026-04-29
+Discharge Date: 2026-04-30
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹79,415
+Insurance Claim ID: 04FCE435
+Hospital: AIIMS

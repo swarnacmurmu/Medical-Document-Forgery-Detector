@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P28823
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-13
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹171,527
+Insurance Claim ID: B50AA1BD
+Hospital: Lilavati Hospital

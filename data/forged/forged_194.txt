@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P55844
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-18
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹1,617,143
+Insurance Claim ID: 12DAB31C
+Hospital: Lilavati Hospital

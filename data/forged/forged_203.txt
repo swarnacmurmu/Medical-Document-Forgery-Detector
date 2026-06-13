@@ -1,0 +1,9 @@
+Patient Name: Vikram Verma
+Patient ID: P56264
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-16
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹139,019
+Insurance Claim ID: C1D35190
+Hospital: Apollo Hospital

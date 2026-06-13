@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P13928
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-05
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹171,787
+Insurance Claim ID: E67C9EE4
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P64636
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-31
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹115,167
+Insurance Claim ID: 151DE1C1
+Hospital: Apollo Hospital

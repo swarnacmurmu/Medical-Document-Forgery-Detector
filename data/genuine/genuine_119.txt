@@ -1,0 +1,9 @@
+Patient Name: Rajesh Verma
+Patient ID: P16049
+Admission Date: 2026-02-22
+Discharge Date: 2026-03-02
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹151,723
+Insurance Claim ID: A95725E0
+Hospital: Apollo Hospital

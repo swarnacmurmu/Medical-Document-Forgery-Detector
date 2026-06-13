@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P61974
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-13
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹118,879
+Insurance Claim ID: 13D4977F
+Hospital: Lilavati Hospital

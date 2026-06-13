@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P61658
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-12
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹85,440
+Insurance Claim ID: BC470C0B
+Hospital: Lilavati Hospital

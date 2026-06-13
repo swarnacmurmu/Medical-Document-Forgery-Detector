@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P59410
+Admission Date: 2026-04-18
+Discharge Date: 2026-04-27
+Diagnosis: Asthma
+Treatment: Sumatriptan as needed
+Total Amount: ₹135,503
+Insurance Claim ID: C4C3B3BB
+Hospital: Fortis Healthcare

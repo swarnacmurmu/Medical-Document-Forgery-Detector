@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P22739
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-04
+Diagnosis: Type 2 Diabetes
+Treatment: Azithromycin course
+Total Amount: ₹48,052
+Insurance Claim ID: 8DFE2D18
+Hospital: AIIMS

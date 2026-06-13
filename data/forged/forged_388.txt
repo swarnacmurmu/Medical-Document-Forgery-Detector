@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P49970
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-22
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹122,921
+Insurance Claim ID: 7BDC5F4C
+Hospital: Apollo Hospital

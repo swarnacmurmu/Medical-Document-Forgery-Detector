@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P86156
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-18
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹59,188
+Insurance Claim ID: DF1F2B1F
+Hospital: Fortis Healthcare

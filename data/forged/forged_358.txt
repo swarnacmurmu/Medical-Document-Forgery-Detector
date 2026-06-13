@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P75866
+Admission Date: 2026-05-11
+Discharge Date: 2026-05-17
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹10,557
+Insurance Claim ID: 96B195E9
+Hospital: Apollo Hospital

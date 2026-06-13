@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P91626
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-21
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹139,932
+Insurance Claim ID: CD217540
+Hospital: Apollo Hospital

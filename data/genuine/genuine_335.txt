@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P18623
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-12
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹40,217
+Insurance Claim ID: 601E0720
+Hospital: Apollo Hospital

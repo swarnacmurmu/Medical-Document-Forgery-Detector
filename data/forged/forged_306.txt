@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P37853
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-30
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹399,882
+Insurance Claim ID: 44F6063B
+Hospital: Fortis Healthcare

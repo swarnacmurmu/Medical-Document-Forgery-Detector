@@ -1,0 +1,9 @@
+Patient Name: Priya Singh
+Patient ID: P96070
+Admission Date: 2026-02-27
+Discharge Date: 2026-03-03
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹150,864
+Insurance Claim ID: C77A64B1
+Hospital: Manipal Hospital

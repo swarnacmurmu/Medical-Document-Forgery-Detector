@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P23740
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-03
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹66,114
+Insurance Claim ID: 7BD31D13
+Hospital: Manipal Hospital

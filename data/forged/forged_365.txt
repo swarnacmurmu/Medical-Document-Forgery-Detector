@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P51832
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-15
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹1,730,400
+Insurance Claim ID: F491FE16
+Hospital: Manipal Hospital

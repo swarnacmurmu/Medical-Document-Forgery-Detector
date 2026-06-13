@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P44884
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-08
+Diagnosis: COVID-19
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹33,323
+Insurance Claim ID: 1A4B2EEB
+Hospital: Fortis Healthcare

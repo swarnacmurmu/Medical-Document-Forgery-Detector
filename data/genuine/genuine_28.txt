@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P65443
+Admission Date: 2026-05-30
+Discharge Date: 2026-05-31
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹25,607
+Insurance Claim ID: 21E96DDE
+Hospital: Fortis Healthcare

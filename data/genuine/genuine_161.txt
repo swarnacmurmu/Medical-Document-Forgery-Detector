@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P80993
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-09
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹42,024
+Insurance Claim ID: D6139566
+Hospital: Lilavati Hospital

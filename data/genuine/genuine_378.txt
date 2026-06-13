@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P12060
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-29
+Diagnosis: Hypertension
+Treatment: Antibiotics for 5 days
+Total Amount: ₹114,768
+Insurance Claim ID: 03A520C8
+Hospital: Manipal Hospital

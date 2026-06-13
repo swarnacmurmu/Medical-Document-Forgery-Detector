@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P13638
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-25
+Diagnosis: Acute Gastroenteritis
+Treatment: Azithromycin course
+Total Amount: ₹189,944
+Insurance Claim ID: FBC8290E
+Hospital: Apollo Hospital

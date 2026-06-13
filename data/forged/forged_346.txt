@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P50113
+Admission Date: 2026-03-25
+Discharge Date: 2026-03-23
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹136,640
+Insurance Claim ID: E0BF28E7
+Hospital: Lilavati Hospital

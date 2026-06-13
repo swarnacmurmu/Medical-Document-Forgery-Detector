@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P51792
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-15
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹138,617
+Insurance Claim ID: 7B96558D
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P65195
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-06
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹3,002,592
+Insurance Claim ID: 7E6CBAB7
+Hospital: AIIMS

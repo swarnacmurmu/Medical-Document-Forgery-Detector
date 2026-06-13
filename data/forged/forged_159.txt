@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P95669
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-02
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹1,553,695
+Insurance Claim ID: F539F7DE
+Hospital: Fortis Healthcare

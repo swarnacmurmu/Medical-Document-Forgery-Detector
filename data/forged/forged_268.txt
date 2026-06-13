@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P63449
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-16
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹561,090
+Insurance Claim ID: F44334F9
+Hospital: Fortis Healthcare

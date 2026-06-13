@@ -1,0 +1,9 @@
+Patient Name: Amit Verma
+Patient ID: P33593
+Admission Date: 2026-02-24
+Discharge Date: 2026-03-05
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹150,669
+Insurance Claim ID: 3B459D9D
+Hospital: AIIMS

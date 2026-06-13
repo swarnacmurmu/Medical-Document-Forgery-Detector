@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P12710
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-02
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹38,223
+Insurance Claim ID: E814CAAF
+Hospital: AIIMS

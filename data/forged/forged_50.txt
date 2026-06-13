@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P39997
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-09
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹150,174
+Insurance Claim ID: 5F9FE02F
+Hospital: Lilavati Hospital

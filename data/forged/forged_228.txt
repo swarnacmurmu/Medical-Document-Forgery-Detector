@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P19902
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹155,946
+Insurance Claim ID: 2202C6DB
+Hospital: AIIMS

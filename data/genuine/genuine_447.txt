@@ -1,0 +1,9 @@
+Patient Name: Manish Joshi
+Patient ID: P21400
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-27
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹31,282
+Insurance Claim ID: 29D572A8
+Hospital: AIIMS

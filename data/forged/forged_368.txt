@@ -1,0 +1,9 @@
+Patient Name: Vikram Gupta
+Patient ID: P36173
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-13
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹201,240
+Insurance Claim ID: 2E494378
+Hospital: Apollo Hospital

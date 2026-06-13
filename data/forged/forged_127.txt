@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P87822
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-02
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹48,582
+Insurance Claim ID: 56027C5B
+Hospital: AIIMS

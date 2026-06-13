@@ -1,0 +1,9 @@
+Patient Name: Manish Kumar
+Patient ID: P30327
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-13
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹118,879
+Insurance Claim ID: 13D4977F
+Hospital: Lilavati Hospital

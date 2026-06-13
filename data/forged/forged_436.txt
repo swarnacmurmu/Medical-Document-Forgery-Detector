@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P74777
+Admission Date: 2026-03-19
+Discharge Date: 2026-03-23
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹162,088
+Insurance Claim ID: 551E76C1
+Hospital: Apollo Hospital

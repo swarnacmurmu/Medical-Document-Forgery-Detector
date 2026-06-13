@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P17057
+Admission Date: 2026-02-26
+Discharge Date: 2026-02-27
+Diagnosis: Asthma
+Treatment: Rest and paracetamol
+Total Amount: ₹177,481
+Insurance Claim ID: DB0570BB
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P57752
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-21
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹28,869
+Insurance Claim ID: 0C23602F
+Hospital: Apollo Hospital

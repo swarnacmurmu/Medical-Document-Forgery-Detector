@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P95483
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹83,167
+Insurance Claim ID: 9EC13462
+Hospital: AIIMS

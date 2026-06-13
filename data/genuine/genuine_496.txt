@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P51447
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-15
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹62,246
+Insurance Claim ID: 742E22A8
+Hospital: Lilavati Hospital

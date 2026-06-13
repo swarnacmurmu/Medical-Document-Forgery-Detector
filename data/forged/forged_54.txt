@@ -1,0 +1,9 @@
+Patient Name: Rajesh Nair
+Patient ID: P19176
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-25
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹71,518
+Insurance Claim ID: F5994DF5
+Hospital: Fortis Healthcare

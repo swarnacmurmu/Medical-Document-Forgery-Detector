@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P51475
+Admission Date: 2026-04-28
+Discharge Date: 2026-05-01
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹188,949
+Insurance Claim ID: A0260B96
+Hospital: Lilavati Hospital

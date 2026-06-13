@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P65511
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-08
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹137,461
+Insurance Claim ID: 8CF68837
+Hospital: Fortis Healthcare

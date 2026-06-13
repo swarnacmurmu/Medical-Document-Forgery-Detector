@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P84359
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-22
+Diagnosis: Asthma
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹1,412,917
+Insurance Claim ID: 4BD97ABE
+Hospital: Apollo Hospital

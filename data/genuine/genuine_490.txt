@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P21538
+Admission Date: 2026-05-20
+Discharge Date: 2026-05-26
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹101,773
+Insurance Claim ID: A4AA0B32
+Hospital: Lilavati Hospital

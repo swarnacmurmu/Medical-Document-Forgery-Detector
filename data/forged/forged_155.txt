@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P60046
+Admission Date: 2026-04-02
+Discharge Date: 2026-04-12
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹1,628,334
+Insurance Claim ID: E1FDD519
+Hospital: Manipal Hospital

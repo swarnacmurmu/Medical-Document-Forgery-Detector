@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P24271
+Admission Date: 2026-06-03
+Discharge Date: 2026-06-02
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹2,715,650
+Insurance Claim ID: E838B64D
+Hospital: Lilavati Hospital

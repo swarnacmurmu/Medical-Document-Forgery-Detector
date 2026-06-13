@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P51934
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-16
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹129,288
+Insurance Claim ID: E67EF298
+Hospital: Apollo Hospital

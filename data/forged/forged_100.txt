@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P95912
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-24
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,146,822
+Insurance Claim ID: 4987C903
+Hospital: Fortis Healthcare

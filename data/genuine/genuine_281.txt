@@ -1,0 +1,9 @@
+Patient Name: Anjali Sharma
+Patient ID: P16779
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-21
+Diagnosis: COVID-19
+Treatment: Antibiotics for 5 days
+Total Amount: ₹86,303
+Insurance Claim ID: 542AC885
+Hospital: AIIMS

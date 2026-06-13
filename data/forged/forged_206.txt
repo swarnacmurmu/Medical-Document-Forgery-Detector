@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P95481
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-15
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹3,442,770
+Insurance Claim ID: 51EC6A6B
+Hospital: Apollo Hospital

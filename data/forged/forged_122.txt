@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P38614
+Admission Date: 2026-02-28
+Discharge Date: 2026-03-03
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹131,254
+Insurance Claim ID: FF29902B
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P12848
+Admission Date: 2026-02-28
+Discharge Date: 2026-02-26
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹26,579
+Insurance Claim ID: 04A55347
+Hospital: Fortis Healthcare

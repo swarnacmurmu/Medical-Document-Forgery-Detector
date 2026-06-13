@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P31263
+Admission Date: 2026-04-01
+Discharge Date: 2026-03-30
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹110,492
+Insurance Claim ID: F6896ADA
+Hospital: Lilavati Hospital

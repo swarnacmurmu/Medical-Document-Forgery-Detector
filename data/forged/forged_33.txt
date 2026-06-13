@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P44695
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-05
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹135,818
+Insurance Claim ID: BF96D7BF
+Hospital: Manipal Hospital

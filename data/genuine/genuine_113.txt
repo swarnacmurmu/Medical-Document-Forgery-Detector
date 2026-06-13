@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P46986
+Admission Date: 2026-03-05
+Discharge Date: 2026-03-11
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹19,083
+Insurance Claim ID: C9D3BFE4
+Hospital: Fortis Healthcare

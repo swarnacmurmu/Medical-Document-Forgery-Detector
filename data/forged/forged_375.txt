@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P97475
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-18
+Diagnosis: Migraine
+Treatment: Inhaler and monitoring
+Total Amount: ₹114,248
+Insurance Claim ID: 4C20B4F5
+Hospital: AIIMS

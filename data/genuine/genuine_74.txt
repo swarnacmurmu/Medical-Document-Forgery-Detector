@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P68536
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-28
+Diagnosis: Pneumonia
+Treatment: Sumatriptan as needed
+Total Amount: ₹91,067
+Insurance Claim ID: 19714928
+Hospital: Fortis Healthcare

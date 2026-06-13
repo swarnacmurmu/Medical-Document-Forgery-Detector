@@ -1,0 +1,9 @@
+Patient Name: Neha Patel
+Patient ID: P50689
+Admission Date: 2026-04-29
+Discharge Date: 2026-04-27
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹79,415
+Insurance Claim ID: 04FCE435
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Vikram Joshi
+Patient ID: P79455
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-04
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹56,443
+Insurance Claim ID: 5E381564
+Hospital: Fortis Healthcare

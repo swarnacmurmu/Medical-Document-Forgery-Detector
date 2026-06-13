@@ -1,0 +1,9 @@
+Patient Name: Pooja Kumar
+Patient ID: P22799
+Admission Date: 2026-03-15
+Discharge Date: 2026-03-23
+Diagnosis: Migraine
+Treatment: Antibiotics for 5 days
+Total Amount: ₹145,764
+Insurance Claim ID: 21D125F9
+Hospital: Manipal Hospital

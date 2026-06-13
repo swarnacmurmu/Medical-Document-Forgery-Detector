@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P58471
+Admission Date: 2026-02-27
+Discharge Date: 2026-02-25
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹1,092,743
+Insurance Claim ID: A47D47E0
+Hospital: AIIMS

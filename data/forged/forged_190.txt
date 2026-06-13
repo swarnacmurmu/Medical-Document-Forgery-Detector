@@ -1,0 +1,9 @@
+Patient Name: Anjali Patel
+Patient ID: P32402
+Admission Date: 2026-05-01
+Discharge Date: 2026-04-29
+Diagnosis: COVID-19
+Treatment: Azithromycin course
+Total Amount: ₹112,135
+Insurance Claim ID: 1C2F3F7D
+Hospital: Fortis Healthcare

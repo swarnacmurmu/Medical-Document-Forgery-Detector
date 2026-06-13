@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P50424
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-06
+Diagnosis: Hypertension
+Treatment: Inhaler and monitoring
+Total Amount: ₹40,215
+Insurance Claim ID: 4C18357F
+Hospital: Fortis Healthcare

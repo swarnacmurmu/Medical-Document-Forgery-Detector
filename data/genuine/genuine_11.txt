@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P68058
+Admission Date: 2026-03-08
+Discharge Date: 2026-03-14
+Diagnosis: Typhoid
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹156,014
+Insurance Claim ID: D8C0F13C
+Hospital: Manipal Hospital

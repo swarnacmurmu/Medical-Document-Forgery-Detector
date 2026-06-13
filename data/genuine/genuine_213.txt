@@ -1,0 +1,9 @@
+Patient Name: Rajesh Gupta
+Patient ID: P21594
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-16
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹172,995
+Insurance Claim ID: BD9B5B0C
+Hospital: AIIMS

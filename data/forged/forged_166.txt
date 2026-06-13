@@ -1,0 +1,9 @@
+Patient Name: Priya Joshi
+Patient ID: P58112
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-12
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹1,173,376
+Insurance Claim ID: 6820CBF9
+Hospital: Manipal Hospital

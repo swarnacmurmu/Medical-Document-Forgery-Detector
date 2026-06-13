@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P59212
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-11
+Diagnosis: Dengue Fever
+Treatment: Inhaler and monitoring
+Total Amount: ₹158,499
+Insurance Claim ID: 1A8E3D85
+Hospital: Lilavati Hospital

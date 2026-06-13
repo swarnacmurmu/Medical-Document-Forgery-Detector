@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P19367
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-15
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹178,196
+Insurance Claim ID: 8109B32D
+Hospital: Fortis Healthcare

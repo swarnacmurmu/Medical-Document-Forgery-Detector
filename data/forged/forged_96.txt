@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P28610
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-17
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹108,228
+Insurance Claim ID: A22A1EF8
+Hospital: Lilavati Hospital

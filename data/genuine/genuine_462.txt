@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P53065
+Admission Date: 2026-04-07
+Discharge Date: 2026-04-10
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹81,003
+Insurance Claim ID: 05806ACE
+Hospital: Fortis Healthcare

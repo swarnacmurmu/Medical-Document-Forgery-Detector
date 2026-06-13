@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P66083
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-19
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹141,774
+Insurance Claim ID: CDCAE92C
+Hospital: Lilavati Hospital

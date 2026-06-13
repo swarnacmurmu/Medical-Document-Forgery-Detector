@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P39761
+Admission Date: 2026-04-30
+Discharge Date: 2026-04-28
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹102,240
+Insurance Claim ID: 04D4AFD9
+Hospital: Lilavati Hospital

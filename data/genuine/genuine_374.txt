@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P84309
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-21
+Diagnosis: Type 2 Diabetes
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹111,239
+Insurance Claim ID: AC7E3ED7
+Hospital: Lilavati Hospital

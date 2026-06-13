@@ -1,0 +1,9 @@
+Patient Name: Vikram Patel
+Patient ID: P93692
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-18
+Diagnosis: Pneumonia
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹1,552,120
+Insurance Claim ID: D9E520D2
+Hospital: Fortis Healthcare

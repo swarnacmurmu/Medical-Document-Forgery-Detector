@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P36234
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-21
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹634,560
+Insurance Claim ID: 1F57DA2F
+Hospital: Manipal Hospital

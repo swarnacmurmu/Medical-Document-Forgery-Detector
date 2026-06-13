@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P70993
+Admission Date: 2026-03-27
+Discharge Date: 2026-04-04
+Diagnosis: Hypertension
+Treatment: Sumatriptan as needed
+Total Amount: ₹95,312
+Insurance Claim ID: 3BD2E662
+Hospital: Lilavati Hospital

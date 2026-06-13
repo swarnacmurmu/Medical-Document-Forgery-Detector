@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P27192
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-16
+Diagnosis: COVID-19
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹182,165
+Insurance Claim ID: D6987EF5
+Hospital: AIIMS

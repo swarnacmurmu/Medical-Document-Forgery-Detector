@@ -1,0 +1,9 @@
+Patient Name: Priya Nair
+Patient ID: P38363
+Admission Date: 2026-05-23
+Discharge Date: 2026-05-29
+Diagnosis: COVID-19
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹176,286
+Insurance Claim ID: 0FE8B44C
+Hospital: Apollo Hospital

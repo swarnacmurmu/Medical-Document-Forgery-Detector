@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P65464
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-06
+Diagnosis: Type 2 Diabetes
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹195,297
+Insurance Claim ID: 6AECD494
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P89604
+Admission Date: 2026-03-07
+Discharge Date: 2026-03-09
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹21,219
+Insurance Claim ID: 468AA27E
+Hospital: Apollo Hospital

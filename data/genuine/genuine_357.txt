@@ -1,0 +1,9 @@
+Patient Name: Amit Reddy
+Patient ID: P79104
+Admission Date: 2026-04-01
+Discharge Date: 2026-04-06
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹190,477
+Insurance Claim ID: A5D7C956
+Hospital: AIIMS

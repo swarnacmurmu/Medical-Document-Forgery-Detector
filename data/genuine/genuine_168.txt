@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P46816
+Admission Date: 2026-04-23
+Discharge Date: 2026-04-24
+Diagnosis: COVID-19
+Treatment: Antibiotics for 5 days
+Total Amount: ₹7,774
+Insurance Claim ID: CD217540
+Hospital: Apollo Hospital

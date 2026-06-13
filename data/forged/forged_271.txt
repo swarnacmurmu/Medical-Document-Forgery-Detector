@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P95483
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹249,501
+Insurance Claim ID: 9EC13462
+Hospital: AIIMS

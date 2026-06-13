@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P35028
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-09
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹2,136,060
+Insurance Claim ID: 0C74428C
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P50622
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-16
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹432,207
+Insurance Claim ID: 6F525D79
+Hospital: AIIMS

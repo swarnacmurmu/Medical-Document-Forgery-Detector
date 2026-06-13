@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P32880
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-20
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹606,436
+Insurance Claim ID: 91DF0E45
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P67702
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-18
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹50,601
+Insurance Claim ID: 30ABCD74
+Hospital: Lilavati Hospital

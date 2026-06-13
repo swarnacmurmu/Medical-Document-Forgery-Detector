@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P15577
+Admission Date: 2026-04-26
+Discharge Date: 2026-04-29
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹102,834
+Insurance Claim ID: 61308BB8
+Hospital: Fortis Healthcare

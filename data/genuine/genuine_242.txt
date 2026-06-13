@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P23578
+Admission Date: 2026-05-14
+Discharge Date: 2026-05-19
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹11,350
+Insurance Claim ID: 5EE3137E
+Hospital: Lilavati Hospital

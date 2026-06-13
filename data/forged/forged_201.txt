@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P88123
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-27
+Diagnosis: Dengue Fever
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹370,756
+Insurance Claim ID: B5206330
+Hospital: Apollo Hospital

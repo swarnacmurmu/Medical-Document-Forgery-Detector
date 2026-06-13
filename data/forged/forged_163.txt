@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P89674
+Admission Date: 2026-05-26
+Discharge Date: 2026-05-24
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹129,987
+Insurance Claim ID: 2C89D10A
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P33612
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-13
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹78,460
+Insurance Claim ID: 02ECB2EA
+Hospital: Apollo Hospital

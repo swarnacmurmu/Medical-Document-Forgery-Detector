@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P38864
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-15
+Diagnosis: Acute Gastroenteritis
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹96,988
+Insurance Claim ID: 090B68E0
+Hospital: Lilavati Hospital

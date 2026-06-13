@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P99329
+Admission Date: 2026-06-09
+Discharge Date: 2026-06-12
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹38,998
+Insurance Claim ID: 0FBA2BED
+Hospital: Manipal Hospital

@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P96563
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-26
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹630,088
+Insurance Claim ID: DCB15BEE
+Hospital: AIIMS

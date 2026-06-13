@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P69567
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-05
+Diagnosis: COVID-19
+Treatment: Rest and paracetamol
+Total Amount: ₹155,790
+Insurance Claim ID: 271BA7C8
+Hospital: Apollo Hospital

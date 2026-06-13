@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P48636
+Admission Date: 2026-04-11
+Discharge Date: 2026-04-09
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹1,198,267
+Insurance Claim ID: 821E2F22
+Hospital: Fortis Healthcare

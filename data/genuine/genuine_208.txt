@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P10391
+Admission Date: 2026-05-28
+Discharge Date: 2026-06-03
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹85,780
+Insurance Claim ID: 56AB0F41
+Hospital: AIIMS

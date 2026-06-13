@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P75519
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-11
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹137,325
+Insurance Claim ID: 1F4D94EB
+Hospital: Lilavati Hospital

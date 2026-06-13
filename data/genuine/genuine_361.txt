@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P60449
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-26
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹70,145
+Insurance Claim ID: F8AB1EEE
+Hospital: Apollo Hospital

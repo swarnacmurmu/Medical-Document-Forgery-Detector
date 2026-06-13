@@ -1,0 +1,9 @@
+Patient Name: Neha Gupta
+Patient ID: P30966
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-17
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹95,543
+Insurance Claim ID: 2B32AFD2
+Hospital: AIIMS

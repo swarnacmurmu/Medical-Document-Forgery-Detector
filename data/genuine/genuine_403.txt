@@ -1,0 +1,9 @@
+Patient Name: Pooja Singh
+Patient ID: P12084
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-23
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹189,417
+Insurance Claim ID: 8131B362
+Hospital: Fortis Healthcare

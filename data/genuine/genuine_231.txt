@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P95081
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-21
+Diagnosis: Migraine
+Treatment: Inhaler and monitoring
+Total Amount: ₹182,981
+Insurance Claim ID: 4E2194FC
+Hospital: Manipal Hospital

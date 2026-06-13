@@ -1,0 +1,9 @@
+Patient Name: Sunita Nair
+Patient ID: P67256
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹34,520
+Insurance Claim ID: E6AE9A41
+Hospital: AIIMS

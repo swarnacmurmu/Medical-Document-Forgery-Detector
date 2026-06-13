@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P69931
+Admission Date: 2026-04-26
+Discharge Date: 2026-05-05
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹69,265
+Insurance Claim ID: 3BA92F23
+Hospital: Fortis Healthcare

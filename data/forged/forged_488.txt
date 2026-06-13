@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P81232
+Admission Date: 2026-02-23
+Discharge Date: 2026-02-20
+Diagnosis: Urinary Tract Infection
+Treatment: Rest and paracetamol
+Total Amount: ₹112,164
+Insurance Claim ID: D6899CE8
+Hospital: Apollo Hospital

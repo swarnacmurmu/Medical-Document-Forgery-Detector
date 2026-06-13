@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P76580
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-27
+Diagnosis: Migraine
+Treatment: Rest and paracetamol
+Total Amount: ₹60,606
+Insurance Claim ID: 2A2959A5
+Hospital: Fortis Healthcare

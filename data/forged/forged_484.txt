@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P86339
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-26
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹185,093
+Insurance Claim ID: F7B3815E
+Hospital: Lilavati Hospital

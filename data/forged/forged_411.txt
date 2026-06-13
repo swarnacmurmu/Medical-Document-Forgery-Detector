@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P10657
+Admission Date: 2026-02-15
+Discharge Date: 2026-02-18
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹199,680
+Insurance Claim ID: 064F8EC1
+Hospital: Fortis Healthcare

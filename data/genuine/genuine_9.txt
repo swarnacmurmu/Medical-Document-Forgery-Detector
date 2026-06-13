@@ -1,0 +1,9 @@
+Patient Name: Rahul Patel
+Patient ID: P93846
+Admission Date: 2026-04-08
+Discharge Date: 2026-04-13
+Diagnosis: Type 2 Diabetes
+Treatment: Inhaler and monitoring
+Total Amount: ₹13,707
+Insurance Claim ID: 4B023D68
+Hospital: Manipal Hospital

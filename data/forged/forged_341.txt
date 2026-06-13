@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P19592
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-29
+Diagnosis: Type 2 Diabetes
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹58,356
+Insurance Claim ID: FE0F3D34
+Hospital: Lilavati Hospital

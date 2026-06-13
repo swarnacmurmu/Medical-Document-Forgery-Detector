@@ -1,0 +1,9 @@
+Patient Name: Sunita Singh
+Patient ID: P81534
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-10
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹1,518,354
+Insurance Claim ID: 185A3BDD
+Hospital: Fortis Healthcare

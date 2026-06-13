@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P76352
+Admission Date: 2026-06-04
+Discharge Date: 2026-06-01
+Diagnosis: Hypertension
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹305,238
+Insurance Claim ID: AEF59B92
+Hospital: Apollo Hospital

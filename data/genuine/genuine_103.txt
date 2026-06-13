@@ -1,0 +1,9 @@
+Patient Name: Vikram Reddy
+Patient ID: P25264
+Admission Date: 2026-03-20
+Discharge Date: 2026-03-26
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹51,433
+Insurance Claim ID: 24773C4C
+Hospital: Manipal Hospital

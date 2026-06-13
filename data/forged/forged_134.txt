@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P93796
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-18
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,283,040
+Insurance Claim ID: 2E0900B2
+Hospital: Fortis Healthcare

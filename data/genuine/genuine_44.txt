@@ -1,0 +1,9 @@
+Patient Name: Neha Menon
+Patient ID: P90812
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-06
+Diagnosis: Acute Gastroenteritis
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹48,149
+Insurance Claim ID: D09863D0
+Hospital: AIIMS

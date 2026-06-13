@@ -1,0 +1,9 @@
+Patient Name: Sunita Sharma
+Patient ID: P35783
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-26
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹126,674
+Insurance Claim ID: 5B3DB0C9
+Hospital: Manipal Hospital

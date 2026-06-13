@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P60238
+Admission Date: 2026-06-07
+Discharge Date: 2026-06-16
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹75,044
+Insurance Claim ID: 01441658
+Hospital: Apollo Hospital

@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P38413
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-25
+Diagnosis: Dengue Fever
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹927,750
+Insurance Claim ID: F5C8FC2A
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Priya Sharma
+Patient ID: P48903
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-01
+Diagnosis: Typhoid
+Treatment: Inhaler and monitoring
+Total Amount: ₹143,229
+Insurance Claim ID: 2A6935F5
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P57387
+Admission Date: 2026-02-23
+Discharge Date: 2026-03-03
+Diagnosis: Urinary Tract Infection
+Treatment: Sumatriptan as needed
+Total Amount: ₹79,397
+Insurance Claim ID: B54C2155
+Hospital: Fortis Healthcare

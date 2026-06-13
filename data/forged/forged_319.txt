@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P16453
+Admission Date: 2026-04-30
+Discharge Date: 2026-04-29
+Diagnosis: Migraine
+Treatment: Inhaler and monitoring
+Total Amount: ₹1,123,938
+Insurance Claim ID: 7BD31D13
+Hospital: Manipal Hospital

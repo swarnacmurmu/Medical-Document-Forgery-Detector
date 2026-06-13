@@ -1,0 +1,9 @@
+Patient Name: Neha Reddy
+Patient ID: P79257
+Admission Date: 2026-05-13
+Discharge Date: 2026-05-18
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹149,513
+Insurance Claim ID: A34A0AAD
+Hospital: AIIMS

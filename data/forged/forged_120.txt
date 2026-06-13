@@ -1,0 +1,9 @@
+Patient Name: Vikram Singh
+Patient ID: P73390
+Admission Date: 2026-04-17
+Discharge Date: 2026-04-26
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹68,406
+Insurance Claim ID: A687A3D5
+Hospital: Apollo Hospital

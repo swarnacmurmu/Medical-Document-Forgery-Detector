@@ -1,0 +1,9 @@
+Patient Name: Rahul Gupta
+Patient ID: P12411
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-24
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹95,312
+Insurance Claim ID: 3BD2E662
+Hospital: Lilavati Hospital

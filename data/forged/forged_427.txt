@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P83128
+Admission Date: 2026-06-13
+Discharge Date: 2026-06-11
+Diagnosis: Asthma
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹71,159
+Insurance Claim ID: 07C630E9
+Hospital: Manipal Hospital

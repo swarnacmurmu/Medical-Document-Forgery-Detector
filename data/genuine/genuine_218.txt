@@ -1,0 +1,9 @@
+Patient Name: Pooja Menon
+Patient ID: P10883
+Admission Date: 2026-05-27
+Discharge Date: 2026-06-04
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹180,019
+Insurance Claim ID: 8ACC51F1
+Hospital: AIIMS

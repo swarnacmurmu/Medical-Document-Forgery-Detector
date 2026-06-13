@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P44182
+Admission Date: 2026-04-29
+Discharge Date: 2026-05-06
+Diagnosis: COVID-19
+Treatment: Inhaler and monitoring
+Total Amount: ₹86,919
+Insurance Claim ID: 3057FF0F
+Hospital: Apollo Hospital

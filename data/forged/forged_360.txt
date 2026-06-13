@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P55711
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-29
+Diagnosis: Acute Gastroenteritis
+Treatment: Sumatriptan as needed
+Total Amount: ₹96,195
+Insurance Claim ID: E2D5C60B
+Hospital: Apollo Hospital

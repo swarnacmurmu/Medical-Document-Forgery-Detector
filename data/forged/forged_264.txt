@@ -1,0 +1,9 @@
+Patient Name: Amit Patel
+Patient ID: P97628
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-12
+Diagnosis: Pneumonia
+Treatment: Azithromycin course
+Total Amount: ₹35,343
+Insurance Claim ID: 7D3A0F13
+Hospital: Fortis Healthcare

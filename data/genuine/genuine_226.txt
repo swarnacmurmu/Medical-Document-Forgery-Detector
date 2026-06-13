@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P62700
+Admission Date: 2026-04-21
+Discharge Date: 2026-04-25
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹197,164
+Insurance Claim ID: 6658E788
+Hospital: Fortis Healthcare

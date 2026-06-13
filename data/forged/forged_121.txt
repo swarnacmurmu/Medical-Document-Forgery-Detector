@@ -1,0 +1,9 @@
+Patient Name: Neha Verma
+Patient ID: P57752
+Admission Date: 2026-03-17
+Discharge Date: 2026-03-15
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹28,869
+Insurance Claim ID: 0C23602F
+Hospital: Apollo Hospital

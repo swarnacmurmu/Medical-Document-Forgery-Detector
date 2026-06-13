@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P66262
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-04
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹151,438
+Insurance Claim ID: 07CFC464
+Hospital: Apollo Hospital

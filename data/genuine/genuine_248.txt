@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P42455
+Admission Date: 2026-02-26
+Discharge Date: 2026-03-03
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹26,127
+Insurance Claim ID: 2C635663
+Hospital: AIIMS

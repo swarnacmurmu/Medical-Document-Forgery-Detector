@@ -1,0 +1,9 @@
+Patient Name: Rajesh Kumar
+Patient ID: P68624
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-22
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹95,040
+Insurance Claim ID: 24E8FD21
+Hospital: Apollo Hospital

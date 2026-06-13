@@ -1,0 +1,9 @@
+Patient Name: Anjali Joshi
+Patient ID: P87659
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-20
+Diagnosis: Hypertension
+Treatment: Rest and paracetamol
+Total Amount: ₹75,848
+Insurance Claim ID: 892CE8A4
+Hospital: Manipal Hospital

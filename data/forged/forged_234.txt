@@ -1,0 +1,9 @@
+Patient Name: Anjali Nair
+Patient ID: P26737
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-17
+Diagnosis: Typhoid
+Treatment: Antibiotics for 5 days
+Total Amount: ₹114,262
+Insurance Claim ID: ABE15A45
+Hospital: AIIMS

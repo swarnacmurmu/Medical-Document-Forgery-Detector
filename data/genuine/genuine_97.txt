@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P71101
+Admission Date: 2026-03-14
+Discharge Date: 2026-03-21
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹8,999
+Insurance Claim ID: 38971D80
+Hospital: AIIMS

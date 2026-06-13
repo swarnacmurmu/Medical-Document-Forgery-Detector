@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P10048
+Admission Date: 2026-03-27
+Discharge Date: 2026-03-26
+Diagnosis: Dengue Fever
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹103,470
+Insurance Claim ID: 69930FE9
+Hospital: AIIMS

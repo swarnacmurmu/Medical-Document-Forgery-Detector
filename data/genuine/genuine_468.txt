@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P83328
+Admission Date: 2026-05-06
+Discharge Date: 2026-05-14
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹93,392
+Insurance Claim ID: 2EFA8080
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Priya Reddy
+Patient ID: P93796
+Admission Date: 2026-02-21
+Discharge Date: 2026-03-03
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹116,640
+Insurance Claim ID: 2E0900B2
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P96563
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-26
+Diagnosis: Migraine
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹157,522
+Insurance Claim ID: DCB15BEE
+Hospital: AIIMS

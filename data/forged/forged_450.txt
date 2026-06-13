@@ -1,0 +1,9 @@
+Patient Name: Rajesh Menon
+Patient ID: P93697
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-04
+Diagnosis: Migraine
+Treatment: IV fluids and oral rehydration
+Total Amount: ₹1,464,648
+Insurance Claim ID: 66E7C1E3
+Hospital: Manipal Hospital

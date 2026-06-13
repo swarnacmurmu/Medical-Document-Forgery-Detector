@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P94816
+Admission Date: 2026-02-19
+Discharge Date: 2026-02-23
+Diagnosis: Urinary Tract Infection
+Treatment: Inhaler and monitoring
+Total Amount: ₹86,869
+Insurance Claim ID: 39396951
+Hospital: Apollo Hospital

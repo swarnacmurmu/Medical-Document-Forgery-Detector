@@ -1,0 +1,9 @@
+Patient Name: Rajesh Singh
+Patient ID: P23117
+Admission Date: 2026-06-05
+Discharge Date: 2026-06-06
+Diagnosis: Pneumonia
+Treatment: Inhaler and monitoring
+Total Amount: ₹2,005,444
+Insurance Claim ID: 2CC3CE7F
+Hospital: Lilavati Hospital

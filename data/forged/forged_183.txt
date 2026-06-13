@@ -1,0 +1,9 @@
+Patient Name: Anjali Gupta
+Patient ID: P34129
+Admission Date: 2026-04-04
+Discharge Date: 2026-04-08
+Diagnosis: Urinary Tract Infection
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹183,267
+Insurance Claim ID: 30167D6D
+Hospital: Fortis Healthcare

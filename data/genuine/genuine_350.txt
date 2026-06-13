@@ -1,0 +1,9 @@
+Patient Name: Rajesh Gupta
+Patient ID: P69857
+Admission Date: 2026-05-28
+Discharge Date: 2026-06-07
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹36,380
+Insurance Claim ID: F33AC00A
+Hospital: Fortis Healthcare

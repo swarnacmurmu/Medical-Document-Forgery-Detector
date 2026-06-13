@@ -1,0 +1,9 @@
+Patient Name: Rahul Reddy
+Patient ID: P52596
+Admission Date: 2026-03-01
+Discharge Date: 2026-03-06
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹132,551
+Insurance Claim ID: 8CA46271
+Hospital: Manipal Hospital

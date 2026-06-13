@@ -1,0 +1,9 @@
+Patient Name: Amit Gupta
+Patient ID: P93885
+Admission Date: 2026-05-19
+Discharge Date: 2026-05-17
+Diagnosis: Asthma
+Treatment: Azithromycin course
+Total Amount: ₹30,852
+Insurance Claim ID: 371F1D23
+Hospital: Manipal Hospital

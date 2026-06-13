@@ -1,0 +1,9 @@
+Patient Name: Rahul Menon
+Patient ID: P16978
+Admission Date: 2026-05-24
+Discharge Date: 2026-05-28
+Diagnosis: COVID-19
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹82,881
+Insurance Claim ID: 40776294
+Hospital: Fortis Healthcare

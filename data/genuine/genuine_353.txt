@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P87077
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-24
+Diagnosis: Asthma
+Treatment: Inhaler and monitoring
+Total Amount: ₹151,511
+Insurance Claim ID: 77AF92D5
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P38999
+Admission Date: 2026-03-23
+Discharge Date: 2026-04-01
+Diagnosis: Type 2 Diabetes
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹59,885
+Insurance Claim ID: 859B7F69
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P50595
+Admission Date: 2026-06-08
+Discharge Date: 2026-06-11
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹1,339,366
+Insurance Claim ID: ED3CCA2B
+Hospital: Manipal Hospital

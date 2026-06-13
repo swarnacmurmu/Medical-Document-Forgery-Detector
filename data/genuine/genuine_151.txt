@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P12112
+Admission Date: 2026-06-01
+Discharge Date: 2026-06-03
+Diagnosis: COVID-19
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹165,029
+Insurance Claim ID: 92C2DA94
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Vikram Kumar
+Patient ID: P89548
+Admission Date: 2026-05-09
+Discharge Date: 2026-05-13
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹16,983
+Insurance Claim ID: 1EAFA3DD
+Hospital: AIIMS

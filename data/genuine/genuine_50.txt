@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P21811
+Admission Date: 2026-06-10
+Discharge Date: 2026-06-14
+Diagnosis: Typhoid
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹150,174
+Insurance Claim ID: 5F9FE02F
+Hospital: Lilavati Hospital

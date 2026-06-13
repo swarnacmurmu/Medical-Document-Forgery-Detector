@@ -1,0 +1,9 @@
+Patient Name: Rajesh Patel
+Patient ID: P97852
+Admission Date: 2026-03-10
+Discharge Date: 2026-03-15
+Diagnosis: Type 2 Diabetes
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹28,706
+Insurance Claim ID: A12332CF
+Hospital: AIIMS

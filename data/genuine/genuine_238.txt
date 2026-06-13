@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P75293
+Admission Date: 2026-02-18
+Discharge Date: 2026-02-24
+Diagnosis: COVID-19
+Treatment: Sumatriptan as needed
+Total Amount: ₹132,542
+Insurance Claim ID: 55C054CE
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Amit Joshi
+Patient ID: P32354
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-26
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹140,288
+Insurance Claim ID: AD76BF08
+Hospital: Lilavati Hospital

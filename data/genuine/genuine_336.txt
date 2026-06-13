@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P50628
+Admission Date: 2026-04-16
+Discharge Date: 2026-04-25
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹25,059
+Insurance Claim ID: 35117495
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Anjali Menon
+Patient ID: P27931
+Admission Date: 2026-02-17
+Discharge Date: 2026-02-16
+Diagnosis: Asthma
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,515,110
+Insurance Claim ID: 77AF92D5
+Hospital: AIIMS

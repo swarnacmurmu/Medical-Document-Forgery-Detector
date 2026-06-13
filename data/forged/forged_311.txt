@@ -1,0 +1,9 @@
+Patient Name: Vikram Sharma
+Patient ID: P50561
+Admission Date: 2026-05-15
+Discharge Date: 2026-05-20
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹60,744
+Insurance Claim ID: F0F974DD
+Hospital: Fortis Healthcare

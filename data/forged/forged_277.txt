@@ -1,0 +1,9 @@
+Patient Name: Pooja Reddy
+Patient ID: P85059
+Admission Date: 2026-05-29
+Discharge Date: 2026-05-26
+Diagnosis: Asthma
+Treatment: Antibiotics for 5 days
+Total Amount: ₹1,136,190
+Insurance Claim ID: 1418E851
+Hospital: Fortis Healthcare

@@ -1,0 +1,9 @@
+Patient Name: Manish Gupta
+Patient ID: P51139
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-12
+Diagnosis: Urinary Tract Infection
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹120,320
+Insurance Claim ID: 3EFF9E7D
+Hospital: AIIMS

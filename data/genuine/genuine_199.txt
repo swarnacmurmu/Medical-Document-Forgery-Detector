@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P57656
+Admission Date: 2026-03-12
+Discharge Date: 2026-03-15
+Diagnosis: Typhoid
+Treatment: Rest and paracetamol
+Total Amount: ₹129,897
+Insurance Claim ID: 2C34C1A3
+Hospital: AIIMS

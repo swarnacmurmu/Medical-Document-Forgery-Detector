@@ -1,0 +1,9 @@
+Patient Name: Manish Singh
+Patient ID: P42148
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-06
+Diagnosis: Asthma
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹40,659
+Insurance Claim ID: 73F06609
+Hospital: Manipal Hospital

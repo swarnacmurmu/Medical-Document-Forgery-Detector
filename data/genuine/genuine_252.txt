@@ -1,0 +1,9 @@
+Patient Name: Manish Sharma
+Patient ID: P98192
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-22
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹118,391
+Insurance Claim ID: 3CB561EF
+Hospital: Fortis Healthcare

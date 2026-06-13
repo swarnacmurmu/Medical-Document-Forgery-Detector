@@ -1,0 +1,9 @@
+Patient Name: Rajesh Reddy
+Patient ID: P51512
+Admission Date: 2026-04-05
+Discharge Date: 2026-04-14
+Diagnosis: Hypertension
+Treatment: Azithromycin course
+Total Amount: ₹103,879
+Insurance Claim ID: 744064FB
+Hospital: Fortis Healthcare

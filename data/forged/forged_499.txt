@@ -1,0 +1,9 @@
+Patient Name: Pooja Patel
+Patient ID: P98723
+Admission Date: 2026-03-31
+Discharge Date: 2026-03-29
+Diagnosis: Typhoid
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹1,598,166
+Insurance Claim ID: E4D50795
+Hospital: Lilavati Hospital

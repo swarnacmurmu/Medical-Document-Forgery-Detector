@@ -1,0 +1,9 @@
+Patient Name: Pooja Sharma
+Patient ID: P64256
+Admission Date: 2026-06-12
+Discharge Date: 2026-06-18
+Diagnosis: Acute Gastroenteritis
+Treatment: Rest and paracetamol
+Total Amount: ₹57,830
+Insurance Claim ID: 1C5B6DA7
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rahul Nair
+Patient ID: P62386
+Admission Date: 2026-03-11
+Discharge Date: 2026-03-10
+Diagnosis: Acute Gastroenteritis
+Treatment: Antibiotics for 5 days
+Total Amount: ₹46,858
+Insurance Claim ID: 70E0F370
+Hospital: AIIMS

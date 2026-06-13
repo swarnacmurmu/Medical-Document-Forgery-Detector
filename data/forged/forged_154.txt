@@ -1,0 +1,9 @@
+Patient Name: Amit Singh
+Patient ID: P26284
+Admission Date: 2026-02-25
+Discharge Date: 2026-02-23
+Diagnosis: Urinary Tract Infection
+Treatment: Azithromycin course
+Total Amount: ₹183,273
+Insurance Claim ID: F145C38A
+Hospital: Manipal Hospital

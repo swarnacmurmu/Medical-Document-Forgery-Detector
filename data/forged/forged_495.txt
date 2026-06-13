@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P31229
+Admission Date: 2026-03-31
+Discharge Date: 2026-04-08
+Diagnosis: Pneumonia
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹189,953
+Insurance Claim ID: 32E6AFC1
+Hospital: Fortis Healthcare

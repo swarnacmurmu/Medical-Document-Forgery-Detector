@@ -1,0 +1,9 @@
+Patient Name: Sunita Menon
+Patient ID: P55525
+Admission Date: 2026-04-25
+Discharge Date: 2026-04-23
+Diagnosis: Migraine
+Treatment: Sumatriptan as needed
+Total Amount: ₹969,696
+Insurance Claim ID: 2A2959A5
+Hospital: Fortis Healthcare

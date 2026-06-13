@@ -1,0 +1,9 @@
+Patient Name: Sunita Verma
+Patient ID: P39346
+Admission Date: 2026-05-01
+Discharge Date: 2026-05-05
+Diagnosis: Type 2 Diabetes
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹40,818
+Insurance Claim ID: 6F9798C9
+Hospital: Fortis Healthcare

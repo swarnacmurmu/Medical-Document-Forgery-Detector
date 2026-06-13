@@ -1,0 +1,9 @@
+Patient Name: Priya Verma
+Patient ID: P61307
+Admission Date: 2026-02-14
+Discharge Date: 2026-02-16
+Diagnosis: Dengue Fever
+Treatment: Antibiotics for 5 days
+Total Amount: ₹11,882
+Insurance Claim ID: 1251ECC7
+Hospital: Fortis Healthcare

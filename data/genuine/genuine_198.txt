@@ -1,0 +1,9 @@
+Patient Name: Neha Sharma
+Patient ID: P69658
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-23
+Diagnosis: Typhoid
+Treatment: Azithromycin course
+Total Amount: ₹13,486
+Insurance Claim ID: 0723FCD9
+Hospital: AIIMS

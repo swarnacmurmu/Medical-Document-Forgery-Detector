@@ -1,0 +1,9 @@
+Patient Name: Manish Nair
+Patient ID: P86296
+Admission Date: 2026-03-16
+Discharge Date: 2026-03-17
+Diagnosis: Migraine
+Treatment: Azithromycin course
+Total Amount: ₹1,572,144
+Insurance Claim ID: 3AF62458
+Hospital: AIIMS

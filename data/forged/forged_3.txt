@@ -1,0 +1,9 @@
+Patient Name: Amit Sharma
+Patient ID: P52803
+Admission Date: 2026-05-04
+Discharge Date: 2026-05-03
+Diagnosis: Typhoid
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹144,490
+Insurance Claim ID: 611AF6BF
+Hospital: Manipal Hospital

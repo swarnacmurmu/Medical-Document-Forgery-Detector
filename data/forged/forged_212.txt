@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P71338
+Admission Date: 2026-03-03
+Discharge Date: 2026-03-10
+Diagnosis: Typhoid
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹42,997
+Insurance Claim ID: 1D669EE0
+Hospital: Apollo Hospital

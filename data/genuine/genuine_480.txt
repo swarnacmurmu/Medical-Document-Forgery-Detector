@@ -1,0 +1,9 @@
+Patient Name: Neha Nair
+Patient ID: P88843
+Admission Date: 2026-04-10
+Discharge Date: 2026-04-17
+Diagnosis: Acute Gastroenteritis
+Treatment: Inhaler and monitoring
+Total Amount: ₹151,745
+Insurance Claim ID: C8F82E52
+Hospital: AIIMS

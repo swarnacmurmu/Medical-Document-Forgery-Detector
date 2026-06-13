@@ -1,0 +1,9 @@
+Patient Name: Rajesh Joshi
+Patient ID: P21748
+Admission Date: 2026-05-08
+Discharge Date: 2026-05-18
+Diagnosis: Dengue Fever
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹89,397
+Insurance Claim ID: 7C811943
+Hospital: Lilavati Hospital

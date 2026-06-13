@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P19218
+Admission Date: 2026-05-21
+Discharge Date: 2026-05-20
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹719,208
+Insurance Claim ID: 81948AEF
+Hospital: Manipal Hospital

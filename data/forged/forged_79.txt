@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P28943
+Admission Date: 2026-03-22
+Discharge Date: 2026-03-20
+Diagnosis: Hypertension
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹54,913
+Insurance Claim ID: 16A6D0D3
+Hospital: Fortis Healthcare

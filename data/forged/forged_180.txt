@@ -1,0 +1,9 @@
+Patient Name: Rahul Kumar
+Patient ID: P32926
+Admission Date: 2026-05-22
+Discharge Date: 2026-05-21
+Diagnosis: Acute Gastroenteritis
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹191,060
+Insurance Claim ID: C2375CC9
+Hospital: AIIMS

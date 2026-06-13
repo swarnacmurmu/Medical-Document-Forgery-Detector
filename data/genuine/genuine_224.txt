@@ -1,0 +1,9 @@
+Patient Name: Manish Reddy
+Patient ID: P67391
+Admission Date: 2026-05-17
+Discharge Date: 2026-05-24
+Diagnosis: Pneumonia
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹6,654
+Insurance Claim ID: F1E2FC2D
+Hospital: AIIMS

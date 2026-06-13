@@ -1,0 +1,9 @@
+Patient Name: Rajesh Sharma
+Patient ID: P77738
+Admission Date: 2026-06-06
+Discharge Date: 2026-06-13
+Diagnosis: Migraine
+Treatment: Lisinopril 10mg daily
+Total Amount: ₹105,710
+Insurance Claim ID: 85666359
+Hospital: AIIMS

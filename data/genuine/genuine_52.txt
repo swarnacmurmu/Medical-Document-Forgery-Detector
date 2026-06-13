@@ -1,0 +1,9 @@
+Patient Name: Pooja Joshi
+Patient ID: P15236
+Admission Date: 2026-04-24
+Discharge Date: 2026-04-30
+Diagnosis: COVID-19
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹143,598
+Insurance Claim ID: BDF79936
+Hospital: Manipal Hospital

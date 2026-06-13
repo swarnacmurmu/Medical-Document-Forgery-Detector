@@ -1,0 +1,9 @@
+Patient Name: Vikram Nair
+Patient ID: P37853
+Admission Date: 2026-04-28
+Discharge Date: 2026-04-30
+Diagnosis: Dengue Fever
+Treatment: Sumatriptan as needed
+Total Amount: ₹28,563
+Insurance Claim ID: 44F6063B
+Hospital: Fortis Healthcare

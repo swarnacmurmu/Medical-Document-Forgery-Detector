@@ -1,0 +1,9 @@
+Patient Name: Pooja Gupta
+Patient ID: P70571
+Admission Date: 2026-03-23
+Discharge Date: 2026-03-30
+Diagnosis: Urinary Tract Infection
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹62,775
+Insurance Claim ID: F1CE2B09
+Hospital: AIIMS

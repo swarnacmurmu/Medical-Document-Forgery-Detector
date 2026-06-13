@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P90913
+Admission Date: 2026-06-11
+Discharge Date: 2026-06-09
+Diagnosis: Typhoid
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹514,338
+Insurance Claim ID: 38CDBD8D
+Hospital: Lilavati Hospital

@@ -1,0 +1,9 @@
+Patient Name: Manish Verma
+Patient ID: P65459
+Admission Date: 2026-05-05
+Discharge Date: 2026-05-06
+Diagnosis: Hypertension
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹188,629
+Insurance Claim ID: 8D5CF020
+Hospital: Apollo Hospital

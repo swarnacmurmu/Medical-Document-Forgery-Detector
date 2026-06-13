@@ -1,0 +1,9 @@
+Patient Name: Sunita Gupta
+Patient ID: P31861
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-17
+Diagnosis: Acute Gastroenteritis
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹197,166
+Insurance Claim ID: 15ED1CF9
+Hospital: Apollo Hospital

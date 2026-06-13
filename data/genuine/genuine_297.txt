@@ -1,0 +1,9 @@
+Patient Name: Pooja Nair
+Patient ID: P29999
+Admission Date: 2026-03-24
+Discharge Date: 2026-03-25
+Diagnosis: Migraine
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹86,161
+Insurance Claim ID: 877E7462
+Hospital: AIIMS

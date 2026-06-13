@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P18870
+Admission Date: 2026-04-13
+Discharge Date: 2026-04-11
+Diagnosis: Acute Gastroenteritis
+Treatment: Chest physiotherapy and oxygen
+Total Amount: ₹105,908
+Insurance Claim ID: 74513542
+Hospital: AIIMS

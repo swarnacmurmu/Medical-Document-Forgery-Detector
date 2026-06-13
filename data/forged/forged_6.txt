@@ -1,0 +1,9 @@
+Patient Name: Neha Joshi
+Patient ID: P61827
+Admission Date: 2026-05-03
+Discharge Date: 2026-05-02
+Diagnosis: Typhoid
+Treatment: Sumatriptan as needed
+Total Amount: ₹2,048,814
+Insurance Claim ID: F63A522B
+Hospital: AIIMS

@@ -1,0 +1,9 @@
+Patient Name: Rahul Singh
+Patient ID: P26737
+Admission Date: 2026-05-10
+Discharge Date: 2026-05-17
+Diagnosis: Typhoid
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹114,262
+Insurance Claim ID: ABE15A45
+Hospital: AIIMS

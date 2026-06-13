@@ -1,0 +1,9 @@
+Patient Name: Manish Patel
+Patient ID: P80537
+Admission Date: 2026-02-21
+Discharge Date: 2026-02-24
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹1,276,710
+Insurance Claim ID: 77464E60
+Hospital: Apollo Hospital

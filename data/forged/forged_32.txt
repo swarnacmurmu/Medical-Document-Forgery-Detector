@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P10731
+Admission Date: 2026-05-25
+Discharge Date: 2026-05-23
+Diagnosis: Pneumonia
+Treatment: Antibiotics for 5 days
+Total Amount: ₹1,435,888
+Insurance Claim ID: DB20E4D2
+Hospital: Apollo Hospital

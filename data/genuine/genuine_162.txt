@@ -1,0 +1,9 @@
+Patient Name: Priya Gupta
+Patient ID: P60372
+Admission Date: 2026-05-27
+Discharge Date: 2026-06-05
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹111,069
+Insurance Claim ID: F9F980C8
+Hospital: Fortis Healthcare

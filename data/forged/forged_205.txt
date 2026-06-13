@@ -1,0 +1,9 @@
+Patient Name: Amit Nair
+Patient ID: P21758
+Admission Date: 2026-05-12
+Discharge Date: 2026-05-19
+Diagnosis: Type 2 Diabetes
+Treatment: Rest and paracetamol
+Total Amount: ₹378,024
+Insurance Claim ID: CF41D2A8
+Hospital: Apollo Hospital

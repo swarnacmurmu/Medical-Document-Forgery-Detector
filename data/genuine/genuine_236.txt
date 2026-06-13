@@ -1,0 +1,9 @@
+Patient Name: Rahul Sharma
+Patient ID: P60717
+Admission Date: 2026-05-31
+Discharge Date: 2026-06-03
+Diagnosis: Type 2 Diabetes
+Treatment: Sumatriptan as needed
+Total Amount: ₹10,050
+Insurance Claim ID: 467A94CB
+Hospital: Lilavati Hospital

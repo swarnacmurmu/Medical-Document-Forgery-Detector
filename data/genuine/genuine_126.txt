@@ -1,0 +1,9 @@
+Patient Name: Amit Kumar
+Patient ID: P78658
+Admission Date: 2026-02-20
+Discharge Date: 2026-02-28
+Diagnosis: Pneumonia
+Treatment: Oseltamivir and supportive care
+Total Amount: ₹92,812
+Insurance Claim ID: 764EB2E7
+Hospital: Apollo Hospital

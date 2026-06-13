@@ -1,0 +1,9 @@
+Patient Name: Priya Kumar
+Patient ID: P63072
+Admission Date: 2026-04-20
+Discharge Date: 2026-04-22
+Diagnosis: Dengue Fever
+Treatment: Azithromycin course
+Total Amount: ₹60,425
+Insurance Claim ID: F0B2839A
+Hospital: Apollo Hospital

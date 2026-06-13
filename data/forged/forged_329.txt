@@ -1,0 +1,9 @@
+Patient Name: Sunita Reddy
+Patient ID: P10904
+Admission Date: 2026-05-07
+Discharge Date: 2026-05-05
+Diagnosis: Acute Gastroenteritis
+Treatment: Azithromycin course
+Total Amount: ₹170,603
+Insurance Claim ID: C7BDA458
+Hospital: Lilavati Hospital

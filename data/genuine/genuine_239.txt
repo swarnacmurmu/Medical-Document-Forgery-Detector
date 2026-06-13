@@ -1,0 +1,9 @@
+Patient Name: Anjali Verma
+Patient ID: P60982
+Admission Date: 2026-04-30
+Discharge Date: 2026-05-07
+Diagnosis: Pneumonia
+Treatment: Metformin 500mg twice daily
+Total Amount: ₹77,550
+Insurance Claim ID: 2B334B23
+Hospital: Apollo Hospital

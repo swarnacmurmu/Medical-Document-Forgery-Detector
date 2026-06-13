@@ -1,0 +1,9 @@
+Patient Name: Priya Patel
+Patient ID: P98108
+Admission Date: 2026-04-03
+Discharge Date: 2026-04-09
+Diagnosis: Urinary Tract Infection
+Treatment: Antibiotics for 5 days
+Total Amount: ₹114,860
+Insurance Claim ID: ECD7D418
+Hospital: AIIMS
